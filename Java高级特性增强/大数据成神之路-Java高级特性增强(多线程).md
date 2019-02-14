@@ -1,5 +1,3 @@
-# 大数据成神之路-Java高级特性增强(多线程)
-
 ### **Java高级特性增强-多线程**
 本部分网络上有大量的资源可以参考，在这里做了部分整理，感谢前辈的付出，每节文章末尾有引用列表，源码推荐看JDK1.8以后的版本，注意甄别~
 ####**多线程**
@@ -10,7 +8,7 @@
 
 * * *
 ## 多线程
-![89bf0392f832b459ed62efb31af4461e.jpeg](evernotecid://DF961740-2AB0-48AB-AAE7-53BB9D286C7A/appyinxiangcom/12131181/ENResource/p1050)
+![89bf0392f832b459ed62efb31af4461e](大数据成神之路-Java高级特性增强(多线程).resources/F18CB21B-41D4-4D8D-890D-4B632F69F96A.jpg)
 参考资料列表：
 java并发编程指南
 **https://blog.csdn.net/qq_34337272/column/info/20860**
@@ -154,7 +152,7 @@ class RunnableThread implements Runnable
 调用 #resume() 方法，就可以恢复。
 
 见下图：
-![5eeec5f68f4fc412246efd4111d6fdec.png](evernotecid://DF961740-2AB0-48AB-AAE7-53BB9D286C7A/appyinxiangcom/12131181/ENResource/p1094)
+![5eeec5f68f4fc412246efd4111d6fdec](大数据成神之路-Java高级特性增强(多线程).resources/6AC11272-0DE3-44D7-9533-2647D0A652BF.png)
 
 ##### 线程的优先级
 每个线程都具有各自的优先级，线程的优先级可以在程序中表明该线程的重要性，如果有很多线程处于就绪状态，系统会根据优先级来决定首先使哪个线程进入运行状态。但这个并不意味着低。
