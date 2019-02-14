@@ -7,12 +7,7 @@
 
 * * *
 ## Synchronized关键字
-参考文章目录：
-感谢各位大大的劳动成果~深表敬意~
-https://blog.csdn.net/qq_34337272/article/details/79655194
-https://blog.csdn.net/qq_34337272/article/details/79670775
-https://www.jianshu.com/p/d53bf830fa09
-https://www.jianshu.com/p/c5058b6fe8e5
+
 * * *
 
 #### 简介
@@ -234,4 +229,12 @@ CAS的应用场景
 使用CAS时非阻塞同步，也就是说不会将线程挂起，会自旋（无非就是一个死循环）进行下一次尝试，如果这里自旋时间过长对性能是很大的消耗。如果JVM能支持处理器提供的pause指令，那么在效率上会有一定的提升。
 3. 只能保证一个共享变量的原子操作
 当对一个共享变量执行操作时CAS能保证其原子性，如果对多个共享变量进行操作,CAS就不能保证其原子性。有一个解决方案是利用对象整合多个共享变量，即一个类中的成员变量就是这几个共享变量。然后将这个对象做CAS操作就可以保证其原子性。atomic中提供了AtomicReference来保证引用对象之间的原子性。
+
+
+参考文章目录：
+感谢各位大大的劳动成果~深表敬意~
+https://blog.csdn.net/qq_34337272/article/details/79655194
+https://blog.csdn.net/qq_34337272/article/details/79670775
+https://www.jianshu.com/p/d53bf830fa09
+https://www.jianshu.com/p/c5058b6fe8e5
 
