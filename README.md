@@ -73,7 +73,7 @@
 
  ### 公众号
  文章会在公众号**大数据技术与架构**或者搜索**import_bigdata**关注首发更新，然后同步到Github，专注Java进阶，专注大数据，专注面试的小小架构师一枚，期待您的光临~
- 
+ ![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
  
  
  
