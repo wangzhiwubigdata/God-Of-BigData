@@ -93,7 +93,6 @@ final ReentrantLock lock;
 private final Condition notEmpty;
 private final Condition notFull;
 ```
-简单对Condition和Lock的用法进行说明，更多内容请参考“Java多线程系列--“JUC锁”06之 Condition条件”。
 Lock的作用是提供独占锁机制，来保护竞争资源；而Condition是为了更加精细的对锁进行控制，它依赖于Lock，通过某个条件对多线程进行控制。
 notEmpty表示“锁的非空条件”。当某线程想从队列中取数据时，而此时又没有数据，则该线程通过notEmpty.await()进行等待；当其它线程向队列中插入了元素之后，就调用notEmpty.signal()唤醒“之前通过notEmpty.await()进入等待状态的线程”。
 同理，notFull表示“锁的满条件”。当某线程想向队列中插入元素，而此时队列已满时，该线程等待；当其它线程从队列中取出元素之后，就唤醒该等待的线程。
