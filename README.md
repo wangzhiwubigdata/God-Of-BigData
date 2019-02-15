@@ -41,7 +41,17 @@
  * [大数据成神之路-Java高级特性增强(ArrayBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ArrayBlockingQueue).md)
 
 #### [JVM深度解析和面试点]
-
+   ##### 先来10篇基础热身
+   * [JVM内存结构]()
+   * []()
+   * []()
+   * []()
+   * []()
+   * []()
+   * []()
+   * []()
+   * []()
+   * []()
 * [分布式理论基础和原理]
 
 * [分布式理论基础-Zookeeper的Paxos一致性算法]
