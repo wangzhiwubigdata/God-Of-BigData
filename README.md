@@ -3,9 +3,9 @@
 
 ## 目录
 
-### [大数据成神之路]
+### 大数据成神之路
 
-#### [Java高级特性增强(多线程,并发,集合等)] 
+#### Java高级特性增强(多线程,并发,集合等)
  * [大数据成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
  * [大数据成神之路-Java高级特性增强(Synchronized关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(Synchronized%E5%85%B3%E9%94%AE%E5%AD%97).md)
  * [大数据成神之路-Java高级特性增强(volatile关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(volatile%E5%85%B3%E9%94%AE%E5%AD%97).md)
@@ -36,7 +36,7 @@
  * [大数据成神之路-Java高级特性增强(ConcurrentHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentHashMap).md)
  * [大数据成神之路-Java高级特性增强(ArrayBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ArrayBlockingQueue).md)
 
-#### [JVM深度解析和面试点]
+#### JVM深度解析和面试点
    ##### 先来10篇基础热身
    * [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
    * [HotSpot虚拟机对象探秘](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AF%B9%E8%B1%A1%E6%8E%A2%E7%A7%98.md)
