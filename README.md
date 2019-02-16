@@ -2,9 +2,10 @@
 <div align="center">  
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E6%88%90%E7%A5%9Elogo.jpeg" width=""/>
 </br>
-预计更新500+篇文章，已经更新40+篇~ </br>
-关注**import_bigdata**公众号，关注更多大数据技术~
 
+预计更新500+篇文章，已经更新40+篇~ </br>
+[公众号](#公众号)
+关注**import_bigdata**公众号，关注更多大数据技术~
 </div>
 
 ## 大数据成神之路目录
