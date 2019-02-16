@@ -110,7 +110,6 @@
 欢迎关注公众号‘大数据技术与架构’或者搜索import_bigdata关注~
 
 ## 公众号
-<span id="公众号QR">公众号QR</span>
 公众号**大数据技术与架构**或者搜索**import_bigdata**关注
 
  ![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
