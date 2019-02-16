@@ -90,28 +90,41 @@ Full GC回收日志:
 
 通过两张图非常明显看出gc日志构成：
 
-Young GC日志:![c36e0c077a8a03f4d729eb2e8186edd9](jvm系列(五)Java GC 分析.resources/253C4E10-C025-406F-BCEC-360BD0B901AC.png)
+Young GC日志:
+![c36e0c077a8a03f4d729eb2e8186edd9](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/253C4E10-C025-406F-BCEC-360BD0B901AC.png)
 
-Full GC日志:![0d9fd6320ad97f3b5a08d1d8c836eae9](jvm系列(五)Java GC 分析.resources/E41583CF-6306-4B8F-95D7-396A3B91FBB1.png)
+Full GC日志:
+![0d9fd6320ad97f3b5a08d1d8c836eae9](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/E41583CF-6306-4B8F-95D7-396A3B91FBB1.png)
 
 ## GC分析工具
 
 GChisto
 GChisto是一款专业分析gc日志的工具，可以通过gc日志来分析：Minor GC、full gc的时间、频率等等，通过列表、报表、图表等不同的形式来反应gc的情况。虽然界面略显粗糙，但是功能还是不错的。
 配置好本地的jdk环境之后，双击GChisto.jar,在弹出的输入框中点击 add 选择gc.log日志
-![49bfdc6b55d3cc7253ae9576a79741a6](jvm系列(五)Java GC 分析.resources/3BC499FA-2D44-4448-9720-AA4734BA2290.jpg)
-GC Pause Stats:可以查看GC 的次数、GC的时间、GC的开销、最大GC时间和最小GC时间等，以及相应的柱状图![65715c620529c3ecddba96af22e92486](jvm系列(五)Java GC 分析.resources/175F8410-B0BD-4288-A2C2-5C35AF57F933.jpg)
+
+![49bfdc6b55d3cc7253ae9576a79741a6](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/3BC499FA-2D44-4448-9720-AA4734BA2290.jpg)
+
+GC Pause Stats:可以查看GC 的次数、GC的时间、GC的开销、最大GC时间和最小GC时间等，以及相应的柱状图
+
+![65715c620529c3ecddba96af22e92486](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/175F8410-B0BD-4288-A2C2-5C35AF57F933.jpg)
+
 GC Pause Distribution:查看GC停顿的详细分布，x轴表示垃圾收集停顿时间，y轴表示是停顿次数。
 GC Timeline：显示整个时间线上的垃圾收集
+
 ![a9d2e4bc3d5ad85ad0f62005cd68b59b](jvm系列(五)Java GC 分析.resources/AE9DCFB3-730C-4431-964A-6C54DDE8DCC0.jpg)
+
 不过这款工具已经不再维护
 GC Easy
 这是一个web工具,在线使用非常方便.
 地址: http://gceasy.io
 进入官网，讲打包好的zip或者gz为后缀的压缩包上传，过一会就会拿到分析结果。
+
 ![1c6eb44cfe99bf177388df9a2fc8f97d.png](evernotecid://DF961740-2AB0-48AB-AAE7-53BB9D286C7A/appyinxiangcom/12131181/ENNote/p266?hash=1c6eb44cfe99bf177388df9a2fc8f97d)
+
 推荐使用此工具进行gc分析。
-![92ee2b2bea94d0ab7d5560cbb78bb8a2.png](evernotecid://DF961740-2AB0-48AB-AAE7-53BB9D286C7A/appyinxiangcom/12131181/ENNote/p266?hash=92ee2b2bea94d0ab7d5560cbb78bb8a2)
+
+![92ee2b2bea94d0ab7d5560cbb78bb8a2.png]()
+
 
 
 
