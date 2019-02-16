@@ -91,7 +91,7 @@ Full GC回收日志:
 通过两张图非常明显看出gc日志构成：
 
 Young GC日志:
-![c36e0c077a8a03f4d729eb2e8186edd9](jvm系列(五)Java GC 分析.resources/253C4E10-C025-406F-BCEC-360BD0B901AC.png)
+![c36e0c077a8a03f4d729eb2e8186edd9](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/253C4E10-C025-406F-BCEC-360BD0B901AC.png)
 
 Full GC日志:
 ![0d9fd6320ad97f3b5a08d1d8c836eae9](jvm系列(五)Java GC 分析.resources/E41583CF-6306-4B8F-95D7-396A3B91FBB1.png)
