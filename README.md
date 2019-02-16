@@ -1,9 +1,9 @@
 <div align="center">  
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E6%88%90%E7%A5%9Elogo.jpeg" width=""/>
 </br>
-目录如下(预计更新500+篇文章，已经更新40+篇)
+目录如下(预计更新500+篇文章，已经更新40+篇) 关注 [公众号](#公众号)
 </br>
-关注 [公众号](#公众号)
+
 
 </div>
 
