@@ -94,7 +94,7 @@ Young GC日志:
 ![c36e0c077a8a03f4d729eb2e8186edd9](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/253C4E10-C025-406F-BCEC-360BD0B901AC.png)
 
 Full GC日志:
-![0d9fd6320ad97f3b5a08d1d8c836eae9](jvm系列(五)Java GC 分析.resources/E41583CF-6306-4B8F-95D7-396A3B91FBB1.png)
+![0d9fd6320ad97f3b5a08d1d8c836eae9](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/E41583CF-6306-4B8F-95D7-396A3B91FBB1.png)
 
 ## GC分析工具
 
@@ -102,7 +102,7 @@ GChisto
 GChisto是一款专业分析gc日志的工具，可以通过gc日志来分析：Minor GC、full gc的时间、频率等等，通过列表、报表、图表等不同的形式来反应gc的情况。虽然界面略显粗糙，但是功能还是不错的。
 配置好本地的jdk环境之后，双击GChisto.jar,在弹出的输入框中点击 add 选择gc.log日志
 
-![49bfdc6b55d3cc7253ae9576a79741a6](jvm系列(五)Java GC 分析.resources/3BC499FA-2D44-4448-9720-AA4734BA2290.jpg)
+![49bfdc6b55d3cc7253ae9576a79741a6](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/3BC499FA-2D44-4448-9720-AA4734BA2290.jpg)
 
 GC Pause Stats:可以查看GC 的次数、GC的时间、GC的开销、最大GC时间和最小GC时间等，以及相应的柱状图
 
