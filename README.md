@@ -42,55 +42,57 @@
 
 #### [JVM深度解析和面试点]
    ##### 先来10篇基础热身
-   * [JVM内存结构]()
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
-* [分布式理论基础和原理]
+   * [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
+   * [HotSpot虚拟机对象探秘](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AF%B9%E8%B1%A1%E6%8E%A2%E7%A7%98.md)
+   * [垃圾收集策略与算法](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AF%B9%E8%B1%A1%E6%8E%A2%E7%A7%98.md)
+   * [HotSpot垃圾收集器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8.md)
+   * [内存分配与回收策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E4%B8%8E%E5%9B%9E%E6%94%B6%E7%AD%96%E7%95%A5.md)
+   * [JVM性能调优](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/JVM%20%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
+   * [类文件结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
+   * [类加载的时机](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E7%9A%84%E6%97%B6%E6%9C%BA.md)
+   * [类加载的过程](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E7%9A%84%E8%BF%87%E7%A8%8B.md)
+   * [类加载器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8.md)
+   
 
-* [分布式理论基础-Zookeeper的Paxos一致性算法]
+#### [分布式理论基础和原理]
 
-* [大数据框架开发基础-NIO和RPC]
+#### [分布式理论基础-Zookeeper的Paxos一致性算法]
 
-* [大数据框架基石之网路通信-Netty]
+#### [大数据框架开发基础-NIO和RPC]
 
-* [Hadoop三驾马车之Mapreduce]
+#### [大数据框架基石之网路通信-Netty]
 
-* [Hadoop三驾马车之HDFS]
+#### [Hadoop三驾马车之Mapreduce]
 
-* [Hadoop三驾马车之Yarn]
+#### [Hadoop三驾马车之HDFS]
 
-* [OLAP引擎-HiveSQL的高级调优和原理分析]
+#### [Hadoop三驾马车之Yarn]
 
-* [离线列式大数据存储-Hbase的原理和亿级数据下的生产应用]
+#### [OLAP引擎-HiveSQL的高级调优和原理分析]
 
-* [Nosql之王-Redis高级特性和实现原理]
+#### [离线列式大数据存储-Hbase的原理和亿级数据下的生产应用]
 
-* [分布式消息队列Kafka原理及与流式计算的集成]
+#### [Nosql之王-Redis高级特性和实现原理]
 
-* [Spark的原理和生产应用(一)]
+#### [分布式消息队列Kafka原理及与流式计算的集成]
 
-* [Spark的原理和生产应用(二)]
+#### [Spark的原理和生产应用(一)]
 
-* [Spark的原理和生产应用(三)]
+#### [Spark的原理和生产应用(二)]
 
-* [Flink当前最火的实时计算引擎(一)]
+#### [Spark的原理和生产应用(三)]
 
-* [Flink当前最火的实时计算引擎(二)]
+#### [Flink当前最火的实时计算引擎(一)]
 
-* [Flink当前最火的实时计算引擎(三)]
+#### [Flink当前最火的实时计算引擎(二)]
 
-* [大数据算法(一)]
+#### [Flink当前最火的实时计算引擎(三)]
 
-* [大数据算法(二)]
+#### [大数据算法(一)]
 
- 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
+#### [大数据算法(二)]
+
+本系列的大纲会根据实际情况进行调整，欢迎大家关注~
  
 
  ### 公众号
