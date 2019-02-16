@@ -1,5 +1,5 @@
 # 大数据成神之路
-大数据成神之路 该系列文章将为希望从事大数据开发或者由后端转型为大数据开发的工程师们指出需要学习的知识点和路径，本系列文章同时致敬我曾经在网络上看到无数个Java和大数据系列文章，深受启发同时也收货很多。
+**大数据成神之路** 该系列文章将为希望从事大数据开发或者由后端转型为大数据开发的工程师们指出需要学习的知识点和路径，本系列文章同时致敬我曾经在网络上看到无数个Java和大数据系列文章，深受启发同时也收货很多。
 
 本系列文章引用了很多或者二次总结了各位前辈的文章，每篇文章后面都给出了引用，本着不重复造轮子的原则，本人会对其中的一些错误进行订正，感谢各位前辈的付出~
 
@@ -52,7 +52,12 @@
    * [类加载的时机](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E7%9A%84%E6%97%B6%E6%9C%BA.md)
    * [类加载的过程](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E7%9A%84%E8%BF%87%E7%A8%8B.md)
    * [类加载器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8.md)
-   
+   ##### 再来5篇详细解说
+   * [java类的加载机制](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%B8%80)java%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
+   * [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%8C)JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
+   * [GC算法 垃圾收集器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%B8%89)GC%E7%AE%97%E6%B3%95%20%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8.md)
+   * [jvm调优-命令大全](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E5%9B%9B)jvm%E8%B0%83%E4%BC%98-%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8%EF%BC%88jps%20jstat%20jmap%20jhat%20jstack%20jinfo%EF%BC%89.md)
+   * [Java GC 分析](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.md)
 
 #### [分布式理论基础和原理]
 
