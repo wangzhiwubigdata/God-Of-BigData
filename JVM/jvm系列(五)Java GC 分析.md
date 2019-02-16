@@ -123,7 +123,7 @@ GC Easy
 
 推荐使用此工具进行gc分析。
 
-![92ee2b2bea94d0ab7d5560cbb78bb8a2.png]()
+![92ee2b2bea94d0ab7d5560cbb78bb8a2.png](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/1550316713780.jpg)
 
 
 
