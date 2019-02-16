@@ -2,7 +2,7 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E6%88%90%E7%A5%9Elogo.jpeg" width=""/>
 </br>
 预计更新500+篇文章，已经更新40+篇~ </br>
-关注 [公众号](##公众号)
+关注 [我的公众号](#我的公众号)
 
 </div>
 
@@ -109,7 +109,7 @@
 
 欢迎关注公众号‘大数据技术与架构’或者搜索import_bigdata关注~
 
-## 公众号
+## 我的公众号
 公众号**大数据技术与架构**或者搜索**import_bigdata**关注
 
  ![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
