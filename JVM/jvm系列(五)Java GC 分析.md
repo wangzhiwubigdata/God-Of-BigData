@@ -111,7 +111,7 @@ GC Pause Stats:可以查看GC 的次数、GC的时间、GC的开销、最大GC�
 GC Pause Distribution:查看GC停顿的详细分布，x轴表示垃圾收集停顿时间，y轴表示是停顿次数。
 GC Timeline：显示整个时间线上的垃圾收集
 
-![a9d2e4bc3d5ad85ad0f62005cd68b59b](jvm系列(五)Java GC 分析.resources/AE9DCFB3-730C-4431-964A-6C54DDE8DCC0.jpg)
+![a9d2e4bc3d5ad85ad0f62005cd68b59b](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/1550316713780.jpg)
 
 不过这款工具已经不再维护
 GC Easy
@@ -119,7 +119,7 @@ GC Easy
 地址: http://gceasy.io
 进入官网，讲打包好的zip或者gz为后缀的压缩包上传，过一会就会拿到分析结果。
 
-![1c6eb44cfe99bf177388df9a2fc8f97d.png](evernotecid://DF961740-2AB0-48AB-AAE7-53BB9D286C7A/appyinxiangcom/12131181/ENNote/p266?hash=1c6eb44cfe99bf177388df9a2fc8f97d)
+![1c6eb44cfe99bf177388df9a2fc8f97d.png](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/1550316679385.jpg)
 
 推荐使用此工具进行gc分析。
 
