@@ -3,10 +3,10 @@
 </br>
 目录如下(预计更新500+篇文章，已经更新40+篇)
 </br>
-关注公众号 [公众号](#公众号)
+关注公众号[公众号](#公众号)
 </div>
 
-### 大数据成神之路 目录
+### 大数据成神之路目录
 
 #### Java高级特性增强(多线程,并发,集合等)
  * [大数据成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
@@ -109,7 +109,7 @@
 
 欢迎关注公众号‘大数据技术与架构’或者搜索import_bigdata关注~
 
- ### 公众号
+### 公众号
  文章会在公众号**大数据技术与架构**或者搜索**import_bigdata**关注更新，然后同步到Github，专注Java进阶，专注大数据，专注面试的大数据公众号
  扫描下方二维码或者通过微信的搜一搜搜索**import_bigdata**即可。
  
