@@ -106,7 +106,7 @@ GChisto是一款专业分析gc日志的工具，可以通过gc日志来分析：
 
 GC Pause Stats:可以查看GC 的次数、GC的时间、GC的开销、最大GC时间和最小GC时间等，以及相应的柱状图
 
-![65715c620529c3ecddba96af22e92486](jvm系列(五)Java GC 分析.resources/175F8410-B0BD-4288-A2C2-5C35AF57F933.jpg)
+![65715c620529c3ecddba96af22e92486](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.resources/175F8410-B0BD-4288-A2C2-5C35AF57F933.jpg)
 
 GC Pause Distribution:查看GC停顿的详细分布，x轴表示垃圾收集停顿时间，y轴表示是停顿次数。
 GC Timeline：显示整个时间线上的垃圾收集
@@ -123,7 +123,7 @@ GC Easy
 
 推荐使用此工具进行gc分析。
 
-![92ee2b2bea94d0ab7d5560cbb78bb8a2.png](evernotecid://DF961740-2AB0-48AB-AAE7-53BB9D286C7A/appyinxiangcom/12131181/ENNote/p266?hash=92ee2b2bea94d0ab7d5560cbb78bb8a2)
+![92ee2b2bea94d0ab7d5560cbb78bb8a2.png]()
 
 
 
