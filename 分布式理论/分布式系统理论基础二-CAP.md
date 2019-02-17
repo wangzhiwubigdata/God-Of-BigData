@@ -55,6 +55,8 @@ CAP理论对实现分布式系统具有指导意义，但CAP理论并没有涵�
 CAP理论对分布式系统实现有非常重大的影响，我们可以根据自身的业务特点，在数据一致性和服务可用性之间作出倾向性地选择。通过放松约束条件，我们可以实现在不同时间点满足CAP(此CAP非CAP定理中的CAP，如C替换为最终一致性)。
  
 有非常非常多文章讨论和研究CAP理论，希望这篇对你认识和了解CAP理论有帮助。
+
+
  
 [1] Harvest, Yield, and Scalable Tolerant Systems, Armando Fox , Eric Brewer, 1999
 [2] Towards Robust Distributed Systems, Eric Brewer, 2000
