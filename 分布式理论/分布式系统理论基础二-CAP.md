@@ -59,22 +59,41 @@ CAP理论对分布式系统实现有非常重大的影响，我们可以根据�
 
  
 [1] Harvest, Yield, and Scalable Tolerant Systems, Armando Fox , Eric Brewer, 1999
+
 [2] Towards Robust Distributed Systems, Eric Brewer, 2000
+
 [3] Inktomi's wild ride - A personal view of the Internet bubble, Eric Brewer, 2004
+
 [4] Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web, Seth Gilbert, Nancy Lynch, 2002
+
 [5] Linearizability: A Correctness Condition for Concurrent Objects, Maurice P. Herlihy,Jeannette M. Wing, 1990
+
 [6] Brewer's CAP Theorem - The kool aid Amazon and Ebay have been drinking, Julian Browne, 2009
+
 [7] CAP Theorem between Claims and Misunderstandings: What is to be Sacrificed?, Balla Wade Diack,Samba Ndiaye,Yahya Slimani, 2013
+
 [8] Errors in Database Systems, Eventual Consistency, and the CAP Theorem, Michael Stonebraker, 2010
+
 [9] CAP Confusion: Problems with 'partition tolerance', Henry Robinson, 2010
+
 [10] You Can’t Sacrifice Partition Tolerance, Coda Hale, 2010
+
 [11] Perspectives on the CAP Theorem, Seth Gilbert, Nancy Lynch, 2012
+
 [12] CAP Twelve Years Later: How the "Rules" Have Changed, Eric Brewer, 2012
+
 [13] How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs, Lamport Leslie, 1979
+
 [14] Eventual Consistent Databases: State of the Art, Mawahib Elbushra , Jan Lindström, 2014
+
 [15] Eventually Consistent, Werner Vogels, 2008
+
 [16] Speed Matters for Google Web Search, Jake Brutlag, 2009
+
 [17] Consistency Tradeoffs in Modern Distributed Database System Design, Daniel J. Abadi, 2012
+
 [18] A CAP Solution (Proving Brewer Wrong), Guy's blog, 2008
+
 [19] How to beat the CAP theorem, nathanmarz , 2011
+
 [20] The CAP FAQ, Henry Robinson
