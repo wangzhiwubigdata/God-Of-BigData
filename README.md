@@ -59,7 +59,16 @@
    * [jvm调优-命令大全](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E5%9B%9B)jvm%E8%B0%83%E4%BC%98-%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8%EF%BC%88jps%20jstat%20jmap%20jhat%20jstack%20jinfo%EF%BC%89.md)
    * [Java GC 分析](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.md)
 
-### [分布式理论基础和原理]
+### 分布式理论基础和原理
+   * [分布式系统的一些基本概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+   * [分布式系统理论基础一： 一致性、2PC和3PC](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%B8%80%EF%BC%9A%20%E4%B8%80%E8%87%B4%E6%80%A7%E3%80%812PC%E5%92%8C3PC.md)
+   * [分布式系统理论基础二-CAP](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%BA%8C-CAP.md)
+   * [分布式系统理论基础三-时间、时钟和事件顺序](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%B8%89-%E6%97%B6%E9%97%B4%E3%80%81%E6%97%B6%E9%92%9F%E5%92%8C%E4%BA%8B%E4%BB%B6%E9%A1%BA%E5%BA%8F.md)
+   * [分布式系统理论进阶 - Paxos](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%20-%20Paxos.md)
+   * [分布式系统理论进阶 - Raft、Zab](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%20-%20Raft%E3%80%81Zab.md)
+   * [分布式系统理论进阶：选举、多数派和租约](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%EF%BC%9A%E9%80%89%E4%B8%BE%E3%80%81%E5%A4%9A%E6%95%B0%E6%B4%BE%E5%92%8C%E7%A7%9F%E7%BA%A6.md)
+
+   
 ### [分布式理论基础-Zookeeper的Paxos一致性算法]
 ### [大数据框架开发基础-NIO和RPC]
 ### [大数据框架基石之网路通信-Netty]
