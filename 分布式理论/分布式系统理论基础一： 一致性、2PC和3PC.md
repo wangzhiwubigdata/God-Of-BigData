@@ -6,7 +6,9 @@ What is a distributed systeme. Distribution is in the eye of the beholder.To th
  
 ## 一致性(consensus)
 何为一致性问题？简单而言，一致性问题就是相互独立的节点之间如何达成一项决议的问题。分布式系统中，进行数据库事务提交(commit transaction)、Leader选举、序列号生成等都会遇到一致性问题。这个问题在我们的日常生活中也很常见，比如牌友怎么商定几点在哪打几圈麻将：
+
 ![49beb96b5111cd9dcbefaf4ab798d91a](分布式系统理论基础一： 一致性、2PC和3PC.resources/5AF77420-6312-4886-854A-D41314926E9A.jpg)
+
 假设一个具有N个节点的分布式系统，当其满足以下条件时，我们说这个系统满足一致性：
 
 * 全认同(agreement): 所有N个节点都认同一个结果
@@ -29,9 +31,12 @@ What is a distributed systeme. Distribution is in the eye of the beholder.To th
 
 ![186e937c56c7de1117a88f1438099e4f](分布式系统理论基础一： 一致性、2PC和3PC.resources/870AB25D-37EE-4196-8CDC-C7613073D873.png)
 
-还能不能一起愉快地玩耍...![f4b7c49208ff8ec158554c51dc1f9a13](分布式系统理论基础一： 一致性、2PC和3PC.resources/8F6B5592-7AAD-4420-AAC1-99F7349290A6.png)
 
- 
+还能不能一起愉快地玩耍...
+
+![f4b7c49208ff8ec158554c51dc1f9a13](分布式系统理论基础一： 一致性、2PC和3PC.resources/8F6B5592-7AAD-4420-AAC1-99F7349290A6.png)
+
+
 我们把以上所列的问题称为系统模型(system model)，讨论分布式系统理论和工程实践的时候，必先划定模型。例如有以下两种模型：
 
 异步环境(asynchronous)下，节点宕机(fail-stop)
@@ -45,16 +50,22 @@ What is a distributed systeme. Distribution is in the eye of the beholder.To th
  
 
 FLP定理是分布式系统理论中的基础理论，正如物理学中的能量守恒定律彻底否定了永动机的存在，FLP定理否定了同时满足safety 和 liveness 的一致性协议的存在。
+
 ![dd7e03e4a4ffda311a2f15eca145b9af](分布式系统理论基础一： 一致性、2PC和3PC.resources/5EBBC088-8A3F-426D-A3CD-C1AD3A7C2EBC.jpg)
+
 
 工程实践上根据具体的业务场景，或保证强一致(safety)，或在节点宕机、网络分化的时候保证可用(liveness)。2PC、3PC是相对简单的解决一致性问题的协议，下面我们就来了解2PC和3PC。
  
 ### 2PC
 2PC(tow phase commit)两阶段提交[5]顾名思义它分成两个阶段，先由一方进行提议(propose)并收集其他节点的反馈(vote)，再根据反馈决定提交(commit)或中止(abort)事务。我们将提议的节点称为协调者(coordinator)，其他参与决议节点称为参与者(participants, 或cohorts)：
+
 ![12556459703348236c4cd428ee27e8d5](分布式系统理论基础一： 一致性、2PC和3PC.resources/54705356-87B1-45ED-A7CA-03E10323A7AC.png)
+
 2PC, phase one
 在阶段1中，coordinator发起一个提议，分别问询各participant是否接受。
+
 ![7d403dbae287e32fffe6383e225e24fc](分布式系统理论基础一： 一致性、2PC和3PC.resources/51DF40A2-A55D-4D75-9534-EEE633BB25CB.png)
+
 2PC, phase two
 在阶段2中，coordinator根据participant的反馈，提交或中止事务，如果participant全部同意则提交，只要有一个participant不同意就中止。
  
@@ -75,6 +86,7 @@ coordinator如果在发起提议后宕机，那么participant将进入阻塞(blo
 当次决议中，participant间能不能相互知道对方的状态，又或者participant间根本不依赖对方的状态
 
 ![f2f443bf6560482a3a4dd3eeb002bedb](分布式系统理论基础一： 一致性、2PC和3PC.resources/81875376-AFEA-4A0C-9770-958FEFD27509.png)
+
 图片截取自wikipediacoordinator
 接收完participant的反馈(vote)之后，进入阶段2，给各个participant发送准备提交(prepare to commit)指令。participant接到准备提交指令后可以锁资源，但要求相关操作必须可回滚。coordinator接收完确认(ACK)后进入阶段3、进行commit/abort，3PC的阶段3与2PC的阶段2无异。协调者备份(coordinator watchdog)、状态记录(logging)同样应用在3PC。
  
