@@ -1,6 +1,6 @@
 
 <div align="center">  
-<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E6%88%90%E7%A5%9Elogo.jpeg" width=""/>
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
 预计更新500+篇文章，已经更新40+篇~ </br>
@@ -67,7 +67,9 @@
    * [分布式系统理论进阶 - Paxos](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%20-%20Paxos.md)
    * [分布式系统理论进阶 - Raft、Zab](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%20-%20Raft%E3%80%81Zab.md)
    * [分布式系统理论进阶：选举、多数派和租约](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E8%BF%9B%E9%98%B6%EF%BC%9A%E9%80%89%E4%B8%BE%E3%80%81%E5%A4%9A%E6%95%B0%E6%B4%BE%E5%92%8C%E7%A7%9F%E7%BA%A6.md)
-
+   * []()
+   * []()
+   * []()
    
 ### [分布式理论基础-Zookeeper的Paxos一致性算法]
 ### [大数据框架开发基础-NIO和RPC]
