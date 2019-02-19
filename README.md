@@ -72,7 +72,6 @@
    * [分布式事务的解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
    * [分布式ID生成器解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8FID%E7%94%9F%E6%88%90%E5%99%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
    
-### [分布式理论基础-Zookeeper的Paxos一致性算法]
 ### [大数据框架开发基础-NIO和RPC]
 ### [大数据框架基石之网路通信-Netty]
 ### [Hadoop三驾马车之Mapreduce]
