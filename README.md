@@ -3,7 +3,7 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
-预计更新500+篇文章，已经更新40+篇~ </br>
+预计更新500+篇文章，已经更新50+篇~ </br>
 关注[公众号](#公众号),内推,面试,资源下载,关注更多大数据技术~
 </div>
 
