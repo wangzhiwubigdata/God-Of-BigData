@@ -4,6 +4,7 @@
 我们可以把Zookeeper理解为一个高可用的文件系统。但是它没有文件和文件夹的概念，只有一个叫做znode的节点概念。那么znode即是数据的容器，也是其他节点的容器。（其实znode就可以理解为文件或者是文件夹）我们用父节点和子节点的关系来表示组和成员的关系。那么一个节点代表一个组，组节点下的子节点代表组内的成员.
 如下图所示：
 
+![zk](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/859b65a6868f6b56eadd77a226db5e03.jpeg)
 
 ## 创建组
 
