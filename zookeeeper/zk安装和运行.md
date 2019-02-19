@@ -2,7 +2,9 @@
 
 > 本文由holynull发表在了gitbook上
 > 大家可以点击这里获取更好的阅读体验: https://holynull.gitbooks.io/zookeeper/content/chapter1.html
+
 > zk目前更新到了3.x版本，官网在这里：https://zookeeper.apache.org/doc/current/zookeeperStarted.html
+
 另外推荐文章：
 http://www.importnew.com/23237.html
 
