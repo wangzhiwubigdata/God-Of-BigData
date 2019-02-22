@@ -14,9 +14,16 @@
 | :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |
 | [Java基础](#Java基础) | [NIO](#NIO基础) | [并发容器](#Java并发容器) |[JVM](#JVM深度解析和面试点) |[分布式](#分布式理论基础和原理) |[zookeeper](#大数据框架开发基础-zookeeper)|[RPC](#大数据框架开发基础-RPC)|[Netty](#大数据框架基石之网路通信-Netty)
 
-### Hadoop从入门到放弃
+### Hadoop从入门到放弃(精彩马上开始~)
 
 
+# 扫我关注公众号： #
+
+关注公众号：每天定时推送最新的**大数据干货**技术文章~
+
+![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
+ 
+# 扫我加群： #
 
 
 ### Java基础
