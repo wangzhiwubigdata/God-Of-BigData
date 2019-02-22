@@ -3,7 +3,7 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
-预计更新500+篇文章，已经更新60+篇~ </br>
+已经更新60+篇~ </br>
 关注[公众号](#公众号),BAT大神带你飞~
 </div>
 
@@ -17,13 +17,13 @@
 
 # 扫我关注公众号： #
 
-关注公众号：每天定时推送最新的**大数据干货**技术文章~
+关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章~
 
 ![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
  
  
-# 扫我加群： #
- 备注**加群**，小助手拉你进大数据讨论组，一起学习交流，期待你的到来~
+# 扫我加群：  #
+ 备注**加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
 
  ![小助手微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
 
