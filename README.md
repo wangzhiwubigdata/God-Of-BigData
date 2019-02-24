@@ -10,16 +10,15 @@
 ## 大数据成神之路目录
 
 ### 大数据开发基础
-| :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|
-| :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |
-| [Java基础](#Java基础) | [NIO](#NIO基础) | [并发容器](#Java并发容器) |[JVM](#JVM深度解析和面试点) |[分布式](#分布式理论基础和原理) |[zookeeper](#大数据框架开发基础-zookeeper)|[RPC](#大数据框架开发基础-RPC)|[Netty](#大数据框架基石之网路通信-Netty)
-
+| :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
+| :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------:|
+| [Java基础](#Java基础) | [NIO](#NIO基础) | [并发容器](#Java并发容器) |[JVM](#JVM深度解析和面试点) |[分布式](#分布式理论基础和原理) |[zookeeper](#大数据框架开发基础-zookeeper)|[RPC](#大数据框架开发基础-RPC)|[Netty](#大数据框架基石之网路通信-Netty)|[Linux](/Linux基础/Linux基础和命令.md)|
 
 # 扫我关注公众号： #
 
-关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章~
+关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
 
-![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
+![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logos/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F%E5%9B%BE.png)
  
  
 # 扫我加群：  #
