@@ -5,7 +5,7 @@
 # 大纲
 
 **入门篇：**
-![8bf609799f0f1265e71fa5bd0d498c45](Flink从入门到放弃(入门篇1)-Flink是什么？.resources/图片 1.png)
+![8bf609799f0f1265e71fa5bd0d498c45](Flink从入门到放弃(入门篇1)-Flink是什么？.resources/1.png)
 
 **放弃篇：**
 ![563c79efb6518f991c732f1d95f97a62](Flink从入门到放弃(入门篇1)-Flink是什么？.resources/A44BE2B6-FBC9-4143-9743-F097B9C0FDD6.png)
