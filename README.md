@@ -3,7 +3,7 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
-已经更新60+篇~ </br>
+已经更新100+篇~ </br>
 关注[公众号](#公众号),BAT大神带你飞~
 </div>
 
