@@ -3,7 +3,7 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
-已经更新60+篇~ </br>
+已经更新100+篇~ </br>
 关注[公众号](#公众号),BAT大神带你飞~
 </div>
 
@@ -131,7 +131,7 @@
    * [Flink从入门到放弃(入门篇2)-本地环境搭建&构建第一个Flink应用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%872)-%E6%9C%AC%E5%9C%B0%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%26%E6%9E%84%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AAFlink%E5%BA%94%E7%94%A8.md)
    * [Flink从入门到放弃(入门篇3)-DataSetAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%873)-DataSetAPI.md)
    * [Flink从入门到放弃(入门篇4)-DataStreamAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%874)-DataStreamAPI.md)
-  
+   * [Flink集群部署](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
    
 ### Flink当前最火的实时计算引擎-放弃篇
 ### Flink当前最火的实时计算引擎-删库跑路篇
