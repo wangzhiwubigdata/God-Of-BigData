@@ -132,6 +132,8 @@
    * [Flink从入门到放弃(入门篇3)-DataSetAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%873)-DataSetAPI.md)
    * [Flink从入门到放弃(入门篇4)-DataStreamAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%874)-DataStreamAPI.md)
    * [Flink集群部署](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
+   * [Flink重启策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/6-Flink%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5.md)
+   * [Flink的分布式缓存](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/7-Flink%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98.md)
    
 ### Flink当前最火的实时计算引擎-放弃篇
 ### Flink当前最火的实时计算引擎-删库跑路篇
