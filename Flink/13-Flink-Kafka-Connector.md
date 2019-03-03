@@ -65,7 +65,7 @@ env.enableCheckpointing(5000); // 每5s checkpoint一次
 
 我本地安装了一个kafka_2.11-2.1.0版本的kafka
 
-![00a9a6e5a8ef9db0e1806cae88f833fb](13-Flink Kafka Connector.resources/0174F674-797A-4C03-A020-944EA4D00C00.png)
+![00a9a6e5a8ef9db0e1806cae88f833fb](13-Flink-Kafka-Connector.resources/0174F674-797A-4C03-A020-944EA4D00C00.png)
 
 启动Zookeeper和kafka server:
 ```
@@ -78,7 +78,7 @@ env.enableCheckpointing(5000); // 每5s checkpoint一次
 bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test
 ```
 
-![4ca97fc9c79240ec7c25251b0ae78331](13-Flink Kafka Connector.resources/BCED174D-B20F-4CEA-9DF0-D5796CF3E5CD.png)
+![4ca97fc9c79240ec7c25251b0ae78331](13-Flink-Kafka-Connector.resources/BCED174D-B20F-4CEA-9DF0-D5796CF3E5CD.png)
 
 
 
@@ -174,7 +174,7 @@ public class MyNoParalleSource implements SourceFunction<String> {//1
 
 然后右键运行我们的程序，控制台输出如下：
 
-![b4819de0dcc717fc2286fbf1e834c31c](13-Flink Kafka Connector.resources/5241B014-3ECE-42BD-811F-63C1A95DDCD3.png)
+![b4819de0dcc717fc2286fbf1e834c31c](13-Flink-Kafka-Connector.resources/5241B014-3ECE-42BD-811F-63C1A95DDCD3.png)
 
 开始源源不断的生产数据了。
 
@@ -186,7 +186,7 @@ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --f
 
 输出如下：
 
-![6e94e74c501b60a856d8330a3fa9ceca](13-Flink Kafka Connector.resources/89A29311-55D2-4DD0-9B5C-8C1BCDDA2C73.png)
+![6e94e74c501b60a856d8330a3fa9ceca](13-Flink-Kafka-Connector.resources/89A29311-55D2-4DD0-9B5C-8C1BCDDA2C73.png)
 
 
 ### Kafka作为Flink Source
@@ -217,7 +217,7 @@ public class KafkaConsumer {
 
 控制台输出如下：
 
-![40873b1f64d5b99b13508d1c45d1d27d](13-Flink Kafka Connector.resources/04A6ACBD-88E2-417D-8DAC-0E93546BA144.png)
+![40873b1f64d5b99b13508d1c45d1d27d](13-Flink-Kafka-Connector.resources/04A6ACBD-88E2-417D-8DAC-0E93546BA144.png)
 
 将我们之前发往kafka的消息全部打印出来了。
 
