@@ -139,6 +139,8 @@
    * [Flink集群搭建的HA](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/10-Flink%E9%9B%86%E7%BE%A4%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8(%E6%90%AD%E5%BB%BA%E7%AF%87%E8%A1%A5%E5%85%85).md)
    * [Flink中的时间戳和水印](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/11-%E6%97%B6%E9%97%B4%E6%88%B3%E5%92%8C%E6%B0%B4%E5%8D%B0.md)
    * [Flink广播变量](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/12-Broadcast%E5%B9%BF%E6%92%AD%E5%8F%98%E9%87%8F.md)
+   * [Flink-Kafka-Connector](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/13-Flink-Kafka-Connector.md)
+   * [Flink-Table-&-SQL实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/14-Flink-Table-%26-SQL.md)
    
 ### Flink当前最火的实时计算引擎-放弃篇
 ### Flink当前最火的实时计算引擎-删库跑路篇
