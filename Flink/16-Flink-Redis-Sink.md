@@ -61,7 +61,7 @@ DataStream<String> stream = env.addSource(consumer);
 DataStream<Tuple2<String, Integer>> counts = stream.flatMap(new LineSplitter()).keyBy(0).sum(1);
 
 //实例化FlinkJedisPoolConfig 配置redis
-FlinkJedisPoolConfig conf = new FlinkJedisPoolConfig.Builder().setHost("127.0.0.1").setHost("6379").build();
+FlinkJedisPoolConfig conf = new FlinkJedisPoolConfig.Builder().setHost("127.0.0.1").setPort("6379").build();
 //实例化RedisSink，并通过flink的addSink的方式将flink计算的结果插入到redis
 
 counts.addSink(new RedisSink<>(conf,new RedisSinkExample()));
