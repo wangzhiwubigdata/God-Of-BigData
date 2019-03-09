@@ -143,6 +143,7 @@
    * [Flink-Table-&-SQL实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/14-Flink-Table-%26-SQL.md)
    * [15-Flink实战项目之实时热销排行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/15-Flink%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E4%B9%8B%E5%AE%9E%E6%97%B6%E7%83%AD%E9%94%80%E6%8E%92%E8%A1%8C.md)
    * [16-Flink-Redis-Sink](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/16-Flink-Redis-Sink.md)
+   * [17-Flink消费Kafka写入Mysql](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/17-Flink%E6%B6%88%E8%B4%B9Kafka%E5%86%99%E5%85%A5Mysql.md)
    
 ### Flink当前最火的实时计算引擎-放弃篇
 ### Flink当前最火的实时计算引擎-删库跑路篇
