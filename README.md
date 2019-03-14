@@ -146,6 +146,13 @@
    * [17-Flink消费Kafka写入Mysql](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/17-Flink%E6%B6%88%E8%B4%B9Kafka%E5%86%99%E5%85%A5Mysql.md)
    
 ### Flink当前最火的实时计算引擎-放弃篇
+
+   * [Flink漫谈系列1-概述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache%20Flink%20%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(1)%20-%20%E6%A6%82%E8%BF%B0.md)
+   
+   * [Flink漫谈系列2-watermark](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache%20Flink%20%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(02)%20-%20Watermark.md)
+   
+   * [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache%20Flink%20%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)%20-%20State.md)
+
 ### Flink当前最火的实时计算引擎-删库跑路篇
 ### [大数据算法(一)]
 ### [大数据算法(二)]
