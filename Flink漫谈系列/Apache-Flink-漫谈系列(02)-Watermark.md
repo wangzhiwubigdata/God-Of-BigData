@@ -2,7 +2,7 @@
 
 在介绍Watermark相关内容之前我们先抛出一个具体的问题，在实际的流式计算中数据到来的顺序对计算结果的正确性有至关重要的影响，比如：某数据源中的某些数据由于某种原因(如：网络原因，外部存储自身原因)会有5秒的延时，也就是在实际时间的第1秒产生的数据有可能在第5秒中产生的数据之后到来(比如到Window处理节点).选具体某个delay的元素来说，假设在一个5秒的Tumble窗口(详见Window介绍章节)，有一个EventTime是 11秒的数据，在第16秒时候到来了。图示第11秒的数据，在16秒到来了，如下图：
 
-![77ad6ed47946b1ceff52f9b031da91aa](Apache Flink 漫谈系列(02) - Watermark.resources/E6EAF710-D569-4A11-A65D-687482D7B246.png)
+![77ad6ed47946b1ceff52f9b031da91aa](Apache-Flink-漫谈系列(02)-Watermark.resources/E6EAF710-D569-4A11-A65D-687482D7B246.png)
 
 那么对于一个Count聚合的Tumble(5s)的window，上面的情况如何处理才能window2=4，window3=2 呢？
 
@@ -10,7 +10,7 @@
 
 开篇我们描述的问题是一个很常见的TimeWindow中数据乱序的问题，乱序是相对于事件产生时间和到达Apache Flink 实际处理算子的顺序而言的，关于时间在Apache Flink中有如下三种时间类型，如下图：
 
-![1a8fc0f8081b795a23ac7c1c3385c8e1](Apache Flink 漫谈系列(02) - Watermark.resources/B28386CD-F1C2-4DED-AC1C-8983B7BB3C81.png)
+![1a8fc0f8081b795a23ac7c1c3385c8e1](Apache-Flink-漫谈系列(02)-Watermark.resources/B28386CD-F1C2-4DED-AC1C-8983B7BB3C81.png)
 
 **ProcessingTime**
 
@@ -30,7 +30,7 @@ EventTime是事件在设备上产生时候携带的。在进入Apache Flink框�
 
 Watermark是Apache Flink为了处理EventTime 窗口计算提出的一种机制,本质上也是一种时间戳，由Apache Flink Source或者自定义的Watermark生成器按照需求Punctuated或者Periodic两种方式生成的一种系统Event，与普通数据流Event一样流转到对应的下游算子，接收到Watermark Event的算子以此不断调整自己管理的EventTime clock。 Apache Flink 框架保证Watermark单调递增，算子接收到一个Watermark时候，框架知道不会再有任何小于该Watermark的时间戳的数据元素到来了，所以Watermark可以看做是告诉Apache Flink框架数据流已经处理到什么位置(时间维度)的方式。 Watermark的产生和Apache Flink内部处理逻辑如下图所示: 
 
-![53c8aaff92cc32438a4dfc8c7ae6a55f](Apache Flink 漫谈系列(02) - Watermark.resources/32C5E28E-7C48-4E69-A180-FF78815EF75E.png)
+![53c8aaff92cc32438a4dfc8c7ae6a55f](Apache-Flink-漫谈系列(02)-Watermark.resources/32C5E28E-7C48-4E69-A180-FF78815EF75E.png)
 
 ## Watermark的产生方式
 目前Apache Flink 有两种生产Watermark的方式，如下：
@@ -130,7 +130,7 @@ long extractTimestamp(T element, long previousElementTimestamp);
 
 * 当Watermark的时间戳等于Event中携带的EventTime时候，上面场景（Watermark=EventTime)的计算结果如下：
 
-![4d4f83e9f06a2665797495ea6ad66a6a](Apache Flink 漫谈系列(02) - Watermark.resources/12F12191-492B-45E4-987E-8744D4235822.png)
+![4d4f83e9f06a2665797495ea6ad66a6a](Apache-Flink-漫谈系列(02)-Watermark.resources/12F12191-492B-45E4-987E-8744D4235822.png)
 
 上面对应的DDL(Alibaba 企业版的Flink分支)定义如下：
 
@@ -146,7 +146,7 @@ CREATE TABLE source(
 
 * 如果想正确处理迟来的数据可以定义Watermark生成策略为 Watermark = EventTime -5s， 如下：
 
-![918b32429bface38d9548080c1e6be67](Apache Flink 漫谈系列(02) - Watermark.resources/EB72E25B-15BA-4651-BB26-177F1A71E692.png)
+![918b32429bface38d9548080c1e6be67](Apache-Flink-漫谈系列(02)-Watermark.resources/EB72E25B-15BA-4651-BB26-177F1A71E692.png)
 
 上面对应的DDL(Alibaba 内部的DDL语法，目前正在和社区讨论)定义如下： 
 
@@ -168,11 +168,11 @@ CREATE TABLE source(
 
 在实际的流计算中往往一个job中会处理多个Source的数据，对Source的数据进行GroupBy分组，那么来自不同Source的相同key值会shuffle到同一个处理节点，并携带各自的Watermark，Apache Flink内部要保证Watermark要保持单调递增，多个Source的Watermark汇聚到一起时候可能不是单调自增的，这样的情况Apache Flink内部是如何处理的呢？如下图所示：
 
-![228534a1e3534fce5402e4be413d5067](Apache Flink 漫谈系列(02) - Watermark.resources/C7873B00-89E2-4CE4-BB5E-584A1CF4767A.png)
+![228534a1e3534fce5402e4be413d5067](Apache-Flink-漫谈系列(02)-Watermark.resources/C7873B00-89E2-4CE4-BB5E-584A1CF4767A.png)
 
 Apache Flink内部实现每一个边上只能有一个递增的Watermark， 当出现多流携带Eventtime汇聚到一起(GroupBy or Union)时候，Apache Flink会选择所有流入的Eventtime中最小的一个向下游流出。从而保证watermark的单调递增和保证数据的完整性.如下图:
 
-![32909a105423763289c08c573c3bca56](Apache Flink 漫谈系列(02) - Watermark.resources/8F75B306-8255-4D8D-BE79-BD2FC98113B8.png)
+![32909a105423763289c08c573c3bca56](Apache-Flink-漫谈系列(02)-Watermark.resources/8F75B306-8255-4D8D-BE79-BD2FC98113B8.png)
 
 
 ## 小结

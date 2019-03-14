@@ -1,4 +1,4 @@
-![ac7b60f2d0c6bba23165c6e218902a41](Apache Flink 漫谈系列(1) - 概述.resources/49D66A77-779B-468F-9BCB-6846609484DA.png)
+![ac7b60f2d0c6bba23165c6e218902a41](Apache-Flink漫谈系列(1)-概述.resources/49D66A77-779B-468F-9BCB-6846609484DA.png)
 
 摘要：Apache Flink 的命脉 "命脉" 即生命与血脉，常喻极为重要的事物。系列的首篇，首篇的首段不聊Apache Flink的历史，不聊Apache Flink的架构，不聊Apache Flink的功能特性，我们用一句话聊聊什么是 Apache Flink 的命脉？我的答案是：Apache Flink 是以"批是流的特例"的认知进行系统设计的。         
 
@@ -25,7 +25,7 @@ Micro Batching 模式
 
 Micro-Batching 计算模式认为 "流是批的特例"， 流计算就是将连续不断的批进行持续计算，如果批足够小那么就有足够小的延时，在一定程度上满足了99%的实时计算场景。那么那1%为啥做不到呢？这就是架构的魅力，在Micro-Batching模式的架构实现上就有一个自然流数据流入系统进行攒批的过程，这在一定程度上就增加了延时。具体如下示意图：
 
-![cbac823e35fa901338428e1b2c490bf9](Apache Flink 漫谈系列(1) - 概述.resources/3BF00033-D856-49C2-A301-E6DB65B22EAE.png)
+![cbac823e35fa901338428e1b2c490bf9](Apache-Flink漫谈系列(1)-概述.resources/3BF00033-D856-49C2-A301-E6DB65B22EAE.png)
 
 很显然Micro-Batching模式有其天生的低延时瓶颈，但任何事物的存在都有两面性，在大数据计算的发展历史上，最初Hadoop上的MapReduce就是优秀的批模式计算框架，Micro-Batching在设计和实现上可以借鉴很多成熟实践。
 
@@ -36,7 +36,7 @@ Native Streaming 模式
 
 Native Streaming 计算模式认为 ""批是流的特", 这个认知更贴切流的概念，比如一些监控类的消息流，数据库操作的binlog，实时的支付交易信息等等自然流数据都是一条，一条的流入。Native Streaming 计算模式每条数据的到来都进行计算，这种计算模式显得更自然，并且延时性能达到更低。具体如下示意图：
 
-![73b0b324304bfc075c8025bd5d09848f](Apache Flink 漫谈系列(1) - 概述.resources/68B36353-346D-4E32-9AD8-8AE91F3FE461.png)
+![73b0b324304bfc075c8025bd5d09848f](Apache-Flink漫谈系列(1)-概述.resources/68B36353-346D-4E32-9AD8-8AE91F3FE461.png)
 
 很明显Native Streaming模式占据了流计算领域 "低延时" 的核心竞争力，当然Native Streaming模式的实现框架是一个历史先河，第一个实现
 Native Streaming模式的流计算框架是第一个吃螃蟹的人，需要面临更多的挑战，后续章节我们会慢慢介绍。当然Native Streaming模式的框架实现上面很容易实现Micro-Batching和Batching模式的计算，Apache Flink就是Native Streaming计算模式的流批统一的计算引擎。
@@ -60,12 +60,12 @@ Cluster模式
 该模式是典型的投产的集群模式，Apache Flink 既可以Standalone的方式进行部署，也可以与其他资源管理系统进行集成部署，比如与YARN进行集成。Standalone Cluster 参考 YARN Cluster 参考
 这种部署模式是典型的Master/Slave模式，我们以Standalone Cluster模式为例示意如下：
 
-![2d187cc7509ddf0c8c3f937821e708ea](Apache Flink 漫谈系列(1) - 概述.resources/79ACC2B0-BF5E-4DC4-99DE-9C4DF6007A3F.png)
+![2d187cc7509ddf0c8c3f937821e708ea](Apache-Flink漫谈系列(1)-概述.resources/79ACC2B0-BF5E-4DC4-99DE-9C4DF6007A3F.png)
 
 其中JM(JobManager)是Master，TM(TaskManager)是Slave，这种Master/Slave模式有一个典型的问题就是SPOF(single point of failure), SPOF如何解决呢？Apache Flink 又提供了HA(High Availability)方案，也就是提供多个Master，在任何时候总有一个JM服役，N(N>=1)个JM候选,进而解决SPOF问题，示意如下：
 
 
-![b4efa7e407cd155208b16ab325ac06bf](Apache Flink 漫谈系列(1) - 概述.resources/5F99E16C-1172-4E31-989B-DA7C0800D476.png)
+![b4efa7e407cd155208b16ab325ac06bf](Apache-Flink漫谈系列(1)-概述.resources/5F99E16C-1172-4E31-989B-DA7C0800D476.png)
 
 在实际的生产环境我们都会配置HA方案，目前Alibaba内部使用的也是基于YARN Cluster的HA方案。
 
@@ -105,7 +105,7 @@ Apache Flink的容错机制
 
 Apache Flink的Job会涉及到3个部分，外部数据源(External Input), Flink内部数据处理(Flink Data Flow)和外部输出(External Output)。如下示意图:
 
-![7614e8dee7b01008061f1d3622a4d18f](Apache Flink 漫谈系列(1) - 概述.resources/C810C9BC-45F5-4ADA-8408-7FF57C0C31DB.png)
+![7614e8dee7b01008061f1d3622a4d18f](Apache-Flink漫谈系列(1)-概述.resources/C810C9BC-45F5-4ADA-8408-7FF57C0C31DB.png)
 
 目前Apache Flink 支持两种数据容错机制：
 
@@ -129,7 +129,7 @@ Apache Flink利用Checkpointing机制来处理容错，Checkpointing的理论基
 
 Apache Flink Checkpointing的内部实现会利用 Barriers，StateBackend等后续章节会详细介绍的技术来将数据的处理进行Marker。Apache Flink会利用Barrier将整个流进行标记切分，如下示意图：
 
-![728f489db662f1d46e7050a526d9e19e](Apache Flink 漫谈系列(1) - 概述.resources/72919AF2-F467-4306-BE2B-042FA56E4DD4.png)
+![728f489db662f1d46e7050a526d9e19e](Apache-Flink漫谈系列(1)-概述.resources/72919AF2-F467-4306-BE2B-042FA56E4DD4.png)
 
 这样Apache Flink的每个Operator都会记录当前成功处理的Checkpoint，如果发生错误，就会从上一个成功的Checkpoint开始继续处理后续数据。比如 Soruce Operator会将读取外部数据源的Position实时的记录到Checkpoint中，失败时候会从Checkpoint中读取成功的position继续精准的消费数据。每个算子会在Checkpoint中记录自己恢复时候必须的数据，比如流的原始数据和中间计算结果等信息，在恢复的时候从Checkpoint中读取并持续处理流数据。
 
@@ -198,7 +198,7 @@ Apache Flink 是流批统一的计算引擎，并不意味着流与批的任务�
 
 我们上面内容已经介绍了很多Apache Flink的各种组件，下面我们整体概览一下全貌，如下：
 
-![d919b72d93c2dcfd7b6e452b9f3e8a42](Apache Flink 漫谈系列(1) - 概述.resources/624AD4C0-351D-42C0-ACEA-E30851223B5F.png)
+![d919b72d93c2dcfd7b6e452b9f3e8a42](Apache-Flink漫谈系列(1)-概述.resources/624AD4C0-351D-42C0-ACEA-E30851223B5F.png)
 
 
 
@@ -211,7 +211,7 @@ TableAPI&SQL到DataStrem&DataSet的架构
 
 TableAPI&SQL最终会经过Calcite优化之后转换为DataStream和DataSet，具体转换示意如下：
 
-![b491eca0a60b6bd617e2a48124795e6d](Apache Flink 漫谈系列(1) - 概述.resources/DC074C98-3D57-4997-AAF6-896BEF272F84.png)
+![b491eca0a60b6bd617e2a48124795e6d](Apache-Flink漫谈系列(1)-概述.resources/DC074C98-3D57-4997-AAF6-896BEF272F84.png)
 
 对于流任务最终会转换成DataStream，对于批任务最终会转换成DataSet。
 
@@ -222,7 +222,7 @@ ANSI-SQL的支持
 
 Apache Flink 之所以利用ANSI-SQL作为用户统一的开发语言，是因为SQL有着非常明显的优点，如下：
 
-![e2f124f35ef0ba1c14ae9cc7b995b7ef](Apache Flink 漫谈系列(1) - 概述.resources/7C067E43-57A2-4A83-BE9C-3C769DDFF6C6.png)
+![e2f124f35ef0ba1c14ae9cc7b995b7ef](Apache-Flink漫谈系列(1)-概述.resources/7C067E43-57A2-4A83-BE9C-3C769DDFF6C6.png)
 
 
 Declarative - 用户只需要表达我想要什么，不用关心如何计算。
@@ -305,7 +305,7 @@ Aggregate Function	N(N>=0)	1	Built-in & UDAF	Reduce
 
 Apache Flink 目前的架构还存在很大的优化空间，比如前面提到的DataStreamAPI和DataSetAPI其实是流与批在API层面不统一的体现，同时看具体实现会发现DataStreamAPI会生成Transformation tree然后生成StreamGraph，最后生成JobGraph，底层对应StreamTask，但DataSetAPI会形成Operator tree，flink-optimize模块会对Batch Plan进行优化，形成Optimized Plan 后形成JobGraph,最后形成BatchTask。具体示意如下：
 
-![bb52accfabda8668b66b21ddc0e6380c](Apache Flink 漫谈系列(1) - 概述.resources/1DEA43A8-381D-451C-9B99-9106B2B058B5.png)
+![bb52accfabda8668b66b21ddc0e6380c](Apache-Flink漫谈系列(1)-概述.resources/1DEA43A8-381D-451C-9B99-9106B2B058B5.png)
 
 这种情况其实 DataStreamAPI到Runtime 和 DataSetAPI到Runtime的实现上并没有得到最大程度的统一和复用。在这一点上面Aalibab 企业版的Flink在架构和实现上都进行了进一步优化。
 
@@ -317,7 +317,7 @@ Apache Flink 目前的架构还存在很大的优化空间，比如前面提到�
 Alibaba 对Apache Flink进行了大量的架构优化，如下架构是一直努力的方向，大部分功能还在持续开发中，具体如下：
 
 
-![41be7de757381783db0856e2d9ca0832](Apache Flink 漫谈系列(1) - 概述.resources/928F452D-B175-4740-A139-8186EEDAC99C.png)
+![41be7de757381783db0856e2d9ca0832](Apache-Flink漫谈系列(1)-概述.resources/928F452D-B175-4740-A139-8186EEDAC99C.png)
 
 如上架构我们发现较大的变化是：
 
@@ -334,7 +334,7 @@ TableAPI&SQL到Runtime的架构
 
 Apache Flink执行层是流批统一的设计，在API和算子设计上面我们尽量达到流批的共享，在TableAPI和SQL层无论是流任务还是批任务最终都转换为统一的底层实现。这个层面最核心的变化是批最终也会生成StreamGraph，执行层运行Stream Task，如下：
 
-![153476e3b50765b18f6516827c2a28f5](Apache Flink 漫谈系列(1) - 概述.resources/61F69F73-CEE1-43F4-BB88-177A115FC62E.png)
+![153476e3b50765b18f6516827c2a28f5](Apache-Flink漫谈系列(1)-概述.resources/61F69F73-CEE1-43F4-BB88-177A115FC62E.png)
 
 本篇概要的介绍了"批是流的特例"这一设计观点是Apache Flink的"命脉"，它决定了Apache Flink的运行模式是纯流式的，这在实时计算场景的"低延迟"需求上，相对于Micro Batching模式占据了架构的绝对优势，同时概要的向大家介绍了Apache Flink的部署模式，容错处理，引擎的统一性和Apache Flink的架构，最后和大家分享了Apache Flink的优化架构。
 
