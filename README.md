@@ -123,6 +123,15 @@
 ### [离线列式大数据存储-Hbase的原理和亿级数据下的生产应用]
 ### [Nosql之王-Redis高级特性和实现原理]
 ### [分布式消息队列Kafka原理及与流式计算的集成]
+ * [Apache-Kafka简介](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%AE%80%E4%BB%8B.md)
+ * [Apache-Kafka核心概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
+ * [Apache-Kafka安装和使用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.md)
+ * [Apache-Kafka编程实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.md)
+ * [Apache-Kafka核心组件和流程(副本管理器)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B(%E5%89%AF%E6%9C%AC%E7%AE%A1%E7%90%86%E5%99%A8).md)
+ * [Apache-Kafka核心组件和流程-协调器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E5%8D%8F%E8%B0%83%E5%99%A8.md)
+ * [Apache-Kafka核心组件和流程-控制器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%8E%A7%E5%88%B6%E5%99%A8.md)
+ * [Apache-Kafka核心组件和流程-日志管理器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86%E5%99%A8.md)
+
 ### [Spark的原理和生产应用(一)]
 ### [Spark的原理和生产应用(二)]
 ### [Spark的原理和生产应用(三)]
