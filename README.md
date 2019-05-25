@@ -118,7 +118,7 @@
     
 ### [Hadoop]
    * [Hadoop级简入门](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Hadoop/Hadoop%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8.md)
-   
+   * [MapReduce编程模型和计算框架架构原理](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Hadoop/MapReduce%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%92%8C%E8%AE%A1%E7%AE%97%E6%A1%86%E6%9E%B6%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86.md)
  
 ### [OLAP引擎-HiveSQL的高级调优和原理分析]
 ### [离线列式大数据存储-Hbase的原理和亿级数据下的生产应用]
