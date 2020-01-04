@@ -46,6 +46,7 @@
   </table>
 <br/>
 
+## 大数据开发基础
 
 ### Java基础
  * [大数据成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
@@ -185,6 +186,33 @@
 ### Flink当前最火的实时计算引擎-删库跑路篇
 ### [大数据算法(一)]
 ### [大数据算法(二)]
+
+
+## 大数据框架学习
+本部分引用了Bigdata-Notes的文章，并且持续补充新的文章~
+
+### 一、Hadoop
+
+1. [分布式文件存储系统 —— HDFS](notes/Hadoop-HDFS.md)
+2. [分布式计算框架 —— MapReduce](notes/Hadoop-MapReduce.md)
+3. [集群资源管理器 —— YARN](notes/Hadoop-YARN.md)
+4. [Hadoop 单机伪集群环境搭建](notes/installation/Hadoop单机环境搭建.md)
+5. [Hadoop 集群环境搭建](notes/installation/Hadoop集群环境搭建.md)
+6. [HDFS 常用 Shell 命令](notes/HDFS常用Shell命令.md)
+7. [HDFS Java API 的使用](notes/HDFS-Java-API.md)
+8. [基于 Zookeeper 搭建 Hadoop 高可用集群](notes/installation/基于Zookeeper搭建Hadoop高可用集群.md)
+
+### 二、Hive
+
+1. [Hive 简介及核心概念](notes/Hive简介及核心概念.md)
+2. [Linux 环境下 Hive 的安装部署](notes/installation/Linux环境下Hive的安装部署.md)
+4. [Hive CLI 和 Beeline 命令行的基本使用](notes/HiveCLI和Beeline命令行的基本使用.md)
+6. [Hive 常用 DDL 操作](notes/Hive常用DDL操作.md)
+7. [Hive 分区表和分桶表](notes/Hive分区表和分桶表.md)
+8. [Hive 视图和索引](notes/Hive视图和索引.md)
+9. [Hive常用 DML 操作](notes/Hive常用DML操作.md)
+10. [Hive 数据查询详解](notes/Hive数据查询详解.md)
+
 
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
 ## 声明
