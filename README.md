@@ -195,18 +195,6 @@
 4. [Spark Streaming 整合 Kafka](大数据框架学习/Spark_Streaming整合Kafka.md)
 
 
-**分布式消息队列Kafka原理及与流式计算的集成 ：**
-
- * [Apache-Kafka简介](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%AE%80%E4%BB%8B.md)
- * [Apache-Kafka核心概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
- * [Apache-Kafka安装和使用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.md)
- * [Apache-Kafka编程实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.md)
- * [Apache-Kafka核心组件和流程(副本管理器)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B(%E5%89%AF%E6%9C%AC%E7%AE%A1%E7%90%86%E5%99%A8).md)
- * [Apache-Kafka核心组件和流程-协调器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E5%8D%8F%E8%B0%83%E5%99%A8.md)
- * [Apache-Kafka核心组件和流程-控制器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%8E%A7%E5%88%B6%E5%99%A8.md)
- * [Apache-Kafka核心组件和流程-日志管理器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86%E5%99%A8.md)
-
-
 ## 四、Flink
 
 1. [Flink 核心概念综述](大数据框架学习/Flink核心概念综述.md)
@@ -262,11 +250,25 @@
 
 ## 六、Kafka
 
+**Kafka基本原理 ：**
+
 1. [Kafka 简介](大数据框架学习/Kafka简介.md)
 2. [基于 Zookeeper 搭建 Kafka 高可用集群](大数据框架学习/installation/基于Zookeeper搭建Kafka高可用集群.md)
 3. [Kafka 生产者详解](大数据框架学习/Kafka生产者详解.md)
 4. [Kafka 消费者详解](大数据框架学习/Kafka消费者详解.md)
 5. [深入理解 Kafka 副本机制](大数据框架学习/Kafka深入理解分区副本机制.md)
+
+**分布式消息队列Kafka原理及与流式计算的集成 ：**
+
+ 1. [Apache-Kafka简介](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%AE%80%E4%BB%8B.md)
+ 2. [Apache-Kafka核心概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
+ 3. [Apache-Kafka安装和使用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.md)
+ 4. [Apache-Kafka编程实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.md)
+ 5. [Apache-Kafka核心组件和流程(副本管理器)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B(%E5%89%AF%E6%9C%AC%E7%AE%A1%E7%90%86%E5%99%A8).md)
+ * [Apache-Kafka核心组件和流程-协调器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E5%8D%8F%E8%B0%83%E5%99%A8.md)
+ * [Apache-Kafka核心组件和流程-控制器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%8E%A7%E5%88%B6%E5%99%A8.md)
+ * [Apache-Kafka核心组件和流程-日志管理器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86%E5%99%A8.md)
+
 
 ## 七、Zookeeper
 
