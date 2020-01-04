@@ -305,7 +305,7 @@
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
 
 
-## 声明
+## SSS、声明
 文档中参考引用了大量网络上的博客和文章，大部分给出了出处，有些没写，如果造成了侵权行为，请您联系我，立即删除~
 
 
@@ -316,13 +316,12 @@
 <div align="center"> <img width="350px" src="qrcodes/wechat01.png"/> </div>
  
 
-
-## 如果对你有用，欢迎请我喝杯咖啡
+## KKK、如果对你有用，欢迎请我喝杯咖啡
 
 <div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
  
 
-## 扫我加群
+## HHH、扫我加群
  备注**加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpeg"/> </div>
