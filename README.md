@@ -313,7 +313,7 @@
 
 关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
 
-<div align="center"> <img width="200px" src="qrcodes/wechat01.png"/> </div>
+<div align="center"> <img width="350px" src="qrcodes/wechat01.png"/> </div>
  
 
 
@@ -325,7 +325,7 @@
 ## 扫我加群
  备注**加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
 
-<div align="center"> <img width="200px" src="qrcodes/个人微信.jpeg"/> </div>
+<div align="center"> <img width="350px" src="qrcodes/个人微信.jpeg"/> </div>
  
  
 ## 为什么有这个文档
