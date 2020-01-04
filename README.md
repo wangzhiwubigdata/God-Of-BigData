@@ -12,7 +12,7 @@
 ### 大数据开发基础
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
 | :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------:|
-| [Java基础](#一Java基础) | [NIO](#NIO基础) | [并发容器](#Java并发容器) |[JVM](#JVM深度解析和面试点) |[分布式](#分布式理论基础和原理) |[zookeeper](#大数据框架开发基础-zookeeper)|[RPC](#大数据框架开发基础-RPC)|[Netty](#大数据框架基石之网路通信-Netty)|[Linux](/Linux基础/Linux基础和命令.md)|
+| [Java基础](#一Java基础) | [NIO](#二NIO基础) | [并发容器](#三Java并发容器) |[JVM](#四JVM深度解析和面试点) |[分布式](#五分布式理论基础和原理) |[zookeeper](#六大数据框架开发基础-zookeeper)|[RPC](#七大数据框架开发基础-RPC)|[Netty](#八大数据框架基石之网路通信-Netty)|[Linux](/九Linux基础/Linux基础和命令.md)|
 
 <br/>
 
@@ -59,7 +59,7 @@
  * [大数据成神之路-Java高级特性增强(HashSet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashSet).md)
  * [大数据成神之路-Java高级特性增强(LinkedHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedHashMap).md)
  
-### NIO基础
+### 二、NIO基础
  * [大数据成神之路-Java高级特性增强-NIO大纲](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA-NIO.md)
  * [NIO概览](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/NIO%E6%A6%82%E8%A7%88.md)
  * [Java NIO之Buffer(缓冲区)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/Java%20NIO%E4%B9%8BBuffer(%E7%BC%93%E5%86%B2%E5%8C%BA).md)
@@ -67,7 +67,7 @@
  * [ava NIO之Selector(选择器)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/Java%20NIO%E4%B9%8BSelector(%E9%80%89%E6%8B%A9%E5%99%A8).md)
  * [Java NIO之拥抱Path和Files](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/Java%20NIO%E4%B9%8B%E6%8B%A5%E6%8A%B1Path%E5%92%8CFiles.md)
 
-### Java并发容器
+### 三、Java并发容器
  * [大数据成神之路-Java高级特性增强(并发容器大纲)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8%E5%A4%A7%E7%BA%B2).md)
  * [大数据成神之路-Java高级特性增强(LinkedBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedBlockingQueue).md)
  * [大数据成神之路-Java高级特性增强(LinkedBlockingDeque)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedBlockingDeque).md)
@@ -79,7 +79,7 @@
  * [大数据成神之路-Java高级特性增强(ConcurrentHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentHashMap).md)
  * [大数据成神之路-Java高级特性增强(ArrayBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ArrayBlockingQueue).md)
 
-### JVM深度解析和面试点
+### 四、JVM深度解析和面试点
    ##### 先来10篇基础热身
    * [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
    * [HotSpot虚拟机对象探秘](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AF%B9%E8%B1%A1%E6%8E%A2%E7%A7%98.md)
@@ -98,7 +98,7 @@
    * [jvm调优-命令大全](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E5%9B%9B)jvm%E8%B0%83%E4%BC%98-%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8%EF%BC%88jps%20jstat%20jmap%20jhat%20jstack%20jinfo%EF%BC%89.md)
    * [Java GC 分析](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%94)Java%20GC%20%E5%88%86%E6%9E%90.md)
 
-### 分布式理论基础和原理
+### 五、分布式理论基础和原理
    * [分布式系统的一些基本概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
    * [分布式系统理论基础一： 一致性、2PC和3PC](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%B8%80%EF%BC%9A%20%E4%B8%80%E8%87%B4%E6%80%A7%E3%80%812PC%E5%92%8C3PC.md)
    * [分布式系统理论基础二-CAP](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E4%BA%8C-CAP.md)
@@ -111,7 +111,7 @@
    * [分布式事务的解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
    * [分布式ID生成器解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8FID%E7%94%9F%E6%88%90%E5%99%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
    
-### 大数据框架开发基础-Zookeeper
+### 六、大数据框架开发基础-Zookeeper
 
    * [安装和运行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%AE%89%E8%A3%85%E5%92%8C%E8%BF%90%E8%A1%8C.md)
    * [zookeeper服务](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E6%9C%8D%E5%8A%A1.md)
@@ -119,13 +119,13 @@
    * [zookeeper开发实例](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B.md)
    * [zookeeper集群构建](http://www.importnew.com/23237.html)
    
-### 大数据框架开发基础-RPC
+### 七、大数据框架开发基础-RPC
 
    * [RPC简单介绍](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/RPC%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D.md)
    * [RPC的原理和框架](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/RPC%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%A1%86%E6%9E%B6.md)
    * [手把手教你实现一个简单的RPC](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84RPC.md)
 
-### 大数据框架基石之网路通信-Netty
+### 八、大数据框架基石之网路通信-Netty
    * [关于Netty我们都需要知道什么](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/%E5%85%B3%E4%BA%8ENetty%E6%88%91%E4%BB%AC%E9%83%BD%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88.md)
    * [Netty源码解析-概述篇](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E6%A6%82%E8%BF%B0%E7%AF%87.md)
    * [Netty源码解析1-Buffer](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%901-Buffer.md) 
