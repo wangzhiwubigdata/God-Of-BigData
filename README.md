@@ -265,9 +265,9 @@
  3. [Apache-Kafka安装和使用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.md)
  4. [Apache-Kafka编程实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.md)
  5. [Apache-Kafka核心组件和流程(副本管理器)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B(%E5%89%AF%E6%9C%AC%E7%AE%A1%E7%90%86%E5%99%A8).md)
- * [Apache-Kafka核心组件和流程-协调器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E5%8D%8F%E8%B0%83%E5%99%A8.md)
- * [Apache-Kafka核心组件和流程-控制器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%8E%A7%E5%88%B6%E5%99%A8.md)
- * [Apache-Kafka核心组件和流程-日志管理器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86%E5%99%A8.md)
+ 6. [Apache-Kafka核心组件和流程-协调器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E5%8D%8F%E8%B0%83%E5%99%A8.md)
+ 7. [Apache-Kafka核心组件和流程-控制器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%8E%A7%E5%88%B6%E5%99%A8.md)
+ 8. [Apache-Kafka核心组件和流程-日志管理器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86%E5%99%A8.md)
 
 
 ## 七、Zookeeper
