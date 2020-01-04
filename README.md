@@ -319,7 +319,7 @@
 
 ## 如果对你有用，欢迎请我喝杯咖啡
 
-<div align="center"> <img width="200px" src="qrcodes/wechat02.jpeg"/> </div>
+<div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
  
 
 ## 扫我加群
