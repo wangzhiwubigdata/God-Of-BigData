@@ -314,19 +314,19 @@
 
 关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
 
-![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/WechatIMG254.png)
+<div align="center"> <img width="200px" src="qrcodes/wechat01.png"/> </div>
  
 
 
 ## 如果对你有用，欢迎请我喝杯咖啡
 
- ![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
+<div align="center"> <img width="200px" src="qrcodes/wechat02.png"/> </div>
  
 
 # 扫我加群：  #
  备注**加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
 
- ![小助手微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
+<div align="center"> <img width="200px" src="qrcodes/个人微信.jpeg"/> </div>
  
  
 ## 为什么有这个文档
