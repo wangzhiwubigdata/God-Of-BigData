@@ -47,18 +47,6 @@
 <br/>
 
 
-# 扫我关注公众号： #
-
-关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
-
-![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logos/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F%E5%9B%BE.png)
- 
- 
-# 扫我加群：  #
- 备注**加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
-
- ![小助手微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
-
 ### Java基础
  * [大数据成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
  * [大数据成神之路-Java高级特性增强(Synchronized关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(Synchronized%E5%85%B3%E9%94%AE%E5%AD%97).md)
@@ -203,6 +191,19 @@
 文档中参考引用了大量网络上的博客和文章，大部分给出了出处，有些没写，如果造成了侵权行为，请您联系我，立即删除~
 
 
+# 扫我关注公众号： #
+
+关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
+
+![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logos/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F%E5%9B%BE.png)
+ 
+ 
+# 扫我加群：  #
+ 备注**加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
+
+ ![小助手微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
+ 
+
 ## 为什么有这个文档
 - 以前这里只是几个txt文档
 - 是我面试腾讯阿里美团等公司大数据开发工程师的过程中总结出来的大数据开发的必知必会的知识点~
@@ -213,7 +214,7 @@
 这个是我的成长路线~<br>
 现在看起来<br>
 当初没有走错~<br>
-当然啦 数据开发有很多方向比如数据仓库，数据分析<br>
+当然,数据开发有很多方向比如数据仓库，数据分析<br>
 我这里单纯面对数据应用层或者中间件方向，也是大数据方向个人成长比较好的一个方向(我自己认为的，你不同意就算了，哈哈)~ <br>
 这个是我的成长路线<br>
 欢迎各种PR，格式修改也行，总之一切能让这个文档好起来的，都是欢迎的~<br>
