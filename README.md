@@ -314,7 +314,7 @@
 
 关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
 
-![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logos/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F%E5%9B%BE.png)
+![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logos/WechatIMG254.png)
  
  
 # 扫我加群：  #
@@ -323,6 +323,15 @@
  ![小助手微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
  
 
+
+## 如果对你有用，欢迎请我喝杯咖啡
+
+公众号**大数据技术与架构**或者搜索**import_bigdata**关注
+
+ ![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
+ 
+ 
+ 
 ## 为什么有这个文档
 - 以前这里只是几个txt文档
 - 是我面试腾讯阿里美团等公司大数据开发工程师的过程中总结出来的大数据开发的必知必会的知识点~
@@ -346,14 +355,5 @@
 本系列文章希望为那些还在数据开发方向迷茫的人领路，文章会持续更新
 
 欢迎关注公众号‘大数据技术与架构’或者搜索import_bigdata关注~
-
-## 公众号
-
-公众号**大数据技术与架构**或者搜索**import_bigdata**关注
-
- ![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
- 
- 
- 
  
  
