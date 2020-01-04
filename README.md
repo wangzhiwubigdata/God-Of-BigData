@@ -138,55 +138,6 @@
    * [Netty源码解析8-ChannelHandler实例之CodecHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%908-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BCodecHandler.md)
    * [Netty源码解析9-ChannelHandler实例之MessageToByteEncoder](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%909-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BMessageToByteEncoder.md)
     
-### [Hadoop]
-   * [Hadoop级简入门](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Hadoop/Hadoop%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8.md)
-   * [MapReduce编程模型和计算框架架构原理](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Hadoop/MapReduce%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%92%8C%E8%AE%A1%E7%AE%97%E6%A1%86%E6%9E%B6%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86.md)
- 
-### [OLAP引擎-HiveSQL的高级调优和原理分析]
-### [离线列式大数据存储-Hbase的原理和亿级数据下的生产应用]
-### [Nosql之王-Redis高级特性和实现原理]
-### [分布式消息队列Kafka原理及与流式计算的集成]
- * [Apache-Kafka简介](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%AE%80%E4%BB%8B.md)
- * [Apache-Kafka核心概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
- * [Apache-Kafka安装和使用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.md)
- * [Apache-Kafka编程实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.md)
- * [Apache-Kafka核心组件和流程(副本管理器)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B(%E5%89%AF%E6%9C%AC%E7%AE%A1%E7%90%86%E5%99%A8).md)
- * [Apache-Kafka核心组件和流程-协调器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E5%8D%8F%E8%B0%83%E5%99%A8.md)
- * [Apache-Kafka核心组件和流程-控制器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%8E%A7%E5%88%B6%E5%99%A8.md)
- * [Apache-Kafka核心组件和流程-日志管理器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86%E5%99%A8.md)
-
-### [Spark的原理和生产应用(一)]
-### [Spark的原理和生产应用(二)]
-### [Spark的原理和生产应用(三)]
-### Flink当前最火的实时计算引擎-入门篇
-   * [Flink从入门到放弃(入门篇1)-Flink是什么](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%871)-Flink%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
-   * [Flink从入门到放弃(入门篇2)-本地环境搭建&构建第一个Flink应用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%872)-%E6%9C%AC%E5%9C%B0%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%26%E6%9E%84%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AAFlink%E5%BA%94%E7%94%A8.md)
-   * [Flink从入门到放弃(入门篇3)-DataSetAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%873)-DataSetAPI.md)
-   * [Flink从入门到放弃(入门篇4)-DataStreamAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%874)-DataStreamAPI.md)
-   * [Flink集群部署](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
-   * [Flink重启策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/6-Flink%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5.md)
-   * [Flink的分布式缓存](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/7-Flink%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98.md)
-   * [Flink中的窗口](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/8-Flink%E4%B8%AD%E7%9A%84%E7%AA%97%E5%8F%A3.md)
-   * [Flink中的Time](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/9-Flink%E4%B8%AD%E7%9A%84Time.md)
-   * [Flink集群搭建的HA](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/10-Flink%E9%9B%86%E7%BE%A4%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8(%E6%90%AD%E5%BB%BA%E7%AF%87%E8%A1%A5%E5%85%85).md)
-   * [Flink中的时间戳和水印](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/11-%E6%97%B6%E9%97%B4%E6%88%B3%E5%92%8C%E6%B0%B4%E5%8D%B0.md)
-   * [Flink广播变量](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/12-Broadcast%E5%B9%BF%E6%92%AD%E5%8F%98%E9%87%8F.md)
-   * [Flink-Kafka-Connector](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/13-Flink-Kafka-Connector.md)
-   * [Flink-Table-&-SQL实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/14-Flink-Table-%26-SQL.md)
-   * [15-Flink实战项目之实时热销排行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/15-Flink%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E4%B9%8B%E5%AE%9E%E6%97%B6%E7%83%AD%E9%94%80%E6%8E%92%E8%A1%8C.md)
-   * [16-Flink-Redis-Sink](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/16-Flink-Redis-Sink.md)
-   * [17-Flink消费Kafka写入Mysql](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/17-Flink%E6%B6%88%E8%B4%B9Kafka%E5%86%99%E5%85%A5Mysql.md)
-   
-### Flink当前最火的实时计算引擎-放弃篇
-
-   * [Flink漫谈系列1-概述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(1)-%E6%A6%82%E8%BF%B0.md)
-   * [Flink漫谈系列2-watermark](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(02)-Watermark.md)
-   * [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)-State.md)
-
-### Flink当前最火的实时计算引擎-删库跑路篇
-### [大数据算法(一)]
-### [大数据算法(二)]
-
 
 ## 大数据框架学习
 本部分引用了Bigdata-Notes的文章，作者是heibaiying，大佬写的文章非常好，欢迎大家关注他的博客。
@@ -202,6 +153,8 @@
 6. [HDFS 常用 Shell 命令](大数据框架学习/HDFS常用Shell命令.md)
 7. [HDFS Java API 的使用](大数据框架学习/HDFS-Java-API.md)
 8. [基于 Zookeeper 搭建 Hadoop 高可用集群](大数据框架学习/installation/基于Zookeeper搭建Hadoop高可用集群.md)
+9. [Hadoop级简入门](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Hadoop/Hadoop%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8.md)
+10. [MapReduce编程模型和计算框架架构原理](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Hadoop/MapReduce%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%92%8C%E8%AE%A1%E7%AE%97%E6%A1%86%E6%9E%B6%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86.md)
 
 ### 二、Hive
 
@@ -241,6 +194,19 @@
 3. [Spark Streaming 整合 Flume](大数据框架学习/Spark_Streaming整合Flume.md)
 4. [Spark Streaming 整合 Kafka](大数据框架学习/Spark_Streaming整合Kafka.md)
 
+
+**分布式消息队列Kafka原理及与流式计算的集成 ：**
+
+ * [Apache-Kafka简介](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%AE%80%E4%BB%8B.md)
+ * [Apache-Kafka核心概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
+ * [Apache-Kafka安装和使用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.md)
+ * [Apache-Kafka编程实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.md)
+ * [Apache-Kafka核心组件和流程(副本管理器)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B(%E5%89%AF%E6%9C%AC%E7%AE%A1%E7%90%86%E5%99%A8).md)
+ * [Apache-Kafka核心组件和流程-协调器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E5%8D%8F%E8%B0%83%E5%99%A8.md)
+ * [Apache-Kafka核心组件和流程-控制器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%8E%A7%E5%88%B6%E5%99%A8.md)
+ * [Apache-Kafka核心组件和流程-日志管理器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86%E5%99%A8.md)
+
+
 ## 四、Flink
 
 1. [Flink 核心概念综述](大数据框架学习/Flink核心概念综述.md)
@@ -251,6 +217,33 @@
 6. [Flink 窗口模型](大数据框架学习/Flink_Windows.md)
 7. [Flink 状态管理与检查点机制](大数据框架学习/Flink状态管理与检查点机制.md)
 8. [Flink Standalone 集群部署](大数据框架学习/installation/Flink_Standalone_Cluster.md)
+
+#### Flink当前最火的实时计算引擎-入门篇
+   * [Flink从入门到放弃(入门篇1)-Flink是什么](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%871)-Flink%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
+   * [Flink从入门到放弃(入门篇2)-本地环境搭建&构建第一个Flink应用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%872)-%E6%9C%AC%E5%9C%B0%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%26%E6%9E%84%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AAFlink%E5%BA%94%E7%94%A8.md)
+   * [Flink从入门到放弃(入门篇3)-DataSetAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%873)-DataSetAPI.md)
+   * [Flink从入门到放弃(入门篇4)-DataStreamAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%874)-DataStreamAPI.md)
+   * [Flink集群部署](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
+   * [Flink重启策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/6-Flink%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5.md)
+   * [Flink的分布式缓存](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/7-Flink%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98.md)
+   * [Flink中的窗口](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/8-Flink%E4%B8%AD%E7%9A%84%E7%AA%97%E5%8F%A3.md)
+   * [Flink中的Time](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/9-Flink%E4%B8%AD%E7%9A%84Time.md)
+   * [Flink集群搭建的HA](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/10-Flink%E9%9B%86%E7%BE%A4%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8(%E6%90%AD%E5%BB%BA%E7%AF%87%E8%A1%A5%E5%85%85).md)
+   * [Flink中的时间戳和水印](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/11-%E6%97%B6%E9%97%B4%E6%88%B3%E5%92%8C%E6%B0%B4%E5%8D%B0.md)
+   * [Flink广播变量](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/12-Broadcast%E5%B9%BF%E6%92%AD%E5%8F%98%E9%87%8F.md)
+   * [Flink-Kafka-Connector](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/13-Flink-Kafka-Connector.md)
+   * [Flink-Table-&-SQL实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/14-Flink-Table-%26-SQL.md)
+   * [15-Flink实战项目之实时热销排行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/15-Flink%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E4%B9%8B%E5%AE%9E%E6%97%B6%E7%83%AD%E9%94%80%E6%8E%92%E8%A1%8C.md)
+   * [16-Flink-Redis-Sink](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/16-Flink-Redis-Sink.md)
+   * [17-Flink消费Kafka写入Mysql](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/17-Flink%E6%B6%88%E8%B4%B9Kafka%E5%86%99%E5%85%A5Mysql.md)
+
+#### Flink当前最火的实时计算引擎-放弃篇
+
+   * [Flink漫谈系列1-概述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(1)-%E6%A6%82%E8%BF%B0.md)
+   * [Flink漫谈系列2-watermark](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(02)-Watermark.md)
+   * [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)-State.md)
+
+   
 
 
 ## 五、HBase
@@ -301,6 +294,19 @@
 3. [Azkaban Flow 1.0 的使用](大数据框架学习/Azkaban_Flow_1.0_的使用.md)
 4. [Azkaban Flow 2.0 的使用](大数据框架学习/Azkaban_Flow_2.0_的使用.md)
 
+
+## 十一、TODO
+
+### [OLAP引擎-HiveSQL的高级调优和原理分析]
+### [离线列式大数据存储-Hbase的原理和亿级数据下的生产应用]
+### [Nosql之王-Redis高级特性和实现原理]
+
+### [Spark的原理和生产应用(一)]
+### [Spark的原理和生产应用(二)]
+### [Spark的原理和生产应用(三)]
+
+### [大数据算法(一)]
+### [大数据算法(二)]
 
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
 
