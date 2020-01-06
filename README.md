@@ -325,12 +325,12 @@
  
 
 ## KKK、如果对你有用，欢迎请我喝杯咖啡
-
+备注Github，感谢您～
 <div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
  
 
 ## HHH、扫我加群
- 备注**加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
+ 备注**来自GitHub加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpeg"/> </div>
  
