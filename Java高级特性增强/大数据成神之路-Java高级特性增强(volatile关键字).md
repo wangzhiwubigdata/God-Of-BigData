@@ -1,9 +1,11 @@
 ### **Java高级特性增强-Volatile**
 本部分网络上有大量的资源可以参考，在这里做了部分整理，感谢前辈的付出，每节文章末尾有引用列表，源码推荐看JDK1.8以后的版本，注意甄别~
+
 ####**多线程**
 ###**集合框架**
 ###**NIO**
 ###**Java并发容器**
+
 
 * * *
 ## volatile关键字
@@ -150,6 +152,9 @@ public class VolatileExample {
 
 《Java并发编程的艺术》
 《实战Java高并发程序设计》
+
 https://blog.csdn.net/qq_34337272/article/details/79680771
+
 https://www.jianshu.com/p/a5f99f25329a
+
 https://www.jianshu.com/p/506c1e38a922
