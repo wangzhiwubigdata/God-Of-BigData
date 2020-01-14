@@ -8,6 +8,7 @@ JobManager 协调每个 Flink 部署。它负责调度和资源管理。
 默认情况下，每个 Flink 集群只有一个 JobManager 实例。 这会产生单点故障(SPOF)：如果 JobManager 崩溃，则无法提交新作业并且导致运行中的作业运行失败。
 使用 JobManager 高可用性模式，可以避免这个问题，从而消除 SPOF。您可以为Standalone和 YARN 集群配置高可用性。
 
+
 ## Standalone集群高可用性
 
 针对 Standalone 集群的 JobManager 高可用性的一般概念是，任何时候都有一个 主 JobManager 和多个备 JobManagers，以便在主节点失败时有备 JobManagers 来接管集群。这保证了没有单点故障，一旦备 JobManager 接管集群，作业就可以正常运行。主备  JobManager 实例之间没有明显的区别。每个 JobManager 都可以充当主备节点。

@@ -11,6 +11,7 @@
 #### 前言
 HashMap是我们平时开发过程中用的比较多的集合，但它是非线程安全的，在涉及到多线程并发的情况，进行get操作有可能会引起死循环，导致CPU利用率接近100%。
 ```
+
 final HashMap<String, String> map = new HashMap<String, String>(2);
 for (int i = 0; i < 10000; i++) {
     new Thread(new Runnable() {

@@ -12,6 +12,7 @@ Selector一般称为选择器,当然你也可以翻译为多路复用器。它�
 ![e87095c49bef56cb3cce7c4529cac9ad](Java NIO之Selector(选择器).resources/C32A7750-CD6E-469A-8E9E-BEC983989522.png)
 使用Selector的好处在于:使用更少的线程来就可以来处理通道了,相比使用多个线程,避免了线程上下文切换带来的开销。
 
+
 #### Selector（选择器）的使用方法介绍
 **1. Selector的创建**
 通过调用Selector.open()方法创建一个Selector对象，如下：

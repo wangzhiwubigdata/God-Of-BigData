@@ -10,6 +10,7 @@
 
 开篇我们描述的问题是一个很常见的TimeWindow中数据乱序的问题，乱序是相对于事件产生时间和到达Apache Flink 实际处理算子的顺序而言的，关于时间在Apache Flink中有如下三种时间类型，如下图：
 
+
 ![1a8fc0f8081b795a23ac7c1c3385c8e1](Apache-Flink-漫谈系列(02)-Watermark.resources/B28386CD-F1C2-4DED-AC1C-8983B7BB3C81.png)
 
 **ProcessingTime**

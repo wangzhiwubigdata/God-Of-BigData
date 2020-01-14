@@ -13,6 +13,7 @@ LinkedBlockingDeque是双向链表实现的双向并发阻塞队列。该阻塞�
 ### LinkedBlockingDeque原理和数据结构
 LinkedBlockingDeque的数据结构，如下图所示：
 
+
 ![6da00030f98f048da20fa09de9784f74](大数据成神之路-Java高级特性增强(LinkedBlockingDeque).resources/385B998A-3394-4B44-AE6B-B66F7775E0A4.jpg)
 说明：1. LinkedBlockingDeque继承于AbstractQueue，它本质上是一个支持FIFO和FILO的双向的队列。
 2. LinkedBlockingDeque实现了BlockingDeque接口，它支持多线程并发。当多线程竞争同一个资源时，某线程获取到该资源之后，其它线程需要阻塞等待。

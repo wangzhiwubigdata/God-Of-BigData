@@ -20,6 +20,7 @@
 * `count-tumbling-window`无重叠数据的数量窗口，设置方式举例：countWindow(5)    
 
 
+
 * `count-sliding-window` 有重叠数据的数量窗口，设置方式举例：countWindow(5,3)
  
 4. flink支持在stream上的通过key去区分多个窗口

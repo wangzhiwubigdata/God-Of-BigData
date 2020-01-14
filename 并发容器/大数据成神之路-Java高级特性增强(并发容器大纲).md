@@ -10,6 +10,7 @@
 我将JUC包中的集合类划分为3部分来进行说明。在简单的了解JUC包中集合类的框架之后，后面的章节再逐步对各个类进行介绍。
 
 #### List和Set
+
 JUC(java.util.concurrent)集合包中的List和Set实现类包括: 
 **CopyOnWriteArrayList
 CopyOnWriteArraySet

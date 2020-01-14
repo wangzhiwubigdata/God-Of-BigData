@@ -1,7 +1,9 @@
 ## 引言
+
 CAP是分布式系统、特别是分布式存储领域中被讨论最多的理论，“什么是CAP定理？”在Quora 分布式系统分类下排名 FAQ 的 No.1。CAP在程序员中也有较广的普及，它不仅仅是“C、A、P不能同时满足，最多只能3选2”，以下尝试综合各方观点，从发展历史、工程实践等角度讲述CAP理论。希望大家透过本文对CAP理论有更多地了解和认识。
  
 ## CAP定理
+
 CAP由Eric Brewer在2000年PODC会议上提出[1][2]，是Eric Brewer在Inktomi[3]期间研发搜索引擎、分布式web缓存时得出的关于数据一致性(consistency)、服务可用性(availability)、分区容错性(partition-tolerance)的猜想：
 It is impossible for a web service to provide the three following guarantees : Consistency, Availability and Partition-tolerance.
  

@@ -13,6 +13,7 @@ LinkedBlockingQueue是一个单向链表实现的阻塞队列。该队列按 FIF
 ### LinkedBlockingQueue原理和数据结构
 LinkedBlockingQueue的数据结构，如下图所示：![f8ea78da236a6ad11f3a04f1472e9017](大数据成神之路-Java高级特性增强(LinkedBlockingQueue).resources/C0887B04-3B23-4874-B6D5-702B2FE76242.jpg)
 说明：
+
 1. LinkedBlockingQueue继承于AbstractQueue，它本质上是一个FIFO(先进先出)的队列。
 2. LinkedBlockingQueue实现了BlockingQueue接口，它支持多线程并发。当多线程竞争同一个资源时，某线程获取到该资源之后，其它线程需要阻塞等待。
 3. LinkedBlockingQueue是通过单链表实现的:

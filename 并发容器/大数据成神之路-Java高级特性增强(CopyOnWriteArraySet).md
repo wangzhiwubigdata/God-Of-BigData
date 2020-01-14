@@ -13,6 +13,7 @@
 * CopyOnWriteArraySet源码
 * CopyOnWriteArraySet示例
 
+
 #### CopyOnWriteArraySet介绍
 它是线程安全的无序的集合，可以将它理解成线程安全的HashSet。有意思的是，CopyOnWriteArraySet和HashSet虽然都继承于共同的父类AbstractSet；但是，HashSet是通过“散列表(HashMap)”实现的，而CopyOnWriteArraySet则是通过“动态数组(CopyOnWriteArrayList)”实现的，并不是散列表。
 和CopyOnWriteArrayList类似，CopyOnWriteArraySet具有以下特性：

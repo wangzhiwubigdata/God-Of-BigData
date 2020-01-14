@@ -8,6 +8,7 @@ http://tutorials.jenkov.com/java-nio/index.html
 
 ## Java NIO之Buffer(缓冲区)
 
+
 #### Buffer(缓冲区)介绍
 Java NIO Buffers用于和NIO Channel交互。 我们从Channel中读取数据到buffers里，从Buffer把数据写入到Channels.
 

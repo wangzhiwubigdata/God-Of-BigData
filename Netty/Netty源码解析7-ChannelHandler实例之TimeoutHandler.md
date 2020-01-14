@@ -19,6 +19,7 @@ public enum IdleState {
 注意到此Handler没有Sharable注解，这是因为每个连接的超时时间是特有的即每个连接有独立的状态，所以不能标注Sharable注解。继承自ChannelDuplexHandler是因为既要处理读超时又要处理写超时。
 该类的一个典型构造方法如下：
 
+
 ```
     public IdleStateHandler(int readerIdleTimeSeconds, int writerIdleTimeSeconds, 
                 int allIdleTimeSeconds) {

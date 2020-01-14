@@ -16,6 +16,7 @@
 * 生成 ID 的速度有要求. 例如, 在一个高吞吐量的场景中, 需要每秒生成几万个 ID (Twitter 最新的峰值到达了143,199 Tweets/s, 也就是 10万+/秒)
 * 整个服务最好没有单点
 
+
 如果没有上面这些限制, 问题会相对简单, 例如:
 
 * 直接利用 UUID.randomUUID() 接口来生成 unique ID (http://www.ietf.org/rfc/rfc4122.txt). 但这个方案生成的 ID 有 128 bits, 另外, 生成的 ID 中也没有带 Timestamp

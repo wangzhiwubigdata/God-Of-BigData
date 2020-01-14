@@ -1,4 +1,5 @@
 ## 引言
+
 狭义的分布式系统指由网络连接的计算机系统，每个节点独立地承担计算或存储任务，节点间通过网络协同工作。广义的分布式系统是一个相对的概念，正如Leslie Lamport所说[1]：
 What is a distributed systeme. Distribution is in the eye of the beholder.To the user sitting at the keyboard, his IBM personal computer is a nondistributed system. To a flea crawling around on the circuit board, or to the engineer who designed it, it's very much a distributed system.
  

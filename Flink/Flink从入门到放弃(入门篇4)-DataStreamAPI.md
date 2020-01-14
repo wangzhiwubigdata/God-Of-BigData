@@ -16,6 +16,7 @@ dataStream.map(new MapFunction<Integer, Integer>() {
 });
 ```
 
+
 ### FlatMap
 
 * DataStream→DataStream

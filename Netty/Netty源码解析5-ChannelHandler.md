@@ -9,6 +9,7 @@ ChannelHandler并不处理事件，而由其子类代为处理：ChannelInboundH
 
 ### 1.ChannelHandler
 
+
 ChannaleHandler 作为最顶层的接口，并不处理入站和出站事件，所以接口中只包含最基本的方法：
 ```
 // Handler本身被添加到ChannelPipeline时调用

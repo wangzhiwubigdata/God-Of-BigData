@@ -10,6 +10,7 @@ http://tutorials.jenkov.com/java-nio/index.html
 
 #### Buffer(缓冲区)介绍
 
+
 通常来说NIO中的所有IO都是从 Channel（通道） 开始的。
 
 * 从通道进行数据读取 ：创建一个缓冲区，然后请求通道读取数据。

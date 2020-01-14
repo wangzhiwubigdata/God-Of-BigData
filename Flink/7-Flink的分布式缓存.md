@@ -14,6 +14,7 @@ Flink提供了一个分布式缓存，类似于hadoop，可以使用户在并行
 //获取运行环境
 ExecutionEnvironment env = ExecutionEnvironment.getExecutionEnvironment();
 
+
 //1：注册一个文件,可以使用hdfs上的文件 也可以是本地文件进行测试
 env.registerCachedFile("/Users/wangzhiwu/WorkSpace/quickstart/text","a.txt");
 

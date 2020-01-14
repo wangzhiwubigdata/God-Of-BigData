@@ -14,6 +14,7 @@ option参数
 -v : 输出JVM启动时显示指定的JVM参数
 其中[option]、[hostid]参数也可以不写。
 
+
 示例
 ```
 $ jps -l -m

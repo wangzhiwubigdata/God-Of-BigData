@@ -9,6 +9,7 @@ Kafka可以作为Flink的source和sink
 
 ### kafka简单介绍
 
+
 关于kafka，我们会有专题文章介绍，这里简单介绍几个必须知道的概念。
 
 **1.生产者（Producer）**

@@ -15,6 +15,7 @@
 * CopyOnWriteArrayList源码分析(JDK1.7.0_40版本)
 * CopyOnWriteArrayList示例
 
+
 ## CopyOnWriteArrayList介绍
 它相当于线程安全的ArrayList。和ArrayList一样，它是个可变数组；但是和ArrayList不同的时，它具有以下特性：
 1. 它最适合于具有以下特征的应用程序：List 大小通常保持很小，只读操作远多于可变操作，需要在遍历期间防止线程间的冲突。

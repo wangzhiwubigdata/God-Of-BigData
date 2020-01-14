@@ -20,6 +20,7 @@
     private static final LogLevel DEFAULT_LEVEL = LogLevel.DEBUG;
 ```
 
+
 看完成员变量，在移目构造方法，LoggingHandler的构造方法较多，一个典型的如下：
 
 ```

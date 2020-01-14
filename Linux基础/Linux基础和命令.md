@@ -15,6 +15,7 @@ https://github.com/jaywcjlove/linux-command
 
 #### 1.man和page
 
+
 ```
 1.内部命令：echo
 查看内部命令帮助：help echo 或者 man echo

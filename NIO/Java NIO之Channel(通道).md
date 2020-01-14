@@ -8,6 +8,7 @@ http://tutorials.jenkov.com/java-nio/index.html
 
 ## Java NIO之Channel（通道）
 
+
 #### Buffer(缓冲区)介绍
 
 通常来说NIO中的所有IO都是从 Channel（通道） 开始的。

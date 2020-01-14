@@ -9,6 +9,7 @@
 
 对从服务器发往客户端的报文进行处理，一般用来进行编码、发送报文到客户端
 
+
 　　Netty中可以注册多个handler。`ChannelInboundHandler`按照注册的先后顺序执行；`ChannelOutboundHandler`按照注册的先后顺序逆序执行。
   
   

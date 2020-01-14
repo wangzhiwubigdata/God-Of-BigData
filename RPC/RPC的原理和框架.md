@@ -16,6 +16,7 @@ Nelson 的论文中指出实现 RPC 的程序包括 5 个部分：
 
 ![a3615b0de4fd967132726e4ffd191b03](RPC的原理和框架.resources/C5A0EF49-E0B0-4C66-A113-C7DF6F913415.png)
 
+
 这里 user 就是 client 端，当 user 想发起一个远程调用时，它实际是通过本地调用user-stub。user-stub 负责将调用的接口、方法和参数通过约定的协议规范进行编码并通过本地的 RPCRuntime 实例传输到远端的实例。远端 RPCRuntime 实例收到请求后交给 server-stub 进行解码后发起本地端调用，调用结果再返回给 user 端。
 
 ![0834cc951b7fbaf68dbbe767869158ce](RPC的原理和框架.resources/DBE43382-274A-4E34-8D8B-A9F91644E2E9.png)

@@ -17,6 +17,7 @@ Flink提供了封装好的写入Redis的包给我们用，首先我们要新增�
 
 ```
 
+
 然后我们实现一个自己的RedisSinkExample：
 
 ```

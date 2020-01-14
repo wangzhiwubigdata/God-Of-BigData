@@ -15,6 +15,7 @@
 ![d466ed9d3338048745899c7db8150c5a](Flink从入门到放弃(入门篇2)-本地环境搭建&构建第一个Flink应用.resources/1A1D2049-1042-43E1-BE0B-6D9FAA8224BE.png)
 
 
+
 开发工具推荐使用 ItelliJ IDEA。
 
 #### 第一种方式

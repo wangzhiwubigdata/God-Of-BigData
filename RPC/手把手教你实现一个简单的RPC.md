@@ -14,6 +14,7 @@
 
 那么如何实现远程过程调用，也就是RPC呢，一个完整的RPC流程，可以用下面这张图来描述：
 
+
 ![e0876518a5b3b62cee126075de90d50d](手把手教你实现一个简单的RPC.resources/D40C4121-5F8D-46FA-B8F0-5F45B9DE1CA0.png)
 
 其中左边的Client，对应的就是前面的Service A，而右边的Server，对应的则是Service B。

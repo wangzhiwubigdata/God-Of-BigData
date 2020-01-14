@@ -12,6 +12,7 @@ ConcurrentLinkedQueue是线程安全的队列，它适用于“高并发”的�
 ### ConcurrentLinkedQueue原理和数据结构
 ConcurrentLinkedQueue的数据结构，如下图所示：![2c9f34f0d8819f5a0c03ecbe99b7ca82](大数据成神之路-Java高级特性增强(ConcurrentLinkedQueue).resources/2C447958-48AF-4B02-A30E-52AA0038497C.jpg)
 说明：
+
 1. ConcurrentLinkedQueue继承于AbstractQueue。
 2. ConcurrentLinkedQueue内部是通过链表来实现的。它同时包含链表的头节点head和尾节点tail。ConcurrentLinkedQueue按照FIFO（先进先出）原则对元素进行排序。元素都是从尾部插入到链表，从头部开始返回。
 3. ConcurrentLinkedQueue的链表Node中的next的类型是volatile，而且链表数据item的类型也是volatile。关于volatile，我们知道它的语义包含："即对一个volatile变量的读，总是能看到（任意线程）对这个volatile变量最后的写入"。ConcurrentLinkedQueue就是通过volatile来实现多线程对竞争资源的互斥访问的.

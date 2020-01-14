@@ -7,6 +7,7 @@ buffer中文名又叫缓冲区，按照维基百科的解释，是"在数据传�
 
 根据这个定义，我们可以知道涉及I/O(特别是I/O写)的地方，基本会有Buffer了。就Java来说，我们非常熟悉的Old I/O--`InputStream`&`OutputStream`系列API，基本都是在内部使用到了buffer。Java课程老师就教过，必须调用`OutputStream.flush()`，才能保证数据写入生效！
 
+
 而NIO中则直接将buffer这个概念封装成了对象，其中最常用的大概是ByteBuffer了。于是使用方式变为了：将数据写入Buffer，flip()一下，然后将数据读出来。于是，buffer的概念更加深入人心了！
 
 Netty中的buffer也不例外。不同的是，Netty的buffer专为网络通讯而生，所以它又叫ChannelBuffer(好吧其实没有什么因果关系…)。我们下面就来讲讲Netty中得buffer。当然，关于Netty，我们必须讲讲它的所谓"Zero-Copy-Capable"机制。

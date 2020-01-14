@@ -13,6 +13,7 @@
 * 如果没有启用 checkpointing，则使用无重启 (no restart) 策略。如果启用了 checkpointing，但没有配置重启策略，则使用固定间隔 (fixed-delay) 策略
 * 重启策略可以在flink-conf.yaml中配置，表示全局的配置。也可以在应用代码中动态指定，会覆盖全局配置
 
+
 ## 固定间隔
 
 第一种：全局配置 flink-conf.yaml
