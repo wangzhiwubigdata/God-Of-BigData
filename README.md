@@ -46,6 +46,60 @@
   </table>
 <br/>
 
+### 高级进阶系列
+
+<table>
+    <tr>
+      
+      <th><img width="50px" src="pictures/flink.png"></th>
+      
+    </tr>
+    <tr>
+
+      <td align="center"><a href="#Flink实战进阶文章合集">Flink</a></td>
+      
+    </tr>
+  </table>
+<br/>
+
+
+
+
+### Flink实战进阶文章合集
+
+1. [菜鸟供应链实时技术架构演进](https://mp.weixin.qq.com/s/fnx2GnbCWNcaptVPsSp7dw)
+2. [趣头条实战-基于Flink+ClickHouse构建实时数据平台](https://mp.weixin.qq.com/s/s6YFOINMw9TKg-QVOkZT9A)
+3. [ApacheFlink新场景-OLAP引擎](https://mp.weixin.qq.com/s/NLwYpjzNgkR8O5zRg7RCoQ)
+4. [说说Flink DataStream的八种物理分区逻辑](https://mp.weixin.qq.com/s/d_jzHb-b7LEGNz1CN34zMg)
+5. [State Processor API：如何读取，写入和修改 Flink 应用程序的状态](https://mp.weixin.qq.com/s/eHPQx3kGKnhXeZpLhUNvng)
+6. [Flink滑动窗口原理与细粒度滑动窗口的性能问题](https://mp.weixin.qq.com/s/Q4k0xgPCOUQ-A2DQ-XaJgw)
+7. [基于Flink快速开发实时TopN](https://mp.weixin.qq.com/s/Ppz5740WTB7lTTLHNL72Tg)
+8. [使用 Apache Flink 开发实时 ETL](使用 Apache Flink 开发实时 ETL)
+9. [Flink Source/Sink探究与实践：RocketMQ数据写入HBase](https://mp.weixin.qq.com/s/kZQRQBVjYiXKfMhKM7SSqQ)
+10. [Spark/Flink广播实现作业配置动态更新](https://mp.weixin.qq.com/s/GDylIWCDnjpX9_X6T9NmMA)
+11. [Flink全链路延迟的测量方式](https://mp.weixin.qq.com/s/A6CIPsGf-aCWXkB7O-toVw)
+12. [Flink原理-Flink中的数据抽象及数据交换过程](https://mp.weixin.qq.com/s/5BlCzguYiEP1h48jwkos2w)
+13. [Flink SQL Window源码全解析](https://mp.weixin.qq.com/s/UkpkS_JiRGR0ibZKYechbg)
+14. [Flink DataStream维度表Join的简单方案](https://mp.weixin.qq.com/s/e-lyViKV4NPmOVwA5Jn6Qw)
+15. [Apache Flink的内存管理](https://mp.weixin.qq.com/s/cBMrF814jGtEFdve0Lrr6g)
+16. [Flink1.9整合Kafka实战](https://mp.weixin.qq.com/s/e0BQoY5Y79NHhcQ9MqltFQ)
+17. [Apache Flink在小米的发展和应用](https://mp.weixin.qq.com/s/KbhmJCW80UmeFwRxM3jerg)
+18. [基于Kafka+Flink+Redis的电商大屏实时计算案例](https://mp.weixin.qq.com/s/BPzOBz7oTfn2_yW8tevEEw)
+19. [Flink实战-壳找房基于Flink的实时平台建设](https://mp.weixin.qq.com/s/TsU_5N0Csfw-afN9AdAihw)
+20. [用Flink取代Spark Streaming！知乎实时数仓架构演进](https://mp.weixin.qq.com/s/0M8XLTgpj6jWNcokNhyxAw)
+21. [Flink实时数仓-美团点评实战](https://mp.weixin.qq.com/s/Oom-TaEsT6GKGs95dJil5Q)
+22. [来将可留姓名？Flink最强学习资源合集!](https://mp.weixin.qq.com/s/13w43iYT3-riIj757HPGxw)
+23. [数据不撒谎，Flink-Kafka性能压测全记录!](https://mp.weixin.qq.com/s/0VXqbzLBj5rZjjf4jAc3UQ)
+24. [菜鸟在物流场景中基于Flink的流计算实践](https://mp.weixin.qq.com/s/2_8uOdDJwzYxUP-NLh6VhA)
+25. [基于Flink构建实时数据仓库](https://mp.weixin.qq.com/s/Rhgt33y102WzR9-Zq15iVQ)
+26. [Flink/Spark 如何实现动态更新作业配置](https://mp.weixin.qq.com/s/sjRV_F9tXEfqKL_00rJc7w)
+
+### Spark实战进阶文章合集
+
+
+
+
+
 ## 大数据开发基础
 
 ### 一、Java基础
