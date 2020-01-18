@@ -86,7 +86,6 @@ val dataRDD = sc.parallelize(data,2)
 执行结果如下：
 
 <div align="center"> <img src="../pictures/scala-分区数.png"/> </div>
-
 ### 2.2 引用外部存储系统中的数据集
 
 引用外部存储系统中的数据集，例如本地文件系统，HDFS，HBase 或支持 Hadoop InputFormat 的任何数据源。
@@ -179,7 +178,6 @@ Spark 会自动监视每个节点上的缓存使用情况，并按照最近最�
 <div align="center"> <img width="600px" src="../pictures/spark-reducebykey.png"/> </div>
 
 
-
 ### 5.2 Shuffle的影响
 
 Shuffle 是一项昂贵的操作，因为它通常会跨节点操作数据，这会涉及磁盘 I/O，网络 I/O，和数据序列化。某些 Shuffle 操作还会消耗大量的堆内存，因为它们使用堆内存来临时存储需要网络传输的数据。Shuffle 还会在磁盘上生成大量中间文件，从 Spark 1.3 开始，这些文件将被保留，直到相应的 RDD 不再使用并进行垃圾回收，这样做是为了避免在计算时重复创建 Shuffle 文件。如果应用程序长期保留对这些 RDD 的引用，则垃圾回收可能在很长一段时间后才会发生，这意味着长时间运行的 Spark 作业可能会占用大量磁盘空间，通常可以使用 `spark.local.dir` 参数来指定这些临时文件的存储目录。
@@ -206,7 +204,6 @@ RDD 和它的父 RDD(s) 之间的依赖关系分为两种不同的类型：
 <div align="center"> <img width="600px" src="../pictures/spark-窄依赖和宽依赖.png"/> </div>
 
 
-
 区分这两种依赖是非常有用的：
 
 + 首先，窄依赖允许在一个集群节点上以流水线的方式（pipeline）对父分区数据进行计算，例如先执行 map 操作，然后执行 filter 操作。而宽依赖则需要计算好所有父分区的数据，然后再在节点之间进行 Shuffle，这与 MapReduce 类似。
@@ -222,7 +219,6 @@ RDD(s) 及其之间的依赖关系组成了 DAG(有向无环图)，DAG 定义了
 + 对于宽依赖，由于 Shuffle 的存在，只能在父 RDD(s) 被 Shuffle 处理完成后，才能开始接下来的计算，因此遇到宽依赖就需要重新划分阶段。
 
 <div align="center"> <img width="600px" height="600px" src="../pictures/spark-DAG.png"/> </div>
-
 
 
 

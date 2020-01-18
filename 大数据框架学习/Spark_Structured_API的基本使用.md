@@ -26,7 +26,6 @@ import spark.implicits._
 可以使用 `spark-shell` 进行测试，需要注意的是 `spark-shell` 启动后会自动创建一个名为 `spark` 的 `SparkSession`，在命令行中可以直接引用即可：
 
 <div align="center"> <img src="../pictures/spark-sql-shell.png"/> </div>
-
 <br/>
 
 ### 1.2 创建Dataset

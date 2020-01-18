@@ -49,6 +49,8 @@
 
 ### 大数据开发实战进阶篇
 
+这里的文章主要是我平时发表在公众号，博客等的文章，精心挑选，以飨读者。
+
 <table>
     <tr>
       <th><img width="50px" src="pictures/flink.png"></th>
@@ -80,7 +82,7 @@ TODO
  * [大数据成神之路-Java高级特性增强(HashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashMap).md)
  * [大数据成神之路-Java高级特性增强(HashSet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashSet).md)
  * [大数据成神之路-Java高级特性增强(LinkedHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedHashMap).md)
- 
+
 ### 二、NIO基础
  * [大数据成神之路-Java高级特性增强-NIO大纲](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA-NIO.md)
  * [NIO概览](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/NIO%E6%A6%82%E8%A7%88.md)
@@ -132,7 +134,7 @@ TODO
    * [分布式锁的解决方案(二)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88(%E4%BA%8C).md)
    * [分布式事务的解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
    * [分布式ID生成器解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8FID%E7%94%9F%E6%88%90%E5%99%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
-   
+
 ### 六、大数据框架开发基础-Zookeeper
 
    * [安装和运行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%AE%89%E8%A3%85%E5%92%8C%E8%BF%90%E8%A1%8C.md)
@@ -140,7 +142,7 @@ TODO
    * [zookeeper应用程序](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/ZooKeeper%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.md)
    * [zookeeper开发实例](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B.md)
    * [zookeeper集群构建](http://www.importnew.com/23237.html)
-   
+
 ### 七、大数据框架开发基础-RPC
 
    * [RPC简单介绍](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/RPC%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D.md)
@@ -159,7 +161,7 @@ TODO
    * [Netty源码解析7-ChannelHandler实例之TimeoutHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%907-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BTimeoutHandler.md)
    * [Netty源码解析8-ChannelHandler实例之CodecHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%908-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BCodecHandler.md)
    * [Netty源码解析9-ChannelHandler实例之MessageToByteEncoder](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%909-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BMessageToByteEncoder.md)
-    
+
 
 ## 第二部分:大数据框架学习篇
 
@@ -368,6 +370,24 @@ TODO
 
 ### Spark实战进阶文章合集
 
+1. [如果你在准备面试，好好看看这130道题](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486986&idx=1&sn=422d1a3c11c72ff97b32cc01142839f4&chksm=fd3d489fca4ac1895242ab94b932b12c65dc57b5f3a16acc7084dc8a189e9026290245a64c4f&token=1999457569&lang=zh_CN#rd)
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+
+
+
+
 
 ### Kafka实战进阶文章合集
 
@@ -390,19 +410,16 @@ TODO
 关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
 
 <div align="center"> <img width="350px" src="qrcodes/wechat01.png"/> </div>
- 
 
 ## KKK、如果对你有用，欢迎请我喝杯咖啡
 备注Github，感谢您～
 <div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
- 
 
 ## HHH、扫我加群
  备注**来自GitHub加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpeg"/> </div>
- 
- 
+
 ## 为什么有这个文档
 - 以前这里只是几个txt文档
 - 是我面试腾讯阿里美团等公司大数据开发工程师的过程中总结出来的大数据开发的必知必会的知识点~
@@ -426,5 +443,5 @@ TODO
 本系列文章希望为那些还在数据开发方向迷茫的人领路，文章会持续更新
 
 欢迎关注公众号‘大数据技术与架构’或者搜索import_bigdata关注~
- 
+
  
