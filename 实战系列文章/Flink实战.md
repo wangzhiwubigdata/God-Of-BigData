@@ -26,3 +26,25 @@
 24. [菜鸟在物流场景中基于Flink的流计算实践](https://mp.weixin.qq.com/s/2_8uOdDJwzYxUP-NLh6VhA)
 25. [基于Flink构建实时数据仓库](https://mp.weixin.qq.com/s/Rhgt33y102WzR9-Zq15iVQ)
 26. [Flink/Spark 如何实现动态更新作业配置](https://mp.weixin.qq.com/s/sjRV_F9tXEfqKL_00rJc7w)
+27. [Apache Flink结合Apache Kafka实现端到端的一致性语义](https://mp.weixin.qq.com/s/Rza4aozOuTI928542Q8eQA)
+28. [Flink在滴滴出行的应用与实践](https://mp.weixin.qq.com/s/vRwWOf38Ay_f2wfgcCvEQQ)
+29. [批流统一计算引擎的动力源泉—Flink Shuffle机制的重构与优化](https://mp.weixin.qq.com/s/pcr7xn2D5Nrvmsb5zPXJmQ)
+30. [腾讯基于Flink的实时流计算平台演进之路](https://mp.weixin.qq.com/s/CYLrUxYojxpYFlUXhqEesg)
+31. [Flink进阶-Flink CEP(复杂事件处理)](https://mp.weixin.qq.com/s/27sXcAZQJ33gOTfmGCAqPA)
+32. [Flink基于EventTime和WaterMark处理乱序事件和晚到的数据](https://mp.weixin.qq.com/s/Pbzd7aK42bcbvRf40w4EXw)
+33. [Flink 最锋利的武器：Flink SQL 入门和实战](https://mp.weixin.qq.com/s/d-zJ2ZGElARsfxTWb7VW-Q)
+34. [Flink Back Pressure](https://mp.weixin.qq.com/s/xkmLN2OJl_bwyCcgXx6ZeQ)
+35. [最火的实时计算框架Flink和下一代分布式消息队列Pulsar的批流融合](https://mp.weixin.qq.com/s/_5Vxsz7hQytwZYQDZmRdyQ)
+
+
+
+
+
+
+
+
+
+
+
+
+

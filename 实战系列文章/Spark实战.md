@@ -40,8 +40,9 @@
 38. [Spark之数据倾斜调优](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247484956&idx=1&sn=9182a40fcf1fced04acee81aa9261bfe&chksm=fd3d4089ca4ac99f23952f0d627db4600a81808d98b1a635ae40e06c939e4a229a47d666de47&token=1999457569&lang=zh_CN#rd)
 39. [你不得不知道的知识-零拷贝](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247484766&idx=1&sn=8d0aeaa1166a9338df9f28bb47959f4a&chksm=fd3d43cbca4acadd0dfc9e753ca4fe1cc2ca49060d886b359bdf3537809015b04f82b4be27ac&token=1999457569&lang=zh_CN#rd)
 40. [Spark Streaming消费Kafka数据的两种方案](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247484751&idx=1&sn=11315f599b39eac96c17a78da2fa1258&chksm=fd3d43daca4acaccc624947f5fa84f650e7f61d8638feda67db07cacf51bc985faae74cc94c3&token=1999457569&lang=zh_CN#rd)
-
-
+41. [Spark Shuffle在网易的优化](https://mp.weixin.qq.com/s/1WNda357-UtClsVbwWvDfA)
+42. [SparkSQL极简入门](https://mp.weixin.qq.com/s/r6s3a4hqAjxsrRy49aNS_w)
+43. [Spark SQL重点知识总结](https://mp.weixin.qq.com/s/MFWziDtpIjRBXkdgoNQ3Fw)
 
 
 
