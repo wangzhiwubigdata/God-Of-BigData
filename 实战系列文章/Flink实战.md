@@ -35,11 +35,22 @@
 33. [Flink 最锋利的武器：Flink SQL 入门和实战](https://mp.weixin.qq.com/s/d-zJ2ZGElARsfxTWb7VW-Q)
 34. [Flink Back Pressure](https://mp.weixin.qq.com/s/xkmLN2OJl_bwyCcgXx6ZeQ)
 35. [最火的实时计算框架Flink和下一代分布式消息队列Pulsar的批流融合](https://mp.weixin.qq.com/s/_5Vxsz7hQytwZYQDZmRdyQ)
-
-
-
-
-
+36. [Flink Exactly-Once 投递实现浅析](https://mp.weixin.qq.com/s/tJwS9lGmcJ5uwLJfrsKK-g)
+37. [Flink 网络传输优化技术](https://mp.weixin.qq.com/s/kQsWaqQWjF0agSmrzmpttw)
+38. [Apache Flink 在快手的应用与实践](https://mp.weixin.qq.com/s/c9GhUuDONCtcS_4NaOMGlQ)
+39. [基于Flink构建实时数据仓库](https://mp.weixin.qq.com/s/Rhgt33y102WzR9-Zq15iVQ)
+40. [菜鸟在物流场景中基于Flink的流计算实践](https://mp.weixin.qq.com/s/2_8uOdDJwzYxUP-NLh6VhA)
+41. [数据不撒谎，Flink-Kafka性能压测全记录！](https://mp.weixin.qq.com/s/0VXqbzLBj5rZjjf4jAc3UQ)
+42. [腾讯基于 Flink 的实时流计算平台演进之路](https://mp.weixin.qq.com/s/9UEouSK_yInR1GqoUYhmNQ)
+43. [Flink CEP在哈啰出行的应用](https://mp.weixin.qq.com/s/6_Wco8e1BX0NgrsXMI0haQ)
+44. [基于Flink和Kafka构建批流一体的数据集成平台](https://mp.weixin.qq.com/s/1oB5xyy2MPlfMBUXX3JI4w)
+45. [补齐短板 | 看阿里巴巴如何玩转Flink+Hive](https://mp.weixin.qq.com/s/D4gGgqdfNU8BD7rRScRzGQ)
+46. [Flink实时数仓 | 美团点评实战](https://mp.weixin.qq.com/s/Oom-TaEsT6GKGs95dJil5Q)
+47. [用Flink取代Spark Streaming！知乎实时数仓架构演进](https://mp.weixin.qq.com/s/0M8XLTgpj6jWNcokNhyxAw)
+48. [Flink CheckPoint奇技淫巧 | 原理和在生产中的应用](https://mp.weixin.qq.com/s/FVU2FpMUwkALoreyKSICFw)
+49. [使用 Apache Flink 开发实时ETL](https://mp.weixin.qq.com/s/CwOTkmWaoPuHssgbF1-XKw)
+50. [使用 Kubernetes 部署 Flink 应用](https://mp.weixin.qq.com/s/fnvmcmIq1y_Vkf3X1vgzRQ)
+51. [Flink 实战 | 贝壳找房基于Flink的实时平台建设](https://mp.weixin.qq.com/s/TsU_5N0Csfw-afN9AdAihw)
 
 
 

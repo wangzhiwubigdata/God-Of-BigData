@@ -43,8 +43,9 @@
 41. [Spark Shuffle在网易的优化](https://mp.weixin.qq.com/s/1WNda357-UtClsVbwWvDfA)
 42. [SparkSQL极简入门](https://mp.weixin.qq.com/s/r6s3a4hqAjxsrRy49aNS_w)
 43. [Spark SQL重点知识总结](https://mp.weixin.qq.com/s/MFWziDtpIjRBXkdgoNQ3Fw)
-
-
+44. [Apache Spark3.0什么样？一文读懂Apache Spark最新技术发展与展望](https://mp.weixin.qq.com/s/rOzg23blA6efKLAcMZ18nw)
+45. [Flink/Spark 如何实现动态更新作业配置](https://mp.weixin.qq.com/s/sjRV_F9tXEfqKL_00rJc7w)
+46. [[Spark调优 | Spark SQL参数调优](https://mp.weixin.qq.com/s/jkncoXo5fn_GQtp-eImFiA)]
 
 
 
