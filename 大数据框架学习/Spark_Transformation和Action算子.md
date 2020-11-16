@@ -214,8 +214,8 @@ val list01 = List((100, "hadoop"), (90, "spark"), (120, "storm"))
 sc.parallelize(list01).sortByKey(ascending = false).foreach(println)
 // 输出
 (120,storm)
-(90,spark)
 (100,hadoop)
+(90,spark)
 ```
 
 按照指定元素进行排序：
