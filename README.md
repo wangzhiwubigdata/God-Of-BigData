@@ -58,9 +58,9 @@
       <th><img width="50px" src="pictures/kafka.png"></th>
     </tr>
     <tr>
-      <td align="center"><a href="#Flink实战进阶文章合集">Flink实战进阶</a></td>
-      <td align="center"><a href="#Spark实战进阶文章合集">Spark实战进阶</a></td>
-      <td align="center"><a href="#Kafka实战进阶文章合集">Kafka实战进阶</a></td>
+      <td align="center"><a href="#Flink实战合集">Flink实战进阶</a></td>
+      <td align="center"><a href="#Spark实战合集">Spark实战进阶</a></td>
+      <td align="center"><a href="#Kafka实战合集">Kafka实战进阶</a></td>
     </tr>
   </table>
 <br/>
@@ -374,7 +374,7 @@ TODO
 
 ### 二、Spark实战进阶文章合集
 
-#### Spark 实战合集
+#### Spark实战合集
 
 [点我查看Spark实战合集](实战系列文章/Spark实战.md)
 
@@ -421,7 +421,7 @@ TODO
 
 ### 三、Kafka实战进阶文章合集
 
-#### Kafka 实战合集
+#### Kafka实战合集
 
 [点我查看Kafka实战合集](实战系列文章/Kafka实战.md)
 
