@@ -56,11 +56,13 @@
       <th><img width="50px" src="pictures/flink.png"></th>
       <th><img width="50px" src="pictures/spark.jpg"></th>
       <th><img width="50px" src="pictures/kafka.png"></th>
+      <th><img width="50px" src="pictures/olap.jpg"></th>
     </tr>
     <tr>
       <td align="center"><a href="#Flink实战进阶文章合集">Flink实战进阶</a></td>
       <td align="center"><a href="#Spark实战进阶文章合集">Spark实战进阶</a></td>
       <td align="center"><a href="#Kafka实战进阶文章合集">Kafka实战进阶</a></td>
+      <td align="center"><a href="#Kafka实战进阶文章合集">OLAP实战进阶</a></td>
     </tr>
   </table>
 <br/>
@@ -425,12 +427,17 @@ TODO
 
 [点我查看Kafka实战合集](实战系列文章/Kafka实战.md)
 
-
 ### 四、数据仓库实战系列
+
+[点我查看数据仓库实战合集](实战系列文章/数据仓库.md)
 
 ### 五、OLAP实战文章系列
 
+[点我查看OLAP实战合集](实战系列文章/OLAP.md)
+
 ### 六、面试系列合集
+
+[点我查看面试系列合集](实战系列文章/面试系列.md)
 
 
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
