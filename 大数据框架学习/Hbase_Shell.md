@@ -185,7 +185,7 @@ get 'Student','rowkey3','baseInfo:name'
 
 ```shell
 # 删除指定行
-delete 'Student','rowkey3'
+deleteall 'Student','rowkey3'
 # 删除指定行中指定列的数据
 delete 'Student','rowkey3','baseInfo:name'
 ```
