@@ -8,6 +8,7 @@
 </div>
 
 ## 大数据成神之路目录
+- 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113095957)
 
 ### 大数据开发基础篇
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
