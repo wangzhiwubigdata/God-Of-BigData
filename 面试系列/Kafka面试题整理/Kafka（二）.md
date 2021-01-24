@@ -17,7 +17,7 @@
 &emsp; 在Kafka集群中，broker指Kafka服务器。  
 &emsp; 术语解析：  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Kafka%E4%B8%ADbroker%E7%9A%84%E6%84%8F%E4%B9%89.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Kafka%E4%B8%ADbroker%E7%9A%84%E6%84%8F%E4%B9%89.png"/>  
 <p align="center">
 </p>
 </p>  

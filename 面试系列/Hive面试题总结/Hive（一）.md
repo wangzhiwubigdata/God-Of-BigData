@@ -24,13 +24,13 @@
 ### 2、Hive的HSQL转换为MapReduce的过程？（☆☆☆☆☆）
 &emsp; HiveSQL ->AST(抽象语法树) -> QB(查询块) ->OperatorTree（操作树）->优化后的操作树->mapreduce任务树->优化后的mapreduce任务树  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Hive%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HSQL%E8%BD%ACMR%EF%BC%881%EF%BC%89.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Hive%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HSQL%E8%BD%ACMR%EF%BC%881%EF%BC%89.png"/>  
 <p align="center">
 </p>
 </p>  
 
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Hive%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HSQL%E8%BD%ACMR%EF%BC%882%EF%BC%89.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Hive%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HSQL%E8%BD%ACMR%EF%BC%882%EF%BC%89.png"/>  
 <p align="center">
 </p>
 </p>  
@@ -46,7 +46,7 @@
 ### 3、Hive底层与数据库交互原理？（☆☆☆☆☆）
 &emsp; 由于Hive的元数据可能要面临不断地更新、修改和读取操作，所以它显然不适合使用Hadoop文件系统进行存储。目前Hive将元数据存储在RDBMS中，比如存储在MySQL、Derby中。元数据信息包括：存在的表、表的列、权限和更多的其他信息。  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Hive%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Hive%E5%BA%95%E5%B1%82%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%A4%E4%BA%92%E5%8E%9F%E7%90%86.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Hive%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Hive%E5%BA%95%E5%B1%82%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%A4%E4%BA%92%E5%8E%9F%E7%90%86.png"/>  
 <p align="center">
 </p>
 </p>  
@@ -59,7 +59,7 @@
 &emsp; hive是基于Hadoop的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供完整的sql查询功能，可以将sql语句转换为MapReduce任务进行运行。其优点是学习成本低，可以通过类SQL语句快速实现简单的MapReduce统计，不必开发专门的MapReduce应用，十分适合数据仓库的统计分析，但是Hive不支持实时查询。  
 &emsp; Hive与关系型数据库的区别：  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Hive%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Hive%E5%92%8CRDBMS%E5%BC%82%E5%90%8C.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Hive%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Hive%E5%92%8CRDBMS%E5%BC%82%E5%90%8C.png"/>  
 <p align="center">
 </p>
 </p>  

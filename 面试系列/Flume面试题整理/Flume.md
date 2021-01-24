@@ -37,7 +37,7 @@
 
 ### 9、flume有哪些组件，flume的source、channel、sink具体是做什么的（☆☆☆☆☆）  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Flume%E9%9D%A2%E8%AF%95%E9%A2%98Pics/flume%E7%9A%84source%E3%80%81channel%E3%80%81sink.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Flume%E9%9D%A2%E8%AF%95%E9%A2%98Pics/flume%E7%9A%84source%E3%80%81channel%E3%80%81sink.png"/>  
 <p align="center">
 </p>
 </p>  

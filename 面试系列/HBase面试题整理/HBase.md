@@ -10,7 +10,7 @@
 
 ### 2、HBase和Hive的区别？  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/HBase%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HBase%E5%92%8CHive%E5%8C%BA%E5%88%AB.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/HBase%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HBase%E5%92%8CHive%E5%8C%BA%E5%88%AB.png"/>  
 <p align="center">
 </p>
 </p>  
@@ -71,7 +71,7 @@ HBase的查询实现只提供两种方式：
 &emsp; 假如我们建立了一张有两个列族的表，添加了10行数据，每个行的每个列族下有10列，这意味着整个表一共有200列（或单元格，因为每个列只有一个版本），
 其中每行有20列。  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/HBase%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HBase%E4%B8%ADscan%E5%AF%B9%E8%B1%A1%E7%9A%84setCache%E5%92%8CsetBatch%E6%96%B9%E6%B3%95.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/HBase%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HBase%E4%B8%ADscan%E5%AF%B9%E8%B1%A1%E7%9A%84setCache%E5%92%8CsetBatch%E6%96%B9%E6%B3%95.png"/>  
 <p align="center">
 </p>
 </p>  
@@ -85,7 +85,7 @@ HBase的查询实现只提供两种方式：
 &emsp; 下图展示了缓存和批量两个参数如何联动，下图中有一个包含9行数据的表，每行都包含一些列。使用了一个缓存为6、批量大小为3的扫描器，
 需要三次RPC请求来传送数据：  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/HBase%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HBase%20Table.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/HBase%E9%9D%A2%E8%AF%95%E9%A2%98Pics/HBase%20Table.png"/>  
 <p align="center">
 </p>
 </p>  

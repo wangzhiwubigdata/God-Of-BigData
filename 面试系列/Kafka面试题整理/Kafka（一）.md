@@ -17,14 +17,14 @@
 ### 3、Kafka 的设计架构？  
 简单架构如下：  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Kafka%E7%AE%80%E5%8D%95%E6%9E%B6%E6%9E%84.jpg"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Kafka%E7%AE%80%E5%8D%95%E6%9E%B6%E6%9E%84.jpg"/>  
 <p align="center">
 </p>
 </p>  
 
 详细架构如下：  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Kafka%E8%AF%A6%E7%BB%86%E6%9E%B6%E6%9E%84.jpg"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Kafka%E8%AF%A6%E7%BB%86%E6%9E%B6%E6%9E%84.jpg"/>  
 <p align="center">
 </p>
 </p>  
@@ -66,7 +66,7 @@ Kafka 架构分为以下几个部分：
 2）**数据一致性（可回答 Kafka数据一致性原理？）**  
 &emsp; 这里介绍的数据一致性主要是说不论是老的 Leader 还是新选举的 Leader，Consumer 都能读到一样的数据。那么 Kafka 是如何实现的呢？  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/%E6%95%B0%E6%8D%AE%E4%B8%80%E8%87%B4%E6%80%A7.jpg"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/%E6%95%B0%E6%8D%AE%E4%B8%80%E8%87%B4%E6%80%A7.jpg"/>  
 <p align="center">
 </p>
 </p>  
@@ -126,7 +126,7 @@ Kafka 架构分为以下几个部分：
 
 ### 16、Kafka分区分配策略  
 <p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Kafka%E5%88%86%E5%8C%BA%E5%88%86%E9%85%8D%E7%AD%96%E7%95%A5.png"/>  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/pics/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98Pics/Kafka%E5%88%86%E5%8C%BA%E5%88%86%E9%85%8D%E7%AD%96%E7%95%A5.png"/>  
 <p align="center">
 </p>
 </p>  
