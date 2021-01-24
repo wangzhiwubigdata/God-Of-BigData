@@ -457,21 +457,21 @@
 
 
 #### 二、Zookeeper
-&emsp; 1.[Zookeeper面试题总结（一）](面试系列/Zookeeper面试题总结/Zookeeper%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93/Zookeeper.md)  
+&emsp; 1.[Zookeeper面试题总结（一）](面试系列/Zookeeper面试题总结/Zookeeper.md)  
 
 #### 三、Hive
 &emsp; 1.[Hive面试题总结（一）](面试系列/Hive面试题总结/Hive%EF%BC%88%E4%B8%80%EF%BC%89.md)  
-&emsp; 2.[Hive面试题总结（二）](面试系列/Hive面试题总结/Hive%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93/Hive%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
+&emsp; 2.[Hive面试题总结（二）](面试系列/Hive面试题总结/Hive%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
 
 #### 四、HBase
-&emsp; 1.[HBase面试题总结（一）](面试系列/Hive面试题整理/HBase%E9%9D%A2%E8%AF%95%E9%A2%98%E6%95%B4%E7%90%86/HBase.md)  
+&emsp; 1.[HBase面试题总结（一）](面试系列/Hbase面试题整理/HBase.md)  
 
 #### 五、Flume
-&emsp; 1.[Flume面试题总结（一）](面试系列/Flume面试题整理/Flume%E9%9D%A2%E8%AF%95%E9%A2%98%E6%95%B4%E7%90%86/Flume.md)  
+&emsp; 1.[Flume面试题总结（一）](面试系列/Flume面试题整理/Flume.md)  
 
 #### 六、Kafka
 &emsp; 1.[Kafka面试题总结（一）](面试系列/Kafka面试题整理/Kafka%EF%BC%88%E4%B8%80%EF%BC%89.md)  
-&emsp; 2.[Kafka面试题总结（二）](面试系列/Kafka面试题整理/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98%E6%95%B4%E7%90%86/Kafka%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
+&emsp; 2.[Kafka面试题总结（二）](面试系列/Kafka面试题整理/Kafka%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
 
 #### 七、Spark
 &emsp; 1.[Spark面试题总结（一）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%B8%80%EF%BC%89.md)  
