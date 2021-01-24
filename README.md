@@ -69,7 +69,15 @@
 
 ### 大数据开发面试篇
 
-TODO 
+<table>
+    <tr>
+      <th><img width="50px" src="pictures/olap.jpg"></th>
+    </tr>
+    <tr>
+      <td align="center"><a href="####面试系列合集">面试系列合集</a></td>
+    </tr>
+  </table>
+<br/> 
 
 
 ## 第一部分: 大数据开发基础篇
@@ -437,6 +445,12 @@ TODO
 ### 五、OLAP实战文章系列
 
 ### 六、面试系列合集
+
+#### 面试系列合集
+---
+#### 一、Hadoop
+&emsp; 1.[Hadoop面试题总结（一）](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89.md)  
+
 
 
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
