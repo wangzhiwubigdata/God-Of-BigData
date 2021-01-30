@@ -3,7 +3,7 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
-已经更新100+篇~ </br>
+已经更新300+篇~ </br>
 关注[公众号](#QQQ扫我关注公众号)~
 </div>
 
@@ -333,15 +333,7 @@
 4. [Azkaban Flow 2.0 的使用](大数据框架学习/Azkaban_Flow_2.0_的使用.md)
 
 
-## 十一、TODO
-
-### [OLAP引擎-HiveSQL的高级调优和原理分析]
-### [离线列式大数据存储-Hbase的原理和亿级数据下的生产应用]
-### [Nosql之王-Redis高级特性和实现原理]
-
-### [Spark的原理和生产应用(一)]
-### [Spark的原理和生产应用(二)]
-### [Spark的原理和生产应用(三)]
+## 十一、大数据算法
 
 ### [大数据算法(一)]
 ### [大数据算法(二)]
