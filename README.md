@@ -73,9 +73,11 @@
 <table>
     <tr>
       <th><img width="50px" src="pictures/olap.jpg"></th>
+      <th><img width="50px" src="pictures/olap.jpg"></th>
     </tr>
     <tr>
       <td align="center"><a href="#面试系列合集">面试系列合集</a></td>
+      <td align="center"><a href="#大数据算法">大数据算法</a></td>
     </tr>
   </table>
 <br/> 
@@ -334,6 +336,8 @@
 
 
 ## 十一、大数据算法
+
+#### 大数据算法
 
 [大数据算法](https://blog.csdn.net/u013411339/article/details/113429172)
 
