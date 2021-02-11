@@ -302,7 +302,7 @@ End
 方法interrupted()的确判断出当前线程是否是停止状态。但为什么第2个布尔值是false呢？ 官方帮助文档中对interrupted方法的解释：
 测试当前线程是否已经中断。线程的中断状态由该方法清除。 换句话说，如果连续两次调用该方法，则第二次调用返回false。
 
-下面来看一下inInterrupted()方法。
+下面来看一下isInterrupted()方法。
 ```
 public class Run3 {
     public static void main(String args[]){
@@ -321,7 +321,7 @@ public class Run3 {
 stop 1->true
 stop 2->true
 ```
-isInterrupted()并为清除状态，所以打印了两个true。
+isInterrupted()并未清除状态，所以打印了两个true。
 
 **能停止的线程--异常法**
 有了前面学习过的知识点，就可以在线程中用for语句来判断一下线程是否是停止状态，如果是停止状态，则后面的代码不再运行即可：
@@ -403,7 +403,7 @@ public class MyThread extends Thread {
                 System.out.println("i="+(i+1));
             }
 
-            System.out.println("这是for循环外面的语句，也会被执行");
+            System.out.println("这是for循环外面的语句。因为有InterruptedException，所以不会被执行");
         } catch (InterruptedException e) {
             System.out.println("进入MyThread.java类中的catch了。。。");
             e.printStackTrace();
