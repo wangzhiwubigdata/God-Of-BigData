@@ -3,11 +3,12 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
-已经更新100+篇~ </br>
+已经更新300+篇~ </br>
 关注[公众号](#QQQ扫我关注公众号)~
 </div>
 
 ## 大数据成神之路目录
+- 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113097759)
 
 ### 大数据开发基础篇
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
@@ -56,18 +57,30 @@
       <th><img width="50px" src="pictures/flink.png"></th>
       <th><img width="50px" src="pictures/spark.jpg"></th>
       <th><img width="50px" src="pictures/kafka.png"></th>
+      <th><img width="50px" src="pictures/olap.jpg"></th>
     </tr>
     <tr>
-      <td align="center"><a href="#Flink实战进阶文章合集">Flink实战进阶</a></td>
-      <td align="center"><a href="#Spark实战进阶文章合集">Spark实战进阶</a></td>
-      <td align="center"><a href="#Kafka实战进阶文章合集">Kafka实战进阶</a></td>
+      <td align="center"><a href="#Flink实战合集">Flink实战进阶</a></td>
+      <td align="center"><a href="#Spark实战合集">Spark实战进阶</a></td>
+      <td align="center"><a href="#Kafka实战合集">Kafka实战进阶</a></td>
+      <td align="center"><a href="#数据仓库实战合集">OLAP实战进阶</a></td>
     </tr>
   </table>
 <br/>
 
 ### 大数据开发面试篇
 
-TODO 
+<table>
+    <tr>
+      <th><img width="50px" src="pictures/olap.jpg"></th>
+      <th><img width="50px" src="pictures/olap.jpg"></th>
+    </tr>
+    <tr>
+      <td align="center"><a href="#面试系列合集">面试系列合集</a></td>
+      <td align="center"><a href="#大数据算法">大数据算法</a></td>
+    </tr>
+  </table>
+<br/> 
 
 
 ## 第一部分: 大数据开发基础篇
@@ -165,8 +178,7 @@ TODO
 
 ## 第二部分:大数据框架学习篇
 
-本部分引用了Bigdata-Notes的文章，作者是heibaiying，大佬写的文章非常好，欢迎大家关注他的博客。
-我个人会持续补充更有深度和实战性的文章~
+本部分引用作者heibaiying，大佬写的文章非常好，欢迎大家关注他的博客。我个人会持续补充更有深度和实战性的文章~
 
 ### 一、Hadoop
 
@@ -322,24 +334,19 @@ TODO
 4. [Azkaban Flow 2.0 的使用](大数据框架学习/Azkaban_Flow_2.0_的使用.md)
 
 
-## 十一、TODO
+## 十一、大数据算法
 
-### [OLAP引擎-HiveSQL的高级调优和原理分析]
-### [离线列式大数据存储-Hbase的原理和亿级数据下的生产应用]
-### [Nosql之王-Redis高级特性和实现原理]
+#### 大数据算法
 
-### [Spark的原理和生产应用(一)]
-### [Spark的原理和生产应用(二)]
-### [Spark的原理和生产应用(三)]
-
-### [大数据算法(一)]
-### [大数据算法(二)]
-
-
+[大数据算法](https://blog.csdn.net/u013411339/article/details/113429172)
 
 ## 第三部分:大数据开发实战进阶篇
 
-### Flink实战进阶文章合集
+### 一、Flink实战进阶文章合集
+
+#### Flink实战合集
+
+[点我查看Flink实战合集](实战系列文章/Flink实战.md)
 
 1. [菜鸟供应链实时技术架构演进](https://mp.weixin.qq.com/s/fnx2GnbCWNcaptVPsSp7dw)
 2. [趣头条实战-基于Flink+ClickHouse构建实时数据平台](https://mp.weixin.qq.com/s/s6YFOINMw9TKg-QVOkZT9A)
@@ -368,7 +375,11 @@ TODO
 25. [基于Flink构建实时数据仓库](https://mp.weixin.qq.com/s/Rhgt33y102WzR9-Zq15iVQ)
 26. [Flink/Spark 如何实现动态更新作业配置](https://mp.weixin.qq.com/s/sjRV_F9tXEfqKL_00rJc7w)
 
-### Spark实战进阶文章合集
+### 二、Spark实战进阶文章合集
+
+#### Spark实战合集
+
+[点我查看Spark实战合集](实战系列文章/Spark实战.md)
 
 1. [如果你在准备面试，好好看看这130道题](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486986&idx=1&sn=422d1a3c11c72ff97b32cc01142839f4&chksm=fd3d489fca4ac1895242ab94b932b12c65dc57b5f3a16acc7084dc8a189e9026290245a64c4f&token=1999457569&lang=zh_CN#rd)
 2. [ORC文件存储格式的深入探究](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486981&idx=1&sn=9c8fc4c127d7e6108ac4e171e750d490&chksm=fd3d4890ca4ac186614f0dda8ffb2d35693a925b03861a01769c898652b53d0d436bca05ea12&token=1999457569&lang=zh_CN#rd)
@@ -411,15 +422,61 @@ TODO
 39. [你不得不知道的知识-零拷贝](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247484766&idx=1&sn=8d0aeaa1166a9338df9f28bb47959f4a&chksm=fd3d43cbca4acadd0dfc9e753ca4fe1cc2ca49060d886b359bdf3537809015b04f82b4be27ac&token=1999457569&lang=zh_CN#rd)
 40. [Spark Streaming消费Kafka数据的两种方案](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247484751&idx=1&sn=11315f599b39eac96c17a78da2fa1258&chksm=fd3d43daca4acaccc624947f5fa84f650e7f61d8638feda67db07cacf51bc985faae74cc94c3&token=1999457569&lang=zh_CN#rd)
 
+### 三、Kafka实战进阶文章合集
+
+#### Kafka实战合集
+
+[点我查看Kafka实战合集](实战系列文章/Kafka实战.md)
 
 
-### Kafka实战进阶文章合集
+### 四、数据仓库实战系列
+
+#### 数据仓库实战合集
+
+[点我查看数据仓库实战合集](实战系列文章/数据仓库.md)
+
+### 五、OLAP实战文章系列
+
+### 六、面试系列合集
+
+#### 面试系列合集
+---
+#### 一、Hadoop
+&emsp; 1.[Hadoop面试题总结（一）](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89.md)  
+&emsp; 2.[Hadoop面试题总结（二）——HDFS](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94HDFS.md)  
+&emsp; 3.[Hadoop面试题总结（三）——MapReduce](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94MapReduce.md)  
+&emsp; 4.[Hadoop面试题总结（四）——YARN](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94YARN.md)  
+&emsp; 5.[Hadoop面试题总结（五）——优化问题](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%94%EF%BC%89%E2%80%94%E2%80%94%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98.md) 
 
 
+#### 二、Zookeeper
+&emsp; 1.[Zookeeper面试题总结（一）](面试系列/Zookeeper面试题总结/Zookeeper.md)  
 
+#### 三、Hive
+&emsp; 1.[Hive面试题总结（一）](面试系列/Hive面试题总结/Hive%EF%BC%88%E4%B8%80%EF%BC%89.md)  
+&emsp; 2.[Hive面试题总结（二）](面试系列/Hive面试题总结/Hive%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
 
+#### 四、HBase
+&emsp; 1.[HBase面试题总结（一）](面试系列/Hbase面试题整理/HBase.md)  
 
+#### 五、Flume
+&emsp; 1.[Flume面试题总结（一）](面试系列/Flume面试题整理/Flume.md)  
 
+#### 六、Kafka
+&emsp; 1.[Kafka面试题总结（一）](面试系列/Kafka面试题整理/Kafka%EF%BC%88%E4%B8%80%EF%BC%89.md)  
+&emsp; 2.[Kafka面试题总结（二）](面试系列/Kafka面试题整理/Kafka%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
+
+#### 七、Spark
+&emsp; 1.[Spark面试题总结（一）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%B8%80%EF%BC%89.md)  
+&emsp; 2.[Spark面试题总结（二）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
+&emsp; 3.[Spark面试题总结（三）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%B8%89%EF%BC%89.md)  
+&emsp; 4.[Spark面试题总结（四）](面试系列/Spark面试题整理/Spark%EF%BC%88%E5%9B%9B%EF%BC%89.md)  
+  
+&emsp; **Spark性能优化：**  
+&emsp; 5.[Spark面试题总结（五）——几种常见的数据倾斜情况及调优方式](面试系列/Spark面试题整理/Spark调优/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C.md)  
+&emsp; 6.[Spark面试题总结（六）——Shuffle配置调优](面试系列/Spark面试题整理/Spark调优/Shuffle%E9%85%8D%E7%BD%AE%E8%B0%83%E4%BC%98.md)  
+&emsp; 7.[Spark面试题总结（七）——程序开发调优](面试系列/Spark面试题整理/Spark调优/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98.md)  
+&emsp; 8.[Spark面试题总结（八）——运行资源调优](面试系列/Spark面试题整理/Spark调优/%E8%B5%84%E6%BA%90%E8%B0%83%E4%BC%98.md)  
 
 
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
@@ -447,24 +504,10 @@ TODO
 ## 为什么有这个文档
 - 以前这里只是几个txt文档
 - 是我面试腾讯阿里美团等公司大数据开发工程师的过程中总结出来的大数据开发的必知必会的知识点~
-
-但是，我发现，我有必要<br>
-总结一个大数据开发的进阶路线<br>
-我知道很多java后端开发同学厌倦CRUD了，但是又不知道大数据这个路线是啥样的~<br>
-这个是我的成长路线~<br>
-现在看起来<br>
-当初没有走错~<br>
-当然,数据开发有很多方向比如数据仓库，数据分析<br>
-我这里单纯面对数据应用层或者中间件方向，也是大数据方向个人成长比较好的一个方向(我自己认为的，你不同意就算了，哈哈)~ <br>
-这个是我的成长路线<br>
-欢迎各种PR，格式修改也行，总之一切能让这个文档好起来的，都是欢迎的~<br>
+- 后续更新在微信公众号更新，欢迎关注~
 
 ## 言而总之
 **大数据成神之路** 该系列文章将为希望从事大数据开发或者由后端转型为大数据开发的工程师们指出需要学习的知识点和路径，本系列文章同时致敬我曾经在网络上看到无数个Java和大数据系列文章，深受启发同时也收货很多。
-
-本系列文章引用了很多或者二次总结了各位前辈的文章，每篇文章后面都给出了引用，本着不重复造轮子的原则，本人会对其中的一些错误进行订正，感谢各位前辈的付出~
-
-本系列文章希望为那些还在数据开发方向迷茫的人领路，文章会持续更新
 
 欢迎关注公众号‘大数据技术与架构’或者搜索import_bigdata关注~
 

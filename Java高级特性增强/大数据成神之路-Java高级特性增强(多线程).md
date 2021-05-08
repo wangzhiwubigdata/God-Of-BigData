@@ -72,8 +72,8 @@ java并发编程指南
 
 ##### 多线程的创建方式
 
-**继承Thread类**
-```
+**继承`Thread`类**
+```java
 public class MyThread extends Thread {
 	@Override
 	public void run() {
@@ -82,8 +82,8 @@ public class MyThread extends Thread {
 	}
 }
 ```
-**实现Runnable接口**
-```
+**实现`Runnable`接口**
+```java
 public class MyRunnable implements Runnable {
 	@Override
 	public void run() {
@@ -91,17 +91,48 @@ public class MyRunnable implements Runnable {
 	}
 }
 ```
-**线程池**
->《阿里巴巴Java开发手册》在第一章第六节并发处理这一部分也强调到“线程资源必须通过线程池提供，不允许在应用中自行显示创建线程”。
-我们在实际开发环境中，建议使用线程池的方式创建线程。
+**实现`Callable`接口**
+```java
+class ImplementsCallable implements Callable<String>{
+
+    @Override
+    public String call() throws Exception {
+        return UUID.randomUUID().toString().substring(0,8);
+    }
+}
 ```
+```java
+private static void implementsCallable() throws ExecutionException, InterruptedException {
+        //A
+        FutureTask futureTaskA = new FutureTask<String>(new ImplementsCallable());
+        new Thread(futureTaskA,"implementsCallable-A").start();
+
+}
+```
+**线程池**
+> 【强制】线程资源必须通过线程池提供，不允许在应用中自行显式创建线程。 说明：线程池的好处是减少在创建和销毁线程上所消耗的时间以及系统资源的开销，解决资源不足的问题。如果不使用线程池，有可能造成系统创建大量同类线程而导致消耗完内存或者“过度切换”的问题。
+—————《阿里巴巴Java开发手册》泰山版第一章第七节并发处理第3点。
+
+> 【强制】线程池不允许使用Executors去创建，而是通过`ThreadPoolExecutor`的方式，这样的处理方式让写的同学更加明确线程池的运行规则，规避资源耗尽的风险。 说明：`Executors`返回的线程池对象的弊端如下： 1） `FixedThreadPool`和`SingleThreadPool`： 允许的请求队列长度为`Integer.MAX_VALUE`，可能会堆积大量的请求，从而导致OOM。 2） `CachedThreadPool`： 允许的创建线程数量为`Integer.MAX_VALUE`，可能会创建大量的线程，从而导致OOM。————《阿里巴巴Java开发手册》泰山版第一章第七节并发处理第4点。
+
+我们在实际开发环境中，建议使用线程池的方式创建线程。
+
+```java
 public class ThreadPool
 {
 	private static int POOL_NUM = 10;
 	
 	public static void main(String[] args)
 	{
-ExecutorService executorService =               Executors.newFixedThreadPool(5);
+        ExecutorService executorService = new ThreadPoolExecutor(
+                        5,
+                        5,
+                        1l,
+                        TimeUnit.SECONDS,
+                        new LinkedBlockingQueue<>(100),
+                        Executors.defaultThreadFactory(),
+                        new ThreadPoolExecutor.AbortPolicy()
+                );
 		for(int i = 0; i<POOL_NUM; i++)
 		{
 		RunnableThread thread = new RunnableThread();
@@ -271,7 +302,7 @@ End
 方法interrupted()的确判断出当前线程是否是停止状态。但为什么第2个布尔值是false呢？ 官方帮助文档中对interrupted方法的解释：
 测试当前线程是否已经中断。线程的中断状态由该方法清除。 换句话说，如果连续两次调用该方法，则第二次调用返回false。
 
-下面来看一下inInterrupted()方法。
+下面来看一下isInterrupted()方法。
 ```
 public class Run3 {
     public static void main(String args[]){
@@ -290,7 +321,7 @@ public class Run3 {
 stop 1->true
 stop 2->true
 ```
-isInterrupted()并为清除状态，所以打印了两个true。
+isInterrupted()并未清除状态，所以打印了两个true。
 
 **能停止的线程--异常法**
 有了前面学习过的知识点，就可以在线程中用for语句来判断一下线程是否是停止状态，如果是停止状态，则后面的代码不再运行即可：
@@ -372,7 +403,7 @@ public class MyThread extends Thread {
                 System.out.println("i="+(i+1));
             }
 
-            System.out.println("这是for循环外面的语句，也会被执行");
+            System.out.println("这是for循环外面的语句。因为有InterruptedException，所以不会被执行");
         } catch (InterruptedException e) {
             System.out.println("进入MyThread.java类中的catch了。。。");
             e.printStackTrace();
