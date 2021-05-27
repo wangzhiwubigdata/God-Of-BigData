@@ -96,7 +96,7 @@ kafka引入协调器有其历史过程，原来consumer信息依赖于zookeeper�
 
 下图展示了不提交offset到服务端的问题：
 
-![image](http://upload-images.jianshu.io/upload_images/16241060-7af91d3eee99cd58.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://mmbiz.qpic.cn/mmbiz_jpg/UdK9ByfMT2O97piaBAkbLvms7mTItc3GmcJ3ibW26cdA9HYBPAS00Azia4DNfEkMbNc7mia1t8NEOoWibO4baM4RzmQ/640?tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 开始时，consumer 0消费partition 0 和1，后来由于新的consumer 2入组，分区重新进行了分配。consumer 0不再消费partition2，而由consumer 2来消费partition 2，但由于consumer之间是不能通讯的，所有consumer2并不知道从哪里开始自己的消费。
 
