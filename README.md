@@ -13,7 +13,7 @@
 ### 大数据开发基础篇
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
 | :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------:|
-| [Java基础](#一Java基础) | [NIO](#二NIO基础) | [并发容器](#三Java并发容器) |[JVM](#四JVM深度解析和面试点) |[分布式](#五分布式理论基础和原理) |[zookeeper](#六大数据框架开发基础-zookeeper)|[RPC](#七大数据框架开发基础-RPC)|[Netty](#八大数据框架基石之网路通信-Netty)|[Linux](/九Linux基础/Linux基础和命令.md)|
+| [Java基础](#一Java基础) | [NIO](#二NIO基础) | [并发容器](#三Java并发容器) |[JVM](#四JVM深度解析和面试点) |[分布式](#五分布式理论基础和原理) |[zookeeper](#六大数据框架开发基础-zookeeper)|[RPC](#七大数据框架开发基础-RPC)|[Netty](#八大数据框架基石之网路通信-Netty)|[Linux](/Linux基础/Linux基础和命令.md)|
 
 <br/>
 
@@ -443,9 +443,9 @@
 ---
 #### 一、Hadoop
 &emsp; 1.[Hadoop面试题总结（一）](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89.md)  
-&emsp; 2.[Hadoop面试题总结（二）——HDFS](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94HDFS.md)  
+&emsp; 2.[Hadoop面试题总结（二）——HDFS](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94HDFS.md)  
 &emsp; 3.[Hadoop面试题总结（三）——MapReduce](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94MapReduce.md)  
-&emsp; 4.[Hadoop面试题总结（四）——YARN](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94YARN.md)  
+&emsp; 4.[Hadoop面试题总结（四）——YARN](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94YARN.md)  
 &emsp; 5.[Hadoop面试题总结（五）——优化问题](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%94%EF%BC%89%E2%80%94%E2%80%94%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98.md) 
 
 
@@ -457,7 +457,7 @@
 &emsp; 2.[Hive面试题总结（二）](面试系列/Hive面试题总结/Hive%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
 
 #### 四、HBase
-&emsp; 1.[HBase面试题总结（一）](面试系列/Hbase面试题整理/HBase.md)  
+&emsp; 1.[HBase面试题总结（一）](面试系列/HBase面试题整理/HBase.md)  
 
 #### 五、Flume
 &emsp; 1.[Flume面试题总结（一）](面试系列/Flume面试题整理/Flume.md)  
