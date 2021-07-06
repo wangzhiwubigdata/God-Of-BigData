@@ -28,9 +28,6 @@
       <th><img width="50px" src="pictures/hbase.png"></th>
       <th><img width="50px" src="pictures/kafka.png"></th>
       <th><img width="50px" src="pictures/zookeeper.jpg"></th>
-      <th><img width="50px" src="pictures/flume.png"></th>
-      <th><img width="50px" src="pictures/sqoop.png"></th>
-      <th><img width="50px" src="pictures/azkaban.png"></th>
     </tr>
     <tr>
       <td align="center"><a href="#一hadoop">Hadoop</a></td>
@@ -40,9 +37,6 @@
       <td align="center"><a href="#五hbase">HBase</a></td>
       <td align="center"><a href="#六kafka">Kafka</a></td>
       <td align="center"><a href="#七zookeeper">Zookeeper</a></td>
-      <td align="center"><a href="#八flume">Flume</a></td>
-      <td align="center"><a href="#九sqoop">Sqoop</a></td>
-      <td align="center"><a href="#十azkaban">Azkaban</a></td>
     </tr>
   </table>
 <br/>
@@ -314,24 +308,6 @@
 3. [Zookeeper 常用 Shell 命令](大数据框架学习/Zookeeper常用Shell命令.md)
 4. [Zookeeper Java 客户端 —— Apache Curator](大数据框架学习/Zookeeper_Java客户端Curator.md)
 5. [Zookeeper  ACL 权限控制](大数据框架学习/Zookeeper_ACL权限控制.md)
-
-## 八、Flume
-
-1. [Flume 简介及基本使用](大数据框架学习/Flume简介及基本使用.md)
-2. [Linux 环境下 Flume 的安装部署](大数据框架学习/installation/Linux下Flume的安装.md)
-3. [Flume 整合 Kafka](大数据框架学习/Flume整合Kafka.md)
-
-## 九、Sqoop
-
-1. [Sqoop 简介与安装](大数据框架学习/Sqoop简介与安装.md)
-2. [Sqoop 的基本使用](大数据框架学习/Sqoop基本使用.md)
-
-## 十、Azkaban
-
-1. [Azkaban 简介](大数据框架学习/Azkaban简介.md)
-2. [Azkaban3.x 编译及部署](大数据框架学习/installation/Azkaban_3.x_编译及部署.md)
-3. [Azkaban Flow 1.0 的使用](大数据框架学习/Azkaban_Flow_1.0_的使用.md)
-4. [Azkaban Flow 2.0 的使用](大数据框架学习/Azkaban_Flow_2.0_的使用.md)
 
 
 ## 十一、大数据算法
