@@ -12,6 +12,11 @@
 </div>
 
 ## 大数据成神之路目录
+
+[从零到大数据专家学习路径指南](https://mp.weixin.qq.com/s/MAwD-UJgvIa_dZjmaykqrQ)
+[我们在学习Flink的时候，到底在学习什么?](https://mp.weixin.qq.com/s/xh4SEX9t-fRVdoiAl0KKSQ)
+[我们在学习Spark的时候，到底在学习什么？](https://mp.weixin.qq.com/s/pN0AqNJuFnlLjNW2OonGtA)
+
 - 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113097759)
 
 ### 大数据开发基础篇
