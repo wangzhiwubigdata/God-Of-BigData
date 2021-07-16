@@ -3,9 +3,9 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
-日更原创大数据领域文章~ </br>
+**日更原创大数据领域文章&大数据行业最新动态** </br>
 
-打造价值40万Offer朋友圈~ </br>
+**打造价值40万Offer朋友圈,数据人的宝藏朋友圈** </br>
 
 关注[公众号](#扫我关注公众号)~
 加我[好友](#扫我关注公众号)~
@@ -489,7 +489,7 @@
 
 ## 如果对你有用，欢迎请我喝杯咖啡
 
-备注GitHub，感谢您～
+备注Gitub，感谢您～
 
 <div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
 
