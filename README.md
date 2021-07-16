@@ -3,7 +3,10 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
-已经更新300+篇~ </br>
+日更原创大数据领域文章~ </br>
+
+打造价值40万Offer朋友圈~ </br>
+
 关注[公众号](#QQQ扫我关注公众号)~
 </div>
 
@@ -172,7 +175,6 @@
 
 ## 第二部分:大数据框架学习篇
 
-本部分引用作者heibaiying，大佬写的文章非常好，欢迎大家关注他的博客。我个人会持续补充更有深度和实战性的文章~
 
 ### 一、Hadoop
 
@@ -262,8 +264,7 @@
    * [Flink漫谈系列2-watermark](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(02)-Watermark.md)
    * [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)-State.md)
 
-   
-
+  
 
 ## 五、HBase
 
@@ -475,7 +476,7 @@
 ## HHH、扫我加群
  备注**来自GitHub加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
 
-<div align="center"> <img width="350px" src="qrcodes/个人微信.jpeg"/> </div>
+<div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
 
 ## 为什么有这个文档
 - 以前这里只是几个txt文档
