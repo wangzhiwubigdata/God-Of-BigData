@@ -7,7 +7,8 @@
 
 打造价值40万Offer朋友圈~ </br>
 
-关注[公众号](#QQQ扫我关注公众号)~
+关注[公众号](#扫我关注公众号)~
+加我[好友](#扫我关注公众号)~
 </div>
 
 ## 大数据成神之路目录
@@ -79,6 +80,17 @@
   </table>
 <br/> 
 
+### 公众号2021年大数据面试合集
+
+<table>
+    <tr>
+      <th><img width="50px" src="pictures/olap.jpg"></th>
+    </tr>
+    <tr>
+      <td align="center"><a href="#面试系列合集">面试系列合集</a></td>
+    </tr>
+  </table>
+<br/> 
 
 ## 第一部分: 大数据开发基础篇
 
@@ -459,22 +471,31 @@
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
 
 
-## SSS、声明
+## 声明
+
 文档中参考引用了大量网络上的博客和文章，大部分给出了出处，有些没写，如果造成了侵权行为，请您联系我，立即删除~
 
 
-## QQQ、扫我关注公众号
+## 扫我关注公众号
 
-关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
+关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据领域最新动态和精品技术文章**!
 
 <div align="center"> <img width="350px" src="qrcodes/wechat01.png"/> </div>
 
-## KKK、如果对你有用，欢迎请我喝杯咖啡
-备注Github，感谢您～
+**打造价值40万offer朋友圈!**
+
+<div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
+
+
+## 如果对你有用，欢迎请我喝杯咖啡
+
+备注GitHub，感谢您～
+
 <div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
 
-## HHH、扫我加群
- 备注**来自GitHub加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
+## 扫我加群
+
+备注**来自GitHub加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
 
