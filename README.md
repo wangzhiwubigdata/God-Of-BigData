@@ -449,7 +449,7 @@
  
 **专题部分**
  
- - Hadoop系列
+**Hadoop系列**
  
  * [最新Hive/Hadoop高频面试点小集合](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501553&idx=1&sn=487e44e8fb362e97a0d418dff62de8bb&scene=21#wechat_redirect) 
  * [Hadoop所支持的几种压缩格式](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247484567&idx=1&sn=36e47d34cbdd7b5f0bf93f3bb5338c90&scene=21#wechat_redirect) 
@@ -459,18 +459,18 @@
  * [查看YARN任务日志的几种方式](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491365&idx=2&sn=fdb72a0d6ac9b5f4723f8362e42acd9b&scene=21#wechat_redirect)
  * [大数据哔哔集20210106 - Hadoop3.0有哪些新特性](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247498514&idx=2&sn=76808f8610e57360aced9c08b6e93c11&chksm=fd3ebd87ca49349155ddc062a4d812980f4b0075c65d448200136acdc903d86f2fc078972d72&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
 
-- Hive系列
+**Hive系列**
 
 *   [Hive性能调优 | 数据倾斜](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247493923&idx=1&sn=bdb745dc04af43e1dc9e476cd1d67a86&scene=21#wechat_redirect)
 *   [面试必备技能-HiveSQL优化](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247484617&idx=1&sn=cd734b7b04e0278f4445a09204d6a2bf&scene=21#wechat_redirect)
 *   [Hive常用参数调优十二板斧](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247494838&idx=1&sn=5f2aeba4509603bf50742987aff54469&chksm=fd3eaa23ca492335ae6e436806fd8de3da919766c80d661bb468c17a61559d034a2a16b2ec93&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
 
-- HBase
+**HBase**
 
 *   [面试必考点:HBase Compaction机制](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247489094&idx=1&sn=76958401eb4fab0a69447b37bda2b4c9&scene=21#wechat_redirect)
 *   [Hbase性能优化百科全书](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247497379&idx=1&sn=f712373bc5d4826f255f8b47c4e7ff71&chksm=fd3eb036ca493920840f1c7808124b07e838c17b33b7f0188fa78fbb9877fdd8cade45563ec8&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
 
-- ES等
+**ES等**
 
 *   [触类旁通Elasticearch之吊打同行系列：原理篇](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247494711&idx=1&sn=4846c2665cce5eb20e4a98af0b1b6ac6&chksm=fd3eaaa2ca4923b4619a40d63a89b0818b22df8f98e68d4382ac77a56f921a93f14ef1aeeaf2&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
 *   [触类旁通ElasticSearch之吊打同行系列：操作篇](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247494765&idx=1&sn=600f78c4cdf5875ed9524e737c55a8fb&chksm=fd3eaaf8ca4923ee3aa3907538f3b7fe06eca67b49003a6002f5d65e80800645914497d9159b&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
