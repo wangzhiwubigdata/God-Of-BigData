@@ -594,7 +594,7 @@
 
 **数据仓库篇**
 
-*   《[一文了解数据库和数据仓库](http://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486890&idx=1&sn=004a86c329439558a4f234fa21744173&chksm=fd3d4b3fca4ac229c6af919153949d4bc60c603635fc432d5695c4ee14c61bd6408a6188ef22&scene=21#wechat_redirect)
+*   [一文了解数据库和数据仓库](http://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486890&idx=1&sn=004a86c329439558a4f234fa21744173&chksm=fd3d4b3fca4ac229c6af919153949d4bc60c603635fc432d5695c4ee14c61bd6408a6188ef22&scene=21#wechat_redirect)
 *   [数据仓库系统的实现与使用(含OLAP重点讲解)](http://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486892&idx=2&sn=8e9a2c30a596cde9713601a22875af63&chksm=fd3d4b39ca4ac22f082760e7d4c8e0c4c7979e7431f9063215a8669cc5724adcc843df01b1e0&scene=21#wechat_redirect)
 *   [Data Lake 三剑客—Delta、Hudi、Iceberg 对比分析](http://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487196&idx=1&sn=313ceebfbf288e309f8e5da00451af5b&chksm=fd3d4849ca4ac15f800f6eebc95e597e47cafad3bfe1e0413f83db88ea7530448ad55b5d7680&scene=21#wechat_redirect)
 *   [数据也有温度？Elasticsearch 5.x 版本中的冷热数据架构](http://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247489275&idx=2&sn=1c9783692bc3f9cceb3f403702057744&chksm=fd3d506eca4ad978f6d28a3f933b68367d80566e93a391617996f42c60d1398912c0a73908a7&scene=21#wechat_redirect)  
