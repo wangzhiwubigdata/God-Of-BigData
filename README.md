@@ -333,8 +333,7 @@
 4. [Zookeeper Java 客户端 —— Apache Curator](大数据框架学习/Zookeeper_Java客户端Curator.md)
 5. [Zookeeper  ACL 权限控制](大数据框架学习/Zookeeper_ACL权限控制.md)
 
-
-## 十一、大数据算法
+## 八、大数据算法
 
 #### 大数据算法
 
