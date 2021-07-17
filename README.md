@@ -435,48 +435,183 @@
 
 ### 六、2021精品文章合集
 
+**汇总部分**
 
+ * [八千里路云和月|从零到大数据专家学习路径指南](https://mp.weixin.qq.com/s/MAwD-UJgvIa_dZjmaykqrQ)
+ * [我们在学习Flink的时候，到底在学习什么?](https://mp.weixin.qq.com/s/xh4SEX9t-fRVdoiAl0KKSQ)
+ * [我们在学习Spark的时候，到底在学习什么？](https://mp.weixin.qq.com/s/pN0AqNJuFnlLjNW2OonGtA)
+ * [一线互联网公司面试进阶全攻略](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247499539&idx=1&sn=26b8569ae4e3d5c6c1a1b8a98807f625&scene=21#wechat_redirect)
+ * [【大数据成神之路】第一版更新完毕](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247499250&idx=1&sn=ca900c226738048c28b56ae5c7b8f723&chksm=fd3ebb67ca4932712f602302ddc72aa616ff462a9c11605d6becbeaf347b5e7b1b2be2172cea&token=1917475764&lang=zh_CN&scene=21#wechat_redirect) 
+ * [关于技术面试的一点点体会](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487326&idx=1&sn=1ba5867700bdfb5ad7f808a245ae3b1f&scene=21#wechat_redirect)
+ * [早点建立自己的知识体系](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487334&idx=1&sn=ce3453c1b63d6932438c8412fc5454d3&scene=21#wechat_redirect) 
+ 
+**专题部分**
+ 
+ - Hadoop系列
+ 
+ * [最新Hive/Hadoop高频面试点小集合](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501553&idx=1&sn=487e44e8fb362e97a0d418dff62de8bb&scene=21#wechat_redirect) 
+ * [Hadoop所支持的几种压缩格式](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247484567&idx=1&sn=36e47d34cbdd7b5f0bf93f3bb5338c90&scene=21#wechat_redirect) 
+ * [【大数据面试之对线面试官】MapReduce/HDFS/YARN面试题70连击](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247497849&idx=1&sn=a82f9787765436b5514fe77aa6aa020f&scene=21#wechat_redirect) 
+ * [HDFS的SecondaryNameNode作用，你别答错了](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487464&idx=1&sn=c7358495832da5e4bf4807691be6ef29&scene=21#wechat_redirect) 
+ * [Yarn 使用 Cgroup 实现任务资源限制](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491453&idx=2&sn=df9b9bf0127e3c4648eec90ef3499306&scene=21#wechat_redirect) 
+ * [查看YARN任务日志的几种方式](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491365&idx=2&sn=fdb72a0d6ac9b5f4723f8362e42acd9b&scene=21#wechat_redirect)
+ * [大数据哔哔集20210106 - Hadoop3.0有哪些新特性](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247498514&idx=2&sn=76808f8610e57360aced9c08b6e93c11&chksm=fd3ebd87ca49349155ddc062a4d812980f4b0075c65d448200136acdc903d86f2fc078972d72&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
 
+- Hive系列
+
+*   [Hive性能调优 | 数据倾斜](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247493923&idx=1&sn=bdb745dc04af43e1dc9e476cd1d67a86&scene=21#wechat_redirect)
+*   [面试必备技能-HiveSQL优化](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247484617&idx=1&sn=cd734b7b04e0278f4445a09204d6a2bf&scene=21#wechat_redirect)
+*   [Hive常用参数调优十二板斧](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247494838&idx=1&sn=5f2aeba4509603bf50742987aff54469&chksm=fd3eaa23ca492335ae6e436806fd8de3da919766c80d661bb468c17a61559d034a2a16b2ec93&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+
+- HBase
+
+*   [面试必考点:HBase Compaction机制](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247489094&idx=1&sn=76958401eb4fab0a69447b37bda2b4c9&scene=21#wechat_redirect)
+*   [Hbase性能优化百科全书](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247497379&idx=1&sn=f712373bc5d4826f255f8b47c4e7ff71&chksm=fd3eb036ca493920840f1c7808124b07e838c17b33b7f0188fa78fbb9877fdd8cade45563ec8&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+
+- ES等
+
+*   [触类旁通Elasticearch之吊打同行系列：原理篇](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247494711&idx=1&sn=4846c2665cce5eb20e4a98af0b1b6ac6&chksm=fd3eaaa2ca4923b4619a40d63a89b0818b22df8f98e68d4382ac77a56f921a93f14ef1aeeaf2&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [触类旁通ElasticSearch之吊打同行系列：操作篇](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247494765&idx=1&sn=600f78c4cdf5875ed9524e737c55a8fb&chksm=fd3eaaf8ca4923ee3aa3907538f3b7fe06eca67b49003a6002f5d65e80800645914497d9159b&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [触类旁通Elasticearch之吊打同行系列：搜索篇](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247494808&idx=1&sn=67aa00f4fff4486825bea7a5bd3956c5&chksm=fd3eaa0dca49231b88c5a1bbb083bd9ea89aa20b1d1d4edb0f409ad4a192fcd6d87eaafba346&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+    
+
+**Kafka/消息队列**
+
+*   [面试知识点 | Kafka的数据存储与索引设计](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247492699&idx=2&sn=776b93fb683a004d58d432d9b6b551b4&scene=21#wechat_redirect)
+*   [Kafka面试题系列(基础篇)](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491156&idx=2&sn=e18e2ae54f08ee34749fdb314652c2fe&scene=21#wechat_redirect)
+*   [Kafka面试题系列(进阶篇)](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491176&idx=1&sn=81b44db6db3cb014dc9002ba840ad283&scene=21#wechat_redirect)
+*   [Kafka面试题系列(进阶篇2)](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491256&idx=1&sn=0bd327392de5e2241b550a12eda43f29&scene=21#wechat_redirect)
+*   [关于MQ面试的几件小事 | 消息队列的用途、优缺点、技术选型](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247485312&idx=2&sn=97c7d499760154a98cd1bfa416697a42&scene=21#wechat_redirect)
+*   [关于MQ面试的几件小事 | 如何保证消息不丢失](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247485321&idx=3&sn=2e6769937df43c3555213bb17d8605fe&scene=21#wechat_redirect)
+*   [关于MQ面试的几件小事 | 如何保证消息按顺序执行](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247485321&idx=2&sn=73e56ed1f46fd3337e13ee359631adc9&scene=21#wechat_redirect)
+*   [一道真实的阿里面试题 | 如何保证消息队列的高可用](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247485184&idx=1&sn=19680883eb2b9739f834d743e5304179&scene=21#wechat_redirect)
+*   [你可能需要知道的Kafka面试题与部分答案整理](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486992&idx=1&sn=8950101b408b0e02b7957f6d74c9cd74&scene=21#wechat_redirect)
+*   [消息队列面面观](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487314&idx=1&sn=f832be362c7c2ea877c48d47923434c5&scene=21#wechat_redirect)
+*   [Kafka三种可视化监控管理工具Monitor/Manager/Eagle](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491086&idx=1&sn=f2f9bd1a55064ec7abf63666bf54be61&scene=21#wechat_redirect)
+*   [Kafka体系架构详细分解](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491138&idx=1&sn=f42cac6584ca4c3b74f232e897b33206&scene=21#wechat_redirect)
+*   [Kafka笔记—可靠性、幂等性和事务](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491138&idx=2&sn=a67e3044fd368e61a0290679e2765661&scene=21#wechat_redirect)
+*   [Kafka体系架构详细分解](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491138&idx=1&sn=f42cac6584ca4c3b74f232e897b33206&scene=21#wechat_redirect)
+*   [Kafka面试题系列(进阶篇)](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491176&idx=1&sn=81b44db6db3cb014dc9002ba840ad283&scene=21#wechat_redirect)
+*   [Kafka面试题系列(基础篇)](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491156&idx=2&sn=e18e2ae54f08ee34749fdb314652c2fe&scene=21#wechat_redirect)
+*   [面试知识点 | Kafka的数据存储与索引设计](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247492699&idx=2&sn=776b93fb683a004d58d432d9b6b551b4&scene=21#wechat_redirect)
+*   [斗转星移 | 三万字总结Kafka各个版本差异](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247492958&idx=1&sn=1ef59283fddfcffa14425d8d51af6f81&chksm=fd3ea3cbca492add3660dc37a37b458694cd285ae061884bb8aecbba2725fab3baee89608eba&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+
+**Spark**
+
+*   [面试必知的 Spark SQL 几种 Join 实现](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491813&idx=2&sn=557cc24073bef28f4f3589b63f71c967&scene=21#wechat_redirect)
+*   [面试注意点 | Spark&Flink的区别拾遗](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486577&idx=1&sn=49fd0138ad9837192b6eb78cbdc478e6&scene=21#wechat_redirect)
+*   [Spark如何协调来完成整个Job的运行详解](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501609&idx=2&sn=d92b8fee97a0832ae6aa8dab82a7a9c3&chksm=fd3e81bcca4908aa29f2d1bf4145f3163933a74a5f70b6b13f33811488c57517cb660fb92f84&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [独孤九剑-Spark面试80连击(上)](https://blog.csdn.net/u013411339/article/details/100179471)
+*   [独孤九剑-Spark面试80连击(下)](https://blog.csdn.net/u013411339/article/details/100179469)
+*   [Spark的Cache和Checkpoint区别和联系拾遗](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501217&idx=1&sn=75ab0ec8b505b87aac9ee37e2328db9b&chksm=fd3e8334ca490a226fbe5e779de27c43fd806f6c6d64e66d9efd8429a7f4b3acc9f4447a9157&scene=21#wechat_redirect)
+*   [Spark Job 逻辑执行图和数据依赖解析](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501259&idx=1&sn=8716f0fcb9b85d36bdfe69039983c518&chksm=fd3e835eca490a48cb02d75e7d5183961461546510c0c4b9f7edee01954c92f9bf2de4432a53&scene=21#wechat_redirect)
+*   [Spark Job 物理执行图详解](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501309&idx=1&sn=2a3edaed6845031acac7cc5c377bdd53&chksm=fd3e8368ca490a7e2b580983aba4aff7c6acadfba5f4863a776ed6cc3f63839353dbc935344e&scene=21#wechat_redirect)
+*   [Spark Shuffle过程详解](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501347&idx=1&sn=1809c8d80c4af0772b7eef999e2b84d7&chksm=fd3e80b6ca4909a028b29e014fb1e7a1de10203277baa57ded90507668fd429d8ae6690c31aa&scene=21#wechat_redirect)
+    
+
+**Flink**
+
+*   [【大数据面试题】Flink企业级面试题60连击](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247497541&idx=1&sn=521d3f59d7c5bfe56607ccc0867c7575&scene=21#wechat_redirect)
+*   [全网第一|Flink学习面试灵魂40问答案](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486150&idx=1&sn=691f8cab1ba9d72984c8e0250ab24b79&chksm=fd3d4c53ca4ac545eb01a6781c4317bc3a3f5e5c2129bd2d57e5e2ea53edcbeeae2acd2a4ed6&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [面试别人说他熟悉Flink，我问了他Flink如何实现exactly-once语义](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247485260&idx=1&sn=7af0f27520b6fd74adf424d4d64f032d&scene=21#wechat_redirect)
+*   [阅读源码｜Spark与Flink的RPC实现](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487449&idx=3&sn=5b3d8564d1c84b14f9d941c96d8f6a27&scene=21#wechat_redirect)
+*   [Flink性能调优小小总结](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501028&idx=1&sn=40e36b5e0c58d909e7933622de0e53d0&chksm=fd3e8271ca490b6753b9c34671c4cf07c88ca953ddbe723abf5e28324f5248044f372f48abd4&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [生产上的坑才是真的坑 | 盘一盘Flink那些经典线上问题](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247500470&idx=1&sn=a9ddfabd545a52e463dbc728fdaa872d&chksm=fd3e8423ca490d3578b802859924a5de96038e5f114788443f10763b90cea4955ff352982e5a&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [我们在学习Flink的时候，到底在学习什么？](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247499604&idx=1&sn=d938dfb30d221774704982d2938b30c1&chksm=fd3eb9c1ca4930d76a391241333de461ca22d2aa27472eab3cffab1564872ae37f1b48fe2d3c&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+    
+
+**数据仓库/数据湖**
+
+*   [数据湖存储架构选型](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501955&idx=2&sn=0732c077a76a99b67bafa57e3dedbf3e&chksm=fd3e8e16ca4907003d62f768b629f7f2a99c14f073cdd4a117559ec755d5876eec814a3fd9f7&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [数据湖架构、战略和分析的8大错误认知](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247501798&idx=1&sn=ee75c1c067833cf0cb285e99e71a91e4&chksm=fd3e8173ca4908655af05c56447dd728d14f0cdde511b4675c4ba12bbbb293e9060a7911972a&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [数据湖在大数据典型场景下应用调研个人笔记](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247500604&idx=1&sn=75e2492e954fbaac868afacc9397328d&chksm=fd3e85a9ca490cbfd5d10b6feb743ad172f09bc87c357bdc88b5be8b8fc39a7ee3581c3a0f81&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [数据湖VS数据仓库？湖仓一体了解一下](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247496181&idx=1&sn=90753808e8dd92a6d9fb95d29a9925a2&chksm=fd3eb760ca493e769275c92e26812154314222849bc96dde2ed6ca2b568ceaef493f277864c5&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+    
+
+**后端相关**
+
+*   [三万六千字通关MySQL面试](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487449&idx=1&sn=2cc97bf6669416267c25a7a46192b706&scene=21#wechat_redirect)
+*   [分析和定位线上作业 OOM 问题利器-MAT](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491453&idx=1&sn=49e762ec986faf408c03b4bc52634872&scene=21#wechat_redirect)
+*   [浅谈ZooKeeper中Kafka相关信息的存储](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487838&idx=1&sn=a82d191e12dc2590fc376258965e34f6&scene=21#wechat_redirect)
+*   [JVM架构体系与GC命令小总结](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247488882&idx=1&sn=62cc37f20fdce1193f2400507b7d478a&scene=21#wechat_redirect)
+*   [深入理解CAP理论和适用场景](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487458&idx=1&sn=11e0b029998ecdeccda8e18c1e43f980&scene=21#wechat_redirect)
+*   [ZooKeeper需要关注的点](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247488393&idx=1&sn=f820923ae3e782b509911f787a455a91&scene=21#wechat_redirect)
+*   [MySQL中InnoDB及索引深入剖析](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491256&idx=2&sn=34535df6790951e7de0e08bdfceed108&scene=21#wechat_redirect)
+*   [MySql的Binlog日志工具分析：Canal、Maxwell、Databus、DTS](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247491276&idx=1&sn=133e0d6bcf897ae288a83f1ac6e7456c&scene=21#wechat_redirect)
+*   [一致性协议算法-2PC、3PC、Paxos、Raft、ZAB、NWR超详细解析](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247495156&idx=1&sn=3502f333eaaf19eccef2a721ab1fead1&chksm=fd3eab61ca4922771033e47326464bda019b6d99d3d6f8a81b4cc5ca6bcddbc9307a0ca91eaa&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+*   [MySQL数据库性能优化史诗级大总结](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247495088&idx=1&sn=f3e8460921135780a1e38fdfd163f909&chksm=fd3eab25ca492233ea3dae78b07db1f601b70155cdfd371df51beb4cacb2191fd9d383212999&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+    
+
+**不便分类的其他**
+
+*   [十道海量数据处理面试题](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247495750&idx=1&sn=125e5a1800beeeb9faddd5c614136fec&scene=21#wechat_redirect)
+*   [这个面试问题很难么 | 如何处理大数据中的数据倾斜](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486586&idx=1&sn=e35def6429adaada0910b91eed8d7b1f&scene=21#wechat_redirect)
+*   [面试系列：十个海量数据处理方法大总](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247485151&idx=1&sn=665e5e284934aecd2fcf3d69e26e3b52&scene=21#wechat_redirect)
+*   [我们常说的海量小文件的根源是什么？](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486931&idx=2&sn=1c5987f3bad7a805895484ebfd683e11&scene=21#wechat_redirect)
+*   [28道关于ZooKeeper的面试题](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487021&idx=2&sn=bbfa3fb95e4fa3d0b6ae90a8933119ed&scene=21#wechat_redirect)
+*   [【数据白皮书重磅分享】推荐|埋点|用研|标签](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487177&idx=2&sn=dea2d55951494a5bf4438ec5a888bdd7&scene=21#wechat_redirect)
+*   [1万2千字长文助力春招 | Netty面试篇](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487309&idx=2&sn=a33cc56116cb7891145394f9c5353be3&scene=21#wechat_redirect)
+*   [Filter(过滤)|Project(映射)|Pushdowns(谓词下推)](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487414&idx=2&sn=2afda2b854a4f875159a43903bb7b337&scene=21#wechat_redirect)
+*   [代达罗斯之殇-大数据领域小文件问题解决攻略](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247495807&idx=1&sn=d23efef601586506e00435889a8e1657&chksm=fd3eb6eaca493ffcc18ccfc6c1112124be13486d8778427099e37b4ed536be1ffe1348f55131&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
+
+**面试综合系列**
+
+*   [【对线面试官】阿里面试经历，有些人走一步看一步就挂了](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247497893&idx=1&sn=50837fcfceaf6df459936c2b4af36d3d&scene=21#wechat_redirect)
+*   [关于技术面试的一点点体会](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487326&idx=1&sn=1ba5867700bdfb5ad7f808a245ae3b1f&scene=21#wechat_redirect)
+*   [助力秋招-独孤九剑破剑式 | 10家企业面试真题](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486054&idx=1&sn=a9385d955df56d5834f6575748bd5277&scene=21#wechat_redirect)
+*   [如果你在准备面试，好好看看这130道题](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247486986&idx=1&sn=422d1a3c11c72ff97b32cc01142839f4&scene=21#wechat_redirect)
+    
+**简历系列**
+
+*   [一份优秀的简历该长成什么样](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247487297&idx=1&sn=9b007050efaf50f17e3f46915c70f4ea&scene=21#wechat_redirect)
+*   [你过来，我给你看个宝贝](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247492974&idx=1&sn=2d2a3ff8e805072df331dea7a94a7541&chksm=fd3ea3fbca492aed6d43990896edbe806a47a16e15c1541378528792e87f8df84c9b43e5a6d9&token=1917475764&lang=zh_CN&scene=21#wechat_redirect)
 
 
 #### 面试系列合集
 ---
 #### 一、Hadoop
-&emsp; 1.[Hadoop面试题总结（一）](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89.md)  
-&emsp; 2.[Hadoop面试题总结（二）——HDFS](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94HDFS.md)  
-&emsp; 3.[Hadoop面试题总结（三）——MapReduce](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94MapReduce.md)  
-&emsp; 4.[Hadoop面试题总结（四）——YARN](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94YARN.md)  
-&emsp; 5.[Hadoop面试题总结（五）——优化问题](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%94%EF%BC%89%E2%80%94%E2%80%94%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98.md) 
+
+1. [Hadoop面试题总结（一）](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89.md)  
+2. [Hadoop面试题总结（二）——HDFS](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94HDFS.md)  
+3. [Hadoop面试题总结（三）——MapReduce](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94MapReduce.md)  
+4. [Hadoop面试题总结（四）——YARN](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94YARN.md)  
+5. [Hadoop面试题总结（五）——优化问题](面试系列/Hadoop面试题总结/Hadoop%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%94%EF%BC%89%E2%80%94%E2%80%94%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98.md) 
 
 
 #### 二、Zookeeper
-&emsp; 1.[Zookeeper面试题总结（一）](面试系列/Zookeeper面试题总结/Zookeeper.md)  
+
+1. [Zookeeper面试题总结（一）](面试系列/Zookeeper面试题总结/Zookeeper.md)  
 
 #### 三、Hive
-&emsp; 1.[Hive面试题总结（一）](面试系列/Hive面试题总结/Hive%EF%BC%88%E4%B8%80%EF%BC%89.md)  
-&emsp; 2.[Hive面试题总结（二）](面试系列/Hive面试题总结/Hive%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
+
+1. [Hive面试题总结（一）](面试系列/Hive面试题总结/Hive%EF%BC%88%E4%B8%80%EF%BC%89.md)  
+2. [Hive面试题总结（二）](面试系列/Hive面试题总结/Hive%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
 
 #### 四、HBase
-&emsp; 1.[HBase面试题总结（一）](面试系列/HBase面试题整理/HBase.md)  
+
+1. [HBase面试题总结（一）](面试系列/HBase面试题整理/HBase.md)  
 
 #### 五、Flume
-&emsp; 1.[Flume面试题总结（一）](面试系列/Flume面试题整理/Flume.md)  
+
+1. [Flume面试题总结（一）](面试系列/Flume面试题整理/Flume.md)  
 
 #### 六、Kafka
-&emsp; 1.[Kafka面试题总结（一）](面试系列/Kafka面试题整理/Kafka%EF%BC%88%E4%B8%80%EF%BC%89.md)  
-&emsp; 2.[Kafka面试题总结（二）](面试系列/Kafka面试题整理/Kafka%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
+
+1. [Kafka面试题总结（一）](面试系列/Kafka面试题整理/Kafka%EF%BC%88%E4%B8%80%EF%BC%89.md)  
+2. [Kafka面试题总结（二）](面试系列/Kafka面试题整理/Kafka%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
 
 #### 七、Spark
-&emsp; 1.[Spark面试题总结（一）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%B8%80%EF%BC%89.md)  
-&emsp; 2.[Spark面试题总结（二）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
-&emsp; 3.[Spark面试题总结（三）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%B8%89%EF%BC%89.md)  
-&emsp; 4.[Spark面试题总结（四）](面试系列/Spark面试题整理/Spark%EF%BC%88%E5%9B%9B%EF%BC%89.md)  
+1. [Spark面试题总结（一）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%B8%80%EF%BC%89.md)  
+2. [Spark面试题总结（二）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
+3. [Spark面试题总结（三）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%B8%89%EF%BC%89.md)  
+4. [Spark面试题总结（四）](面试系列/Spark面试题整理/Spark%EF%BC%88%E5%9B%9B%EF%BC%89.md)  
   
-&emsp; **Spark性能优化：**  
-&emsp; 5.[Spark面试题总结（五）——几种常见的数据倾斜情况及调优方式](面试系列/Spark面试题整理/Spark调优/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C.md)  
-&emsp; 6.[Spark面试题总结（六）——Shuffle配置调优](面试系列/Spark面试题整理/Spark调优/Shuffle%E9%85%8D%E7%BD%AE%E8%B0%83%E4%BC%98.md)  
-&emsp; 7.[Spark面试题总结（七）——程序开发调优](面试系列/Spark面试题整理/Spark调优/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98.md)  
-&emsp; 8.[Spark面试题总结（八）——运行资源调优](面试系列/Spark面试题整理/Spark调优/%E8%B5%84%E6%BA%90%E8%B0%83%E4%BC%98.md)  
+**Spark性能优化：**  
+
+5. [Spark面试题总结（五）——几种常见的数据倾斜情况及调优方式](面试系列/Spark面试题整理/Spark调优/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C.md)  
+6. [Spark面试题总结（六）——Shuffle配置调优](面试系列/Spark面试题整理/Spark调优/Shuffle%E9%85%8D%E7%BD%AE%E8%B0%83%E4%BC%98.md)  
+7. [Spark面试题总结（七）——程序开发调优](面试系列/Spark面试题整理/Spark调优/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98.md)  
+8. [Spark面试题总结（八）——运行资源调优](面试系列/Spark面试题整理/Spark调优/%E8%B5%84%E6%BA%90%E8%B0%83%E4%BC%98.md)  
 
 
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
@@ -511,11 +646,13 @@
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
 
 ## 为什么有这个文档
+
 - 以前这里只是几个txt文档
 - 是我面试腾讯阿里美团等公司大数据开发工程师的过程中总结出来的大数据开发的必知必会的知识点~
 - 后续更新在微信公众号更新，欢迎关注~
 
 ## 言而总之
+
 **大数据成神之路** 该系列文章将为希望从事大数据开发或者由后端转型为大数据开发的工程师们指出需要学习的知识点和路径，本系列文章同时致敬我曾经在网络上看到无数个Java和大数据系列文章，深受启发同时也收货很多。
 
 欢迎关注公众号‘大数据技术与架构’或者搜索import_bigdata关注~
