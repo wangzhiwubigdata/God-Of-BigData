@@ -13,11 +13,13 @@
 
 ## 大数据成神之路目录
 
+- 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113097759)
+
  * [八千里路云和月|从零到大数据专家学习路径指南](https://mp.weixin.qq.com/s/MAwD-UJgvIa_dZjmaykqrQ)
  * [我们在学习Flink的时候，到底在学习什么?](https://mp.weixin.qq.com/s/xh4SEX9t-fRVdoiAl0KKSQ)
  * [我们在学习Spark的时候，到底在学习什么？](https://mp.weixin.qq.com/s/pN0AqNJuFnlLjNW2OonGtA)
 
-- 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113097759)
+
 
 ### 大数据开发基础篇
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
@@ -85,14 +87,14 @@
   </table>
 <br/> 
 
-### 公众号2021年大数据面试合集
+### 公众号2021年大数据精品文章合集
 
 <table>
     <tr>
       <th><img width="50px" src="pictures/olap.jpg"></th>
     </tr>
     <tr>
-      <td align="center"><a href="#面试系列合集">面试系列合集</a></td>
+      <td align="center"><a href="#2021精品文章合集">2021精品文章合集</a></td>
     </tr>
   </table>
 <br/> 
@@ -431,7 +433,11 @@
 
 ### 五、OLAP实战文章系列
 
-### 六、面试系列合集
+### 六、2021精品文章合集
+
+
+
+
 
 #### 面试系列合集
 ---
