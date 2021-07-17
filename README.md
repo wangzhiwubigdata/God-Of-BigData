@@ -864,7 +864,7 @@
 
 <div align="center"> <img width="350px" src="qrcodes/wechat01.png"/> </div>
 
-**打造价值40万offer朋友圈!**
+**扫我加我好友,打造价值40万Offer朋友圈!**
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
 
@@ -890,7 +890,3 @@
 ## 言而总之
 
 **大数据成神之路** 该系列文章将为希望从事大数据开发或者由后端转型为大数据开发的工程师们指出需要学习的知识点和路径，本系列文章同时致敬我曾经在网络上看到无数个Java和大数据系列文章，深受启发同时也收货很多。
-
-欢迎关注公众号‘大数据技术与架构’或者搜索import_bigdata关注~
-
- 
