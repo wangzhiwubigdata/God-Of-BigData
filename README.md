@@ -290,7 +290,11 @@
 
 ## 四、Flink
 
-#### [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_8631091.html)
+#### 系统性学习
+
+- [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_8631091.html)
+
+#### 其他
 
 1. [Flink 核心概念综述](大数据框架学习/Flink核心概念综述.md)
 2. [Flink 开发环境搭建](大数据框架学习/Flink开发环境搭建.md)
