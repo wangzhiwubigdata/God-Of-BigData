@@ -6,13 +6,17 @@
 </br>
 
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcodes/qr-zh.jpg" width=""/>
+
 **日更原创大数据领域文章&大数据行业最新动态** 
+
 </br>
 </br>
 </br>
 
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcodes/个人微信.jpg" width=""/>
+
 **打造价值40万Offer朋友圈,数据人的宝藏朋友圈**
+
 </br>
 </br>
 </br>
