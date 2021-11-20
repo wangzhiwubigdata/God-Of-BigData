@@ -3,7 +3,14 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
+<div align="center">  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/qrcodes/qr-zh.png" width=""/>
+</br>
 **日更原创大数据领域文章&大数据行业最新动态** </br>
+
+<div align="center">  
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/qrcodes/个人微信.jpg" width=""/>
+</br>
 
 **打造价值40万Offer朋友圈,数据人的宝藏朋友圈** </br>
 
@@ -18,8 +25,7 @@
  * [八千里路云和月|从零到大数据专家学习路径指南](https://mp.weixin.qq.com/s/MAwD-UJgvIa_dZjmaykqrQ)
  * [我们在学习Flink的时候，到底在学习什么?](https://mp.weixin.qq.com/s/xh4SEX9t-fRVdoiAl0KKSQ)
  * [我们在学习Spark的时候，到底在学习什么？](https://mp.weixin.qq.com/s/pN0AqNJuFnlLjNW2OonGtA)
-
-
+ * [我们在学习Kafka的时候，到底在学习什么？](https://mp.weixin.qq.com/s/AurKLpHB0XWgbBat-M7Urw)
 
 ### 大数据开发基础篇
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
@@ -51,7 +57,6 @@
     </tr>
   </table>
 <br/>
-
 
 ### 大数据开发实战进阶篇
 
@@ -108,6 +113,11 @@
 
 ### 一、Java基础
 
+##### 系统性学习
+
+ * [Java基础系统性学习专栏](https://blog.csdn.net/u013411339/category_11418760.html)
+
+##### 其他
 
  * [大数据成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
  * [大数据成神之路-Java高级特性增强(Synchronized关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(Synchronized%E5%85%B3%E9%94%AE%E5%AD%97).md)
@@ -121,6 +131,8 @@
 
 ### 二、NIO基础
 
+ #### * [Netty系统系学习专栏](https://blog.csdn.net/u013411339/category_8689085.html)
+
  * [大数据成神之路-Java高级特性增强-NIO大纲](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA-NIO.md)
  * [NIO概览](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/NIO%E6%A6%82%E8%A7%88.md)
  * [Java NIO之Buffer(缓冲区)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/Java%20NIO%E4%B9%8BBuffer(%E7%BC%93%E5%86%B2%E5%8C%BA).md)
@@ -132,7 +144,7 @@
 
  ##### 系统性学习
 
- * [多线程&并发容系统性学习](https://blog.csdn.net/u013411339/category_11371834.html)
+ * [多线程&并发容器学习专栏](https://blog.csdn.net/u013411339/category_11371834.html)
 
  ##### 其他
 
@@ -151,7 +163,7 @@
 
 ##### 系统性学习
 
-* [JVM专栏](https://blog.csdn.net/u013411339/category_9285581.html)
+* [JVM学习专栏](https://blog.csdn.net/u013411339/category_9285581.html)
 
 ##### 再来10篇基础热身
 
@@ -219,12 +231,15 @@
 
 ## 第二部分:大数据框架学习篇
 
-
 ### 一、Hadoop
 
 ##### 系统性学习
 
-[Hadoop专栏](https://blog.csdn.net/u013411339/category_8829706.html)
+[Hadoop学习专栏](https://blog.csdn.net/u013411339/category_8829706.html)
+
+##### Hadoop系统性总结
+
+[Hadoop系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/zqaog2)
 
 ##### 其他
 
@@ -243,7 +258,7 @@
 
 ##### 系统性学习
 
-[Hive专栏](https://blog.csdn.net/u013411339/category_8829708.html)
+[Hive学习专栏](https://blog.csdn.net/u013411339/category_8829708.html)
 
 ##### 其他
 
@@ -260,7 +275,7 @@
 
 #### 系统性学习
 
-- [Spark专栏](https://blog.csdn.net/u013411339/category_9285580.html)
+- [Spark学习专栏](https://blog.csdn.net/u013411339/category_9285580.html)
 
 **Spark Core :**
 
@@ -332,13 +347,12 @@
 * [Flink漫谈系列2-watermark](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(02)-Watermark.md)
 * [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)-State.md)
 
-  
 
 ## 五、HBase
 
 ##### 系统性学习
 
-- [Hbase专栏](https://blog.csdn.net/u013411339/category_8829709.html)
+- [Hbase学习专栏](https://blog.csdn.net/u013411339/category_8829709.html)
 
 1. [Hbase 简介](大数据框架学习/Hbase简介.md)
 2. [HBase 系统架构及数据结构](大数据框架学习/Hbase系统架构及数据结构.md)
@@ -399,6 +413,10 @@
 #### Flink实战合集
 
 [点我查看Flink实战合集](实战系列文章/Flink实战.md)
+
+#### 系统性学习
+
+- [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_8631091.html)
 
 1. [菜鸟供应链实时技术架构演进](https://mp.weixin.qq.com/s/fnx2GnbCWNcaptVPsSp7dw)
 2. [趣头条实战-基于Flink+ClickHouse构建实时数据平台](https://mp.weixin.qq.com/s/s6YFOINMw9TKg-QVOkZT9A)
@@ -911,7 +929,6 @@
 
 文档中参考引用了大量网络上的博客和文章，大部分给出了出处，有些没写，如果造成了侵权行为，请您联系我，立即删除~
 
-
 ## 扫我关注公众号
 
 关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据领域最新动态和精品技术文章**!
@@ -921,7 +938,6 @@
 **扫我加我好友,打造价值40万Offer朋友圈!**
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
-
 
 ## 如果对你有用，欢迎请我喝杯咖啡
 
