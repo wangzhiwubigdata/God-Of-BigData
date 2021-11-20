@@ -6,6 +6,7 @@
 <div align="center">  
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/qrcodes/qr-zh.png" width=""/>
 </br>
+
 **日更原创大数据领域文章&大数据行业最新动态** </br>
 
 <div align="center">  
