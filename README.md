@@ -5,21 +5,19 @@
 </br>
 </br>
 
-
-
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcodes/qr-zh.jpg" width=""/>
+**日更原创大数据领域文章&大数据行业最新动态** 
 </br>
 </br>
 </br>
-
-**日更原创大数据领域文章&大数据行业最新动态** </br>
 
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcodes/个人微信.jpg" width=""/>
+**打造价值40万Offer朋友圈,数据人的宝藏朋友圈**
 </br>
 </br>
 </br>
 
-**打造价值40万Offer朋友圈,数据人的宝藏朋友圈** </br>
+
 
 关注[公众号](#扫我关注公众号)~
 加我[好友](#扫我关注公众号)~
@@ -43,6 +41,7 @@
 - [Hbase系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/dl4fns)
 - [Kafka系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/xo15z2)
 
+<br/>
 
 ### 大数据开发基础篇
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
