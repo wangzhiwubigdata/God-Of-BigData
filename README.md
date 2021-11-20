@@ -2,13 +2,21 @@
 <div align="center">  
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
+</br>
+</br>
+
+
 
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcodes/qr-zh.jpg" width=""/>
+</br>
+</br>
 </br>
 
 **日更原创大数据领域文章&大数据行业最新动态** </br>
 
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcodes/个人微信.jpg" width=""/>
+</br>
+</br>
 </br>
 
 **打造价值40万Offer朋友圈,数据人的宝藏朋友圈** </br>
@@ -28,6 +36,12 @@
 
 ### 高屋建瓴总结篇
 
+- [Hadoop系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/zqaog2)
+- [Hive系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/iohbnf)
+- [Spark系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/zske2s)
+- [Flink系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/ka2x0h)
+- [Hbase系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/dl4fns)
+- [Kafka系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/xo15z2)
 
 
 ### 大数据开发基础篇
