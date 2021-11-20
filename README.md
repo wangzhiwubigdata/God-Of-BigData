@@ -1,17 +1,16 @@
 
-<div align="center">  
 
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
 <div align="center">  
-<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/qrcodes/qr-zh.png" width=""/>
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/tree/master/qrcodes/qr-zh.png" width=""/>
 </br>
 
 **日更原创大数据领域文章&大数据行业最新动态** </br>
 
 <div align="center">  
-<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/qrcodes/个人微信.jpg" width=""/>
+<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/tree/master/qrcodes/个人微信.jpg" width=""/>
 </br>
 
 **打造价值40万Offer朋友圈,数据人的宝藏朋友圈** </br>
@@ -19,7 +18,6 @@
 关注[公众号](#扫我关注公众号)~
 加我[好友](#扫我关注公众号)~
 
-</div>
 
 ## 大数据成神之路目录
 
