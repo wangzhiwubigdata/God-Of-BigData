@@ -3,19 +3,6 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 </br>
-</br>
-
-</br>
-</br>
-</br>
-
-<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcodes/个人微信.jpg" width=""/>
-
-**打造价值40万Offer朋友圈,数据人的宝藏朋友圈**
-
-</br>
-</br>
-</br>
 
 
 
