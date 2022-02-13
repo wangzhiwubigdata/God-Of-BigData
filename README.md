@@ -12,6 +12,8 @@
 
 ## 大数据成神之路目录
 
+- [大数据面试提升私教训练营招募中..](https://mp.weixin.qq.com/s?__biz=MzU3MzgwNTU2Mg==&mid=2247510434&idx=1&sn=0130fa0497d91e2b2adaca76cbee4f71&chksm=fd3eef37ca496621e07370f33e58129d744860cb2effe7ca0635b522cfe7c958f71b3da3b6bb&token=1795179392&lang=zh_CN#rd)
+
 - 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113097759)
 
  * [八千里路云和月|从零到大数据专家学习路径指南](https://mp.weixin.qq.com/s/MAwD-UJgvIa_dZjmaykqrQ)
