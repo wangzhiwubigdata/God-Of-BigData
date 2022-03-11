@@ -23,12 +23,12 @@
 
 ### 高屋建瓴总结篇
 
-- [Hadoop系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/zqaog2)
-- [Hive系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/iohbnf)
-- [Spark系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/zske2s)
-- [Flink系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/ka2x0h)
-- [Hbase系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/dl4fns)
-- [Kafka系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/xo15z2)
+- [Hadoop系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Hive系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Spark系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Flink系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Hbase系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Kafka系统性总结](https://t.zsxq.com/eIMrjmE)
 
 <br/>
 
