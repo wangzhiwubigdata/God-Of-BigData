@@ -120,7 +120,7 @@
 
 ##### 系统性学习
 
- * [Java基础系统性学习专栏](https://blog.csdn.net/u013411339/category_11418760.html)
+ * [Java基础系统性学习专栏](https://blog.csdn.net/u013411339/category_11681255.html)
 
 ##### 其他
 
@@ -136,7 +136,7 @@
 
 ### 二、NIO基础
 
- #### * [Netty系统系学习专栏](https://blog.csdn.net/u013411339/category_8689085.html)
+ #### * [Netty系统系学习专栏](https://blog.csdn.net/u013411339/category_11681261.html)
 
  * [大数据成神之路-Java高级特性增强-NIO大纲](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA-NIO.md)
  * [NIO概览](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/NIO%E6%A6%82%E8%A7%88.md)
@@ -149,7 +149,7 @@
 
  ##### 系统性学习
 
- * [多线程&并发容器学习专栏](https://blog.csdn.net/u013411339/category_11371834.html)
+ * [多线程&并发容器学习专栏](https://blog.csdn.net/u013411339/category_11681268.html)
 
  ##### 其他
 
@@ -168,7 +168,7 @@
 
 ##### 系统性学习
 
-* [JVM学习专栏](https://blog.csdn.net/u013411339/category_9285581.html)
+* [JVM学习专栏](https://blog.csdn.net/u013411339/category_11681275.html)
 
 ##### 再来10篇基础热身
 
@@ -240,11 +240,11 @@
 
 ##### Hadoop系统性总结
 
-[Hadoop系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/zqaog2)
+[Hadoop系统性总结](https://blog.csdn.net/u013411339/category_11681229.html)
 
 ##### 系统性学习
 
-[Hadoop学习专栏](https://blog.csdn.net/u013411339/category_8829706.html)
+[Hadoop学习专栏](https://blog.csdn.net/u013411339/category_11681229.html)
 
 ##### 其他
 
@@ -268,7 +268,7 @@
 
 ##### 系统性学习
 
-[Hive学习专栏](https://blog.csdn.net/u013411339/category_8829708.html)
+[Hive学习专栏](https://blog.csdn.net/u013411339/category_11681281.html)
 
 ##### 其他
 
@@ -289,7 +289,7 @@
 
 #### 系统性学习
 
-- [Spark学习专栏](https://blog.csdn.net/u013411339/category_9285580.html)
+- [Spark学习专栏](https://blog.csdn.net/u013411339/category_11681283.html)
 
 **Spark Core :**
 
@@ -325,7 +325,8 @@
 
 #### 系统性学习
 
-- [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_8631091.html)
+- [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_11681289.html)
+- [Flink高级进阶和企业级应用](https://blog.csdn.net/u013411339/category_9285579.html)
 
 #### 其他
 
@@ -370,11 +371,11 @@
 
 ##### Hbase系统性总结
 
-[Hbase系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/dl4fns)
+[Hbase系统性总结](https://blog.csdn.net/u013411339/category_11681293.html)
 
 ##### 系统性学习
 
-- [Hbase学习专栏](https://blog.csdn.net/u013411339/category_8829709.html)
+- [Hbase学习专栏](https://blog.csdn.net/u013411339/category_11681293.html)
 
 1. [Hbase 简介](大数据框架学习/Hbase简介.md)
 2. [HBase 系统架构及数据结构](大数据框架学习/Hbase系统架构及数据结构.md)
@@ -392,11 +393,11 @@
 
 ##### Kafka系统性总结
 
-[Kafka系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/xo15z2)
+[Kafka系统性总结](https://blog.csdn.net/u013411339/category_11681300.html)
 
 ##### Kafka系统性学习
 
-- [Kafka系统性学习专栏](https://blog.csdn.net/u013411339/category_8790056.html)
+- [Kafka系统性学习专栏](https://blog.csdn.net/u013411339/category_11681300.html)
 
 **Kafka基本原理 ：**
 
@@ -442,7 +443,8 @@
 
 #### 系统性学习
 
-- [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_8631091.html)
+- [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_11681289.html)
+- [Flink高级进阶和企业级应用](https://blog.csdn.net/u013411339/category_9285579.html)
 
 1. [菜鸟供应链实时技术架构演进](https://mp.weixin.qq.com/s/fnx2GnbCWNcaptVPsSp7dw)
 2. [趣头条实战-基于Flink+ClickHouse构建实时数据平台](https://mp.weixin.qq.com/s/s6YFOINMw9TKg-QVOkZT9A)
@@ -532,7 +534,7 @@
 
 ### 五、OLAP实战文章系列OLAP
 
-* [ClickHouse专栏](https://blog.csdn.net/u013411339/category_11354660.html)
+* [ClickHouse专栏](https://blog.csdn.net/u013411339/category_11681457.html)
 
 ### 六、硬刚系列文章合集
 
