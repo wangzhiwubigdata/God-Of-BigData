@@ -240,7 +240,7 @@
 
 ##### Hadoop系统性总结
 
-[Hadoop系统性总结](https://blog.csdn.net/u013411339/category_11681229.html)
+[Hadoop系统性总结](https://t.zsxq.com/eIMrjmE)
 
 ##### 系统性学习
 
@@ -263,7 +263,7 @@
 
 ##### Hive系统性总结
 
-[Hive系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/iohbnf)
+[Hive系统性总结](https://t.zsxq.com/eIMrjmE)
 
 
 ##### 系统性学习
@@ -285,7 +285,7 @@
 
 ##### Spark系统性总结
 
-[Spark系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/zske2s)
+[Spark系统性总结](https://t.zsxq.com/eIMrjmE)
 
 #### 系统性学习
 
@@ -321,7 +321,7 @@
 
 ##### Flink系统性总结
 
-[Flink系统性总结](https://www.yuque.com/wangzhiwuimportbigdata/ihf2lk/ka2x0h)
+[Flink系统性总结](https://t.zsxq.com/eIMrjmE)
 
 #### 系统性学习
 
@@ -371,7 +371,7 @@
 
 ##### Hbase系统性总结
 
-[Hbase系统性总结](https://blog.csdn.net/u013411339/category_11681293.html)
+[Hbase系统性总结](https://t.zsxq.com/eIMrjmE)
 
 ##### 系统性学习
 
@@ -393,7 +393,7 @@
 
 ##### Kafka系统性总结
 
-[Kafka系统性总结](https://blog.csdn.net/u013411339/category_11681300.html)
+[Kafka系统性总结](https://t.zsxq.com/eIMrjmE)
 
 ##### Kafka系统性学习
 
