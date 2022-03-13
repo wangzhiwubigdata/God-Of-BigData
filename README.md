@@ -21,14 +21,6 @@
  * [我们在学习Spark的时候，到底在学习什么？](https://mp.weixin.qq.com/s/pN0AqNJuFnlLjNW2OonGtA)
  * [我们在学习Kafka的时候，到底在学习什么？](https://mp.weixin.qq.com/s/AurKLpHB0XWgbBat-M7Urw)
 
-### 高屋建瓴总结篇
-
-- [Hadoop系统性总结](https://t.zsxq.com/eIMrjmE)
-- [Hive系统性总结](https://t.zsxq.com/eIMrjmE)
-- [Spark系统性总结](https://t.zsxq.com/eIMrjmE)
-- [Flink系统性总结](https://t.zsxq.com/eIMrjmE)
-- [Hbase系统性总结](https://t.zsxq.com/eIMrjmE)
-- [Kafka系统性总结](https://t.zsxq.com/eIMrjmE)
 
 <br/>
 
@@ -112,6 +104,15 @@
     </tr>
   </table>
 <br/> 
+
+### 高屋建瓴总结篇
+
+- [Hadoop系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Hive系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Spark系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Flink系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Hbase系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Kafka系统性总结](https://t.zsxq.com/eIMrjmE)
 
 
 ## 第一部分: 大数据开发基础篇
