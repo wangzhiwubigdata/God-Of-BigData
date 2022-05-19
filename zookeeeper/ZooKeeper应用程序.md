@@ -144,7 +144,7 @@ Read /config as 78
 
 ### InterrupedException
 
-当一个操作被中断时，会抛出一个InterruptedException。在JAVA中有一个标准的阻塞机制用来取消程序的执行，就是在需要阻塞的的地方调用interrupt()。如果取消执行成功，会以抛出一个InterruptedException作为结果。ZooKeeper坚持了这个标准，所以我们可以用这种方式来取消client的对ZooKeeper的操作。用到ZooKeeper的类和库需要向上抛出InterruptedException，才能使我们的client实现取消操作。
+当一个操作被中断时，会抛出一个InterruptedException。在JAVA中有一个标准的阻塞机制用来取消程序的执行，就是在需要阻塞的地方调用interrupt()。如果取消执行成功，会以抛出一个InterruptedException作为结果。ZooKeeper坚持了这个标准，所以我们可以用这种方式来取消client的对ZooKeeper的操作。用到ZooKeeper的类和库需要向上抛出InterruptedException，才能使我们的client实现取消操作。
 
 InterruptedException并不意味着程序执行失败，可能是人为设计中断的，所以在上面配置应用的例子中，当向上抛出InterruptedException时，会引起应用终止。
 

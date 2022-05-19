@@ -117,7 +117,7 @@ SelectionKey key = channel.register(selector, SelectionKey.OP_READ, theObject);
 
 **select()方法介绍：**
 
-在刚初始化的Selector对象中，这三个集合都是空的。 通过Selector的select（）方法可以选择已经准备就绪的通道 （这些通道包含你感兴趣的的事件）。比如你对读就绪的通道感兴趣，那么select（）方法就会返回读事件已经就绪的那些通道。下面是Selector几个重载的select()方法：
+在刚初始化的Selector对象中，这三个集合都是空的。 通过Selector的select（）方法可以选择已经准备就绪的通道 （这些通道包含你感兴趣的事件）。比如你对读就绪的通道感兴趣，那么select（）方法就会返回读事件已经就绪的那些通道。下面是Selector几个重载的select()方法：
 
 * int select()：阻塞到至少有一个通道在你注册的事件上就绪了。
 * int select(long timeout)：和select()一样，但最长阻塞时间为timeout毫秒。
