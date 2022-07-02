@@ -12,7 +12,7 @@
 
 ## 大数据成神之路目录
 
-- [大数据面试通关手册-八股文请交给我,你们专心刷题和面试](https://mp.weixin.qq.com/s/Tgt-lsIQNbQ9zac7Gpl8tQ)
+- [❤️❤️全网最全大数据面试通关手册!❤️❤️](https://mp.weixin.qq.com/s/Tgt-lsIQNbQ9zac7Gpl8tQ)
 
 - 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113097759)
 
