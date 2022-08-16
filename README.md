@@ -1,10 +1,9 @@
 
-<div align="center">  
-<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
-</br>
-</br>
-
+<br/>
+<div align="center">
+    <a href="https://mp.weixin.qq.com/s/gAEpoV-neR2Cuz1p-pY-Nw" style="text-decoration:none"><img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width="256px"></a>
 </div>
+<br/>
 
 
 
