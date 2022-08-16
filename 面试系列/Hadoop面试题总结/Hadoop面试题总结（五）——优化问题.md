@@ -27,7 +27,7 @@ Mapreduce 程序效率的瓶颈在于两点：
 &emsp; （3）规避使用reduce，因为Reduce在用于连接数据集的时候将会产生大量的网络消耗。  
 &emsp; （4）合理设置reduce端的buffer，默认情况下，数据达到一个阈值的时候，buffer中的数据就会写入磁盘，然后reduce会从磁盘中获得所有的数据。也就是说，buffer和reduce是没有直接关联的，中间多个一个写磁盘->读磁盘的过程，既然有这个弊端，那么就可以通过参数来配置，使得buffer中的一部分数据可以直接输送到reduce，从而减少IO开销：mapred.job.reduce.input.buffer.percent，默认为0.0。当值大于0的时候，会保留指定比例的内存读buffer中的数据直接拿给reduce使用。这样一来，设置buffer需要内存，读取数据需要内存，reduce计算也要内存，所以要根据作业的运行情况进行调整。  
 4）IO传输  
-&emsp; （1）采用数据压缩的方式，减少网络IO的的时间。安装Snappy和LZOP压缩编码器。  
+&emsp; （1）采用数据压缩的方式，减少网络IO的时间。安装Snappy和LZOP压缩编码器。  
 &emsp; （2）使用SequenceFile二进制文件  
 5）数据倾斜问题  
 &emsp; （1）数据倾斜现象 

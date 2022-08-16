@@ -122,7 +122,7 @@ java.nio.file.Files类是和java.nio.file.Path相结合使用的
                         new LinkOption[]{LinkOption.NOFOLLOW_LINKS});
         System.out.println(pathExists);//true
 ```
-注意Files.exists()的的第二个参数。它是一个数组，这个参数直接影响到Files.exists()如何确定一个路径是否存在。在本例中，这个数组内包含了LinkOptions.NOFOLLOW_LINKS，表示检测时不包含符号链接文件。
+注意Files.exists()的第二个参数。它是一个数组，这个参数直接影响到Files.exists()如何确定一个路径是否存在。在本例中，这个数组内包含了LinkOptions.NOFOLLOW_LINKS，表示检测时不包含符号链接文件。
 
 **2 创建文件/文件夹**
 

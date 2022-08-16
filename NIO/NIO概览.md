@@ -61,7 +61,7 @@ ObjectOutputStream 和所有 FilterOutputStream 的子类都是装饰流。
 
 节流的输入和输出类结构图：
 ![ad1daa76924b325f7f5a5b580c5d5872](NIO概览.resources/D96C7B52-7E5A-44FA-9EB3-6D146ADE7EEF.png)
-3）字符输入流Reader：：
+3）字符输入流Reader：
 
 FileReader、CharReader、StringReader 是三种基本的介质流，它们分在本地文件、Char 数组、String中读取数据。
 
