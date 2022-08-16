@@ -21,19 +21,13 @@
 
 
 - [❤️❤️全网最全大数据面试通关手册!❤️❤️](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
-
 - 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113097759)
-
 - 👉 如果你不知道自己要从哪开始、要学什么，请看：[**《八千里路云和月|从零到大数据专家学习路径指南》**](https://mp.weixin.qq.com/s/MAwD-UJgvIa_dZjmaykqrQ)
-
 这是一个大数据专家/架构师提升自身技术栈广度和深度的经验之路，也是我的亲身学习经历汇总！
- 
 - 👉 如果你对某一个框架的学习路径有疑惑🤔，请看下面：
- 
     - [我们在学习Flink的时候，到底在学习什么?](https://mp.weixin.qq.com/s/xh4SEX9t-fRVdoiAl0KKSQ)
     - [我们在学习Spark的时候，到底在学习什么？](https://mp.weixin.qq.com/s/pN0AqNJuFnlLjNW2OonGtA)
     - [我们在学习Kafka的时候，到底在学习什么？](https://mp.weixin.qq.com/s/AurKLpHB0XWgbBat-M7Urw)
-
 
 ------------
 
