@@ -114,12 +114,12 @@
 ------------------------------------
 ### ⛳ 高屋建瓴总结篇
 
-- [Hadoop系统性总结(知识星球读者专享)](https://t.zsxq.com/eIMrjmE)
-- [Hive系统性总结(知识星球读者专享)](https://t.zsxq.com/eIMrjmE)
-- [Spark系统性总结(知识星球读者专享)](https://t.zsxq.com/eIMrjmE)
-- [Flink系统性总结(知识星球读者专享)](https://t.zsxq.com/eIMrjmE)
-- [Hbase系统性总结(知识星球读者专享)](https://t.zsxq.com/eIMrjmE)
-- [Kafka系统性总结(知识星球读者专享)](https://t.zsxq.com/eIMrjmE)
+- [Hadoop系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Hive系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Spark系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Flink系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Hbase系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
+- [Kafka系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
 
 ---------------------------------------
 
@@ -127,7 +127,7 @@
 
 ### 一、Java基础
 
-##### 📚 1.Java系统性学习
+##### 📚 1.1 Java系统性学习
 
 - [《Java基础系统性学习专栏》](https://blog.csdn.net/u013411339/category_11681255.html)
 
@@ -145,12 +145,11 @@
 
 ### 二、NIO基础
 
-
 ##### 📚 2.1 Netty系统系学习
 
-    - [《Netty系统系学习专栏》](https://blog.csdn.net/u013411339/category_11681261.html)
+- [《Netty系统系学习专栏》](https://blog.csdn.net/u013411339/category_11681261.html)
 
-##### 2.2分类导航
+##### 2.2 分类导航
 
  * [大数据成神之路-Java高级特性增强-NIO大纲](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA-NIO.md)
  * [NIO概览](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/NIO%E6%A6%82%E8%A7%88.md)
@@ -161,11 +160,11 @@
 
 ### 三、Java并发容器
 
- ##### 系统性学习
+##### 📚 3.1 系统性学习
 
- * [多线程&并发容器学习专栏](https://blog.csdn.net/u013411339/category_11681268.html)
+- [《多线程&并发容器学习专栏》](https://blog.csdn.net/u013411339/category_11681268.html)
 
- ##### 其他
+##### 3.2 分类导航
 
  * [大数据成神之路-Java高级特性增强(并发容器大纲)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8%E5%A4%A7%E7%BA%B2).md)
  * [大数据成神之路-Java高级特性增强(LinkedBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedBlockingQueue).md)
@@ -180,11 +179,11 @@
 
 ### 四、JVM深度解析和面试点
 
-##### 系统性学习
+##### 📚 4.1 系统性学习
 
-* [JVM学习专栏](https://blog.csdn.net/u013411339/category_11681275.html)
+- [《JVM学习专栏》](https://blog.csdn.net/u013411339/category_11681275.html)
 
-##### 再来10篇基础热身
+##### 4.2 分类导航
 
 * [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
 * [HotSpot虚拟机对象探秘](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/HotSpot%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AF%B9%E8%B1%A1%E6%8E%A2%E7%A7%98.md)
@@ -197,7 +196,7 @@
 * [类加载的过程](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E7%9A%84%E8%BF%87%E7%A8%8B.md)
 * [类加载器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8.md)
 
-##### 再来5篇详细解说
+##### 4.3 JVM 详解
 
 * [java类的加载机制](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%B8%80)java%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
 * [JVM内存结构](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/JVM/jvm%E7%B3%BB%E5%88%97(%E4%BA%8C)JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.md)
@@ -252,15 +251,15 @@
 
 ### 一、Hadoop
 
-##### Hadoop系统性总结
+##### 📚 1.1 Hadoop系统性总结
 
-[Hadoop系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Hadoop系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
 
-##### 系统性学习
+##### 📚 1.2 系统性学习
 
 [Hadoop学习专栏](https://blog.csdn.net/u013411339/category_11681229.html)
 
-##### 其他
+##### 1.3 分类导航
 
 1. [分布式文件存储系统 —— HDFS](大数据框架学习/Hadoop-HDFS.md)
 2. [分布式计算框架 —— MapReduce](大数据框架学习/Hadoop-MapReduce.md)
@@ -275,16 +274,15 @@
 
 ### 二、Hive
 
-##### Hive系统性总结
+##### 📚 2.1 Hive系统性总结
 
-[Hive系统性总结](https://t.zsxq.com/eIMrjmE)
+[Hive系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
 
-
-##### 系统性学习
+##### 📚 2.2 系统性学习
 
 [Hive学习专栏](https://blog.csdn.net/u013411339/category_11681281.html)
 
-##### 其他
+##### 📚 2.3 分类导航
 
 1. [Hive 简介及核心概念](大数据框架学习/Hive简介及核心概念.md)
 2. [Linux 环境下 Hive 的安装部署](大数据框架学习/installation/Linux环境下Hive的安装部署.md)
@@ -297,11 +295,11 @@
 
 ### 三、Spark
 
-##### Spark系统性总结
+##### 📚 3.1 Spark系统性总结
 
-[Spark系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Spark系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
 
-#### 系统性学习
+####  📚 3.2 系统性学习
 
 - [Spark学习专栏](https://blog.csdn.net/u013411339/category_11681283.html)
 
@@ -333,16 +331,15 @@
 
 ## 四、Flink
 
-##### Flink系统性总结
+##### 📚 4.1 Flink系统性总结
 
-[Flink系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Flink系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
 
-#### 系统性学习
+#### 📚 4.2 系统性学习
 
 - [Flink系统学习专栏](https://blog.csdn.net/u013411339/category_11681289.html)
-- [Flink高级进阶和企业级应用](https://blog.csdn.net/u013411339/category_9285579.html)
 
-#### 其他
+#### 📚 2.3 分类导航
 
 1. [Flink 核心概念综述](大数据框架学习/Flink核心概念综述.md)
 2. [Flink 开发环境搭建](大数据框架学习/Flink开发环境搭建.md)
@@ -373,23 +370,23 @@
 * [16-Flink-Redis-Sink](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/16-Flink-Redis-Sink.md)
 * [17-Flink消费Kafka写入Mysql](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/17-Flink%E6%B6%88%E8%B4%B9Kafka%E5%86%99%E5%85%A5Mysql.md)
 
-
 #### Flink当前最火的实时计算引擎-放弃篇
 
 * [Flink漫谈系列1-概述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(1)-%E6%A6%82%E8%BF%B0.md)
 * [Flink漫谈系列2-watermark](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(02)-Watermark.md)
 * [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)-State.md)
 
-
 ## 五、HBase
 
-##### Hbase系统性总结
+##### 📚 5.1 Hbase系统性总结
 
-[Hbase系统性总结](https://t.zsxq.com/eIMrjmE)
+- [Hbase系统性总结(知识星球读者专享)](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
 
-##### 系统性学习
+##### 📚 5.2 系统性学习
 
 - [Hbase学习专栏](https://blog.csdn.net/u013411339/category_11681293.html)
+
+##### 📚 5.3 分类导航
 
 1. [Hbase 简介](大数据框架学习/Hbase简介.md)
 2. [HBase 系统架构及数据结构](大数据框架学习/Hbase系统架构及数据结构.md)
@@ -405,11 +402,11 @@
 
 ## 六、Kafka
 
-##### Kafka系统性总结
+##### 📚 6.1 Kafka系统性总结
 
 [Kafka系统性总结](https://t.zsxq.com/eIMrjmE)
 
-##### Kafka系统性学习
+##### 📚 6.2 Kafka系统性学习
 
 - [Kafka系统性学习专栏](https://blog.csdn.net/u013411339/category_11681300.html)
 
@@ -963,13 +960,28 @@
 7. [Spark面试题总结（七）——程序开发调优](面试系列/Spark面试题整理/Spark调优/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98.md)  
 8. [Spark面试题总结（八）——运行资源调优](面试系列/Spark面试题整理/Spark调优/%E8%B5%84%E6%BA%90%E8%B0%83%E4%BC%98.md)  
 
-
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
 
+----------------------
 
 ## 声明
 
-文档中参考引用了大量网络上的博客和文章，大部分给出了出处，有些没写，如果造成了侵权行为，请您联系我，立即删除~
+文档中参考引用了网络上的博客和文章，大部分给出了出处，有些没写，如果造成了侵权行为，请您联系我，立即删除~
+
+## 转载分享
+
+建立本开源项目的初衷是基于个人学习与工作中对 Java 相关技术栈的总结记录，在这里也希望能帮助一些在学习 Java 过程中遇到问题的小伙伴，如果您需要转载本仓库的一些文章到自己的博客，请按照以下格式注明出处，谢谢合作。
+
+```
+作者：王知无
+链接：https://mp.weixin.qq.com/s/0N4XSMFPuD7U_paGsBsblw
+来源：《大数据技术与架构》
+```
+
+## 参与贡献
+
+1. 如果您对本项目有任何建议或发现文中内容有误的，欢迎提交 issues 进行指正。
+2. 对于文中我没有涉及到知识点，欢迎提交 PR。
 
 ## 扫我关注公众号
 
@@ -977,15 +989,9 @@
 
 <div align="center"> <img width="350px" src="qrcodes/wechat01.png"/> </div>
 
-**扫我加我好友,打造价值40万Offer朋友圈!**
+**扫我加我好友,打造高质量、高知识密度朋友圈!**
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
-
-## 如果对你有用，欢迎请我喝杯咖啡
-
-备注Gitub，感谢您～
-
-<div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
 
 ## 扫我加群
 
@@ -993,11 +999,11 @@
 
 <div align="center"> <img width="350px" src="qrcodes/个人微信.jpg"/> </div>
 
-## 为什么有这个文档
+## 如果对你有用，欢迎请我喝杯咖啡
 
-- 以前这里只是几个txt文档
-- 是我面试腾讯阿里美团等公司大数据开发工程师的过程中总结出来的大数据开发的必知必会的知识点~
-- 后续更新在微信公众号更新，欢迎关注~
+备注Github，感谢您～
+
+<div align="center"> <img width="350px" src="qrcodes/wechat02.jpeg"/> </div>
 
 ## 言而总之
 
