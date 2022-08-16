@@ -4,14 +4,16 @@
 </br>
 </br>
 
+</div>
+
+
+
 🔥 关注[**公众号**](https://mmbiz.qpic.cn/mmbiz_png/UdK9ByfMT2P8ylc0r5wg2SEHk9LxuL6xRMiczG82lZNwzVmm6otcpd26yZIDqOvbTIeNb2FdYZYatHvsoH6TbVg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-🔥 加我 [**好友**](https://mmbiz.qpic.cn/mmbiz_png/UdK9ByfMT2NLwWPfib27wK2aK6iaCicBu4VseYibyGQdiagT6zcMSTXbITlV5Wl3lq8T3icMt4ibtjGat0j4dqSnqf43A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)~
+🔥 加我 [**好友**](https://mmbiz.qpic.cn/mmbiz_png/UdK9ByfMT2NLwWPfib27wK2aK6iaCicBu4VseYibyGQdiagT6zcMSTXbITlV5Wl3lq8T3icMt4ibtjGat0j4dqSnqf43A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 🔥 关注 [**B站**](https://space.bilibili.com/22021870)
 
-
-</div>
 
 ## 🚜 **大数据成神之路目录**
 
