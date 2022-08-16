@@ -14,7 +14,6 @@
 ### ⛳ 上车前必读
 
 
-
 - [❤️❤️全网最全大数据面试通关手册!❤️❤️](https://mp.weixin.qq.com/s/HJMolm5vMDbGWmprrxkzvA)
 
 - 图片打不开，点[这里](https://blog.csdn.net/u013411339/article/details/113097759)
@@ -30,9 +29,10 @@
  * [我们在学习Kafka的时候，到底在学习什么？](https://mp.weixin.qq.com/s/AurKLpHB0XWgbBat-M7Urw)
 
 
-<br/>
+------------
 
-### 大数据开发基础篇
+
+### ⛳ 大数据开发基础篇
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
 | :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------:|
 | [Java基础](#一Java基础) | [NIO](#二NIO基础) | [并发容器](#三Java并发容器) |[JVM](#四JVM深度解析和面试点) |[分布式](#五分布式理论基础和原理) |[zookeeper](#六大数据框架开发基础-zookeeper)|[RPC](#七大数据框架开发基础-RPC)|[Netty](#八大数据框架基石之网路通信-Netty)|[Linux](/Linux基础/Linux基础和命令.md)|
