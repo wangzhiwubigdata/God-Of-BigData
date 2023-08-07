@@ -152,7 +152,7 @@ HBase的查询实现只提供两种方式：
 &emsp; &emsp; 假如我的查询条件比较多，而且不是针对列的条件，那么rowKey的设计就应该支持多条件查询。   
 &emsp; &emsp; 如果我的查询要求是最近插入的数据优先，那么rowKey则可以采用叫上Long.Max-时间戳的方式，这样rowKey就是递减排列。  
 &emsp; ② 列族的设计：列族的设计需要看应用场景     
-&emsp; &emsp; 优势：HBase中数据时按列进行存储的，那么查询某一列族的某一列时就不需要全盘扫描，只需要扫描某一列族，减少了读I/O；
+&emsp; &emsp; 优势：HBase中数据时按列簇进行存储的，那么查询某一列族的某一列时就不需要全盘扫描，只需要扫描某一列族，减少了读I/O；
 其实多列族设计对减少的作用不是很明显，适用于读多写少的场景  
 &emsp; &emsp; 劣势：降低了写的I/O性能。原因如下：数据写到store以后是先缓存在memstore中，同一个region中存在多个列族则存在多个store，
 每个store都一个memstore，当其实memstore进行flush时，属于同一个region的store中的memstore都会进行flush，增加I/O开销。  
